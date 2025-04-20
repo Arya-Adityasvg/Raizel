@@ -1,0 +1,18 @@
+2025-04-09 17:14:54,859 - INFO - Created output directory: generated_data
+2025-04-09 17:14:54,910 - INFO - Generating student academic records...
+2025-04-09 17:14:54,921 - INFO - DataFrame validation successful with columns: ['Name', 'Registration_Number', 'Course', 'Semester_1_GPA', 'Semester_2_GPA', 'Semester_3_GPA', 'Semester_4_GPA']
+2025-04-09 17:14:54,924 - INFO - Successfully saved generated_data\Students_Academic_Records.csv
+2025-04-09 17:14:54,924 - INFO - Verified file exists: generated_data\Students_Academic_Records.csv (Size: 15162 bytes)
+2025-04-09 17:14:54,925 - INFO - Generating subject-wise marks...
+2025-04-09 17:14:54,932 - INFO - DataFrame validation successful with columns: ['Registration_Number', 'Semester', 'Subject', 'Marks']
+2025-04-09 17:14:54,939 - INFO - Successfully saved generated_data\SubjectWise_Marks.csv
+2025-04-09 17:14:54,939 - INFO - Verified file exists: generated_data\SubjectWise_Marks.csv (Size: 163393 bytes)
+2025-04-09 17:14:54,940 - INFO - Generating academic calendar...
+2025-04-09 17:14:54,941 - INFO - DataFrame validation successful with columns: ['Event_Name', 'Event_Type', 'Date', 'Course (Optional)']
+2025-04-09 17:14:54,942 - INFO - Successfully saved generated_data\Academic_Calendar.csv
+2025-04-09 17:14:54,943 - INFO - Verified file exists: generated_data\Academic_Calendar.csv (Size: 1897 bytes)
+2025-04-09 17:14:54,943 - INFO - Generating student course details...
+2025-04-09 17:14:54,943 - INFO - DataFrame validation successful with columns: ['Registration_Number', 'Department', 'Enrollment_Year', 'Expected_Graduation']
+2025-04-09 17:14:54,945 - INFO - Successfully saved generated_data\Student_Course_Details.csv
+2025-04-09 17:14:54,945 - INFO - Verified file exists: generated_data\Student_Course_Details.csv (Size: 10277 bytes)
+2025-04-09 17:14:54,945 - INFO - All CSV files generated successfully!

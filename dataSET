@@ -1,0 +1,157 @@
+import pandas as pd
+import numpy as np
+from faker import Faker
+import random
+from datetime import datetime, timedelta
+import os
+import logging
+
+# Set up logging with more detailed format
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler(),
+        logging.FileHandler('dataset_generation.log')
+    ]
+)
+logger = logging.getLogger(__name__)
+
+# Create output directory
+OUTPUT_DIR = "generated_data"
+try:
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
+        logger.info(f"Created output directory: {OUTPUT_DIR}")
+except Exception as e:
+    logger.error(f"Failed to create output directory: {str(e)}")
+    raise
+
+def validate_dataframe(df, required_columns):
+    """Validate if DataFrame contains all required columns and has no null values."""
+    missing_columns = [col for col in required_columns if col not in df.columns]
+    if missing_columns:
+        raise ValueError(f"Missing required columns: {missing_columns}")
+    if df.isnull().any().any():
+        raise ValueError("DataFrame contains null values")
+    logger.info(f"DataFrame validation successful with columns: {df.columns.tolist()}")
+
+def save_to_csv(df, filename):
+    """Safely save DataFrame to CSV with error handling."""
+    try:
+        filepath = os.path.join(OUTPUT_DIR, filename)
+        df.to_csv(filepath, index=False)
+        logger.info(f"Successfully saved {filepath}")
+        # Verify file was created
+        if os.path.exists(filepath):
+            logger.info(f"Verified file exists: {filepath} (Size: {os.path.getsize(filepath)} bytes)")
+        else:
+            raise FileNotFoundError(f"File was not created: {filepath}")
+    except Exception as e:
+        logger.error(f"Error saving {filename}: {str(e)}")
+        raise
+
+# Initialize Faker for fake names
+fake = Faker('en_IN')  # Indian names
+random.seed(42)
+
+# Courses and Departments
+courses = ["Computer Science", "Electrical Engineering", "Mechanical Engineering", "Biotechnology", "Civil Engineering"]
+departments = courses  # Assuming department names align with courses
+
+# Subjects per Course (Example)
+subjects = {
+    "Computer Science": ["Data Structures", "Algorithms", "Database Systems", "Operating Systems", "Discrete Mathematics"],
+    "Electrical Engineering": ["Circuit Analysis", "Digital Electronics", "Power Systems", "Control Systems", "Signals & Systems"],
+    "Mechanical Engineering": ["Thermodynamics", "Fluid Mechanics", "Machine Design", "Material Science", "Robotics"],
+    "Biotechnology": ["Biochemistry", "Genetics", "Cell Biology", "Microbiology", "Bioinformatics"],
+    "Civil Engineering": ["Structural Analysis", "Geotechnical Engineering", "Transportation Engineering", "Hydrology", "Surveying"]
+}
+
+try:
+    # Generate Student Academic Records (250 students)
+    logger.info("Generating student academic records...")
+    students = []
+    for i in range(1, 251):
+        name = fake.name()
+        reg_number = f"REG2023{i:03d}"
+        course = random.choice(courses)
+        # Generate semester GPAs (2.0 to 4.0 scale, with slight progression)
+        sem_gpa = [round(np.clip(random.uniform(2.5, 4.0), 2.0, 4.0), 1) for _ in range(4)]
+        students.append({
+            "Name": name,
+            "Registration_Number": reg_number,
+            "Course": course,
+            "Semester_1_GPA": sem_gpa[0],
+            "Semester_2_GPA": sem_gpa[1],
+            "Semester_3_GPA": sem_gpa[2],
+            "Semester_4_GPA": sem_gpa[3]
+        })
+
+    students_df = pd.DataFrame(students)
+    validate_dataframe(students_df, ["Name", "Registration_Number", "Course", "Semester_1_GPA", "Semester_2_GPA", "Semester_3_GPA", "Semester_4_GPA"])
+    save_to_csv(students_df, "Students_Academic_Records.csv")
+
+    # Generate Subject-wise Marks (5 subjects per semester, 4 semesters)
+    logger.info("Generating subject-wise marks...")
+    marks_data = []
+    for student in students:
+        reg_number = student["Registration_Number"]
+        course = student["Course"]
+        for semester in range(1, 5):
+            for subject in subjects[course]:
+                marks = random.randint(50, 100)  # Marks between 50-100
+                marks_data.append({
+                    "Registration_Number": reg_number,
+                    "Semester": semester,
+                    "Subject": subject,
+                    "Marks": marks
+                })
+
+    marks_df = pd.DataFrame(marks_data)
+    validate_dataframe(marks_df, ["Registration_Number", "Semester", "Subject", "Marks"])
+    save_to_csv(marks_df, "SubjectWise_Marks.csv")
+
+    # Generate Academic Calendar (30 events)
+    logger.info("Generating academic calendar...")
+    event_types = ["Quiz", "Practical Exam", "Workshop", "Lecture", "Seminar", "Assignment Submission"]
+    events = []
+    start_date = datetime(2023, 10, 1)
+    for i in range(30):
+        event_name = f"{random.choice(event_types)} - {fake.word().capitalize()}"
+        event_type = random.choice(event_types)
+        date = start_date + timedelta(days=random.randint(0, 180))  # Spread over 6 months
+        course = random.choice(["All"] + courses)  # Some events apply to all
+        events.append({
+            "Event_Name": event_name,
+            "Event_Type": event_type,
+            "Date": date.strftime("%Y-%m-%d"),
+            "Course (Optional)": course if course != "All" else ""
+        })
+
+    calendar_df = pd.DataFrame(events)
+    validate_dataframe(calendar_df, ["Event_Name", "Event_Type", "Date", "Course (Optional)"])
+    save_to_csv(calendar_df, "Academic_Calendar.csv")
+
+    # Generate Student Course Details
+    logger.info("Generating student course details...")
+    course_details = []
+    for student in students:
+        reg_number = student["Registration_Number"]
+        course = student["Course"]
+        course_details.append({
+            "Registration_Number": reg_number,
+            "Department": course,
+            "Enrollment_Year": 2023,
+            "Expected_Graduation": 2027  # Assuming a 4-year course
+        })
+
+    course_details_df = pd.DataFrame(course_details)
+    validate_dataframe(course_details_df, ["Registration_Number", "Department", "Enrollment_Year", "Expected_Graduation"])
+    save_to_csv(course_details_df, "Student_Course_Details.csv")
+
+    logger.info("All CSV files generated successfully!")
+
+except Exception as e:
+    logger.error(f"An error occurred: {str(e)}")
+    raise

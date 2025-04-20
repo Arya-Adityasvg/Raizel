@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raizel Diagnostic Tool</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .result {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            white-space: pre-wrap;
+            font-family: monospace;
+        }
+        .error {
+            color: red;
+        }
+        .success {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Raizel Diagnostic Tool</h1>
+        <p>This tool will help diagnose issues with the Raizel application.</p>
+        
+        <div class="section">
+            <h2>1. Check API Endpoints</h2>
+            <button id="check-dashboard">Check Dashboard API</button>
+            <button id="check-chat">Check Chat API</button>
+            <div id="api-result" class="result">Results will appear here...</div>
+        </div>
+        
+        <div class="section">
+            <h2>2. Check CSV Data</h2>
+            <button id="check-csv">Check CSV Files</button>
+            <div id="csv-result" class="result">Results will appear here...</div>
+        </div>
+        
+        <div class="section">
+            <h2>3. Check Voice Processing</h2>
+            <button id="check-voice">Test Voice Processing</button>
+            <div id="voice-result" class="result">Results will appear here...</div>
+        </div>
+        
+        <div class="section">
+            <h2>4. Browser Console</h2>
+            <p>Open your browser's developer tools (F12 or right-click and select "Inspect") and check the Console tab for any errors.</p>
+            <p>Common errors to look for:</p>
+            <ul>
+                <li>404 Not Found: API endpoints not accessible</li>
+                <li>CORS errors: Cross-Origin Resource Sharing issues</li>
+                <li>JavaScript syntax errors</li>
+                <li>Network errors: Failed to fetch resources</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        // Check Dashboard API
+        document.getElementById('check-dashboard').addEventListener('click', async () => {
+            const resultDiv = document.getElementById('api-result');
+            resultDiv.textContent = 'Checking Dashboard API...';
+            
+            try {
+                const response = await fetch('/api/dashboard');
+                const data = await response.json();
+                
+                if (data.error) {
+                    resultDiv.innerHTML = `<span class="error">Error: ${data.error}</span>`;
+                } else {
+                    resultDiv.innerHTML = `<span class="success">Success! Dashboard data loaded.</span><br>Profile: ${JSON.stringify(data.profile, null, 2)}`;
+                }
+            } catch (error) {
+                resultDiv.innerHTML = `<span class="error">Error: ${error.message}</span>`;
+            }
+        });
+        
+        // Check Chat API
+        document.getElementById('check-chat').addEventListener('click', async () => {
+            const resultDiv = document.getElementById('api-result');
+            resultDiv.textContent = 'Checking Chat API...';
+            
+            try {
+                const response = await fetch('/api/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ message: 'Hello' }),
+                });
+                
+                const data = await response.json();
+                
+                if (data.error) {
+                    resultDiv.innerHTML = `<span class="error">Error: ${data.error}</span>`;
+                } else {
+                    resultDiv.innerHTML = `<span class="success">Success! Chat response: ${data.response}</span>`;
+                }
+            } catch (error) {
+                resultDiv.innerHTML = `<span class="error">Error: ${error.message}</span>`;
+            }
+        });
+        
+        // Check CSV Files
+        document.getElementById('check-csv').addEventListener('click', async () => {
+            const resultDiv = document.getElementById('csv-result');
+            resultDiv.textContent = 'Checking CSV Files...';
+            
+            try {
+                const response = await fetch('/api/dashboard');
+                const data = await response.json();
+                
+                if (data.error) {
+                    resultDiv.innerHTML = `<span class="error">Error: ${data.error}</span>`;
+                } else {
+                    let csvStatus = '<span class="success">CSV Files Status:</span><br>';
+                    
+                    if (data.profile) {
+                        csvStatus += '✅ Students_Academic_Records.csv loaded<br>';
+                    } else {
+                        csvStatus += '❌ Students_Academic_Records.csv not loaded<br>';
+                    }
+                    
+                    if (data.upcoming_tasks && data.upcoming_tasks.length > 0) {
+                        csvStatus += '✅ Academic_Calendar.csv loaded<br>';
+                    } else {
+                        csvStatus += '❌ Academic_Calendar.csv not loaded<br>';
+                    }
+                    
+                    if (data.marks && data.marks.length > 0) {
+                        csvStatus += '✅ SubjectWise_Marks.csv loaded<br>';
+                    } else {
+                        csvStatus += '❌ SubjectWise_Marks.csv not loaded<br>';
+                    }
+                    
+                    if (data.courses && data.courses.length > 0) {
+                        csvStatus += '✅ Student_Course_Details.csv loaded<br>';
+                    } else {
+                        csvStatus += '❌ Student_Course_Details.csv not loaded<br>';
+                    }
+                    
+                    resultDiv.innerHTML = csvStatus;
+                }
+            } catch (error) {
+                resultDiv.innerHTML = `<span class="error">Error: ${error.message}</span>`;
+            }
+        });
+        
+        // Check Voice Processing
+        document.getElementById('check-voice').addEventListener('click', async () => {
+            const resultDiv = document.getElementById('voice-result');
+            resultDiv.textContent = 'Testing Voice Processing...';
+            
+            try {
+                // Create a simple audio blob for testing
+                const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                const oscillator = audioContext.createOscillator();
+                const gainNode = audioContext.createGain();
+                
+                oscillator.connect(gainNode);
+                gainNode.connect(audioContext.destination);
+                
+                oscillator.start();
+                gainNode.gain.setValueAtTime(0, audioContext.currentTime);
+                gainNode.gain.linearRampToValueAtTime(0.1, audioContext.currentTime + 0.1);
+                gainNode.gain.linearRampToValueAtTime(0, audioContext.currentTime + 0.5);
+                
+                setTimeout(() => {
+                    oscillator.stop();
+                    resultDiv.innerHTML = '<span class="success">Audio context initialized successfully.</span><br>Note: This only tests if your browser can create audio. For full voice processing, you need to use the microphone.</span>';
+                }, 600);
+            } catch (error) {
+                resultDiv.innerHTML = `<span class="error">Error: ${error.message}</span>`;
+            }
+        });
+    </script>
+</body>
+</html> 

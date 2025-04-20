@@ -1,0 +1,5001 @@
+Registration_Number,Semester,Subject,Marks
+REG2023001,1,Data Structures,83
+REG2023001,1,Algorithms,55
+REG2023001,1,Database Systems,75
+REG2023001,1,Operating Systems,69
+REG2023001,1,Discrete Mathematics,97
+REG2023001,2,Data Structures,71
+REG2023001,2,Algorithms,64
+REG2023001,2,Database Systems,71
+REG2023001,2,Operating Systems,99
+REG2023001,2,Discrete Mathematics,60
+REG2023001,3,Data Structures,54
+REG2023001,3,Algorithms,82
+REG2023001,3,Database Systems,90
+REG2023001,3,Operating Systems,57
+REG2023001,3,Discrete Mathematics,83
+REG2023001,4,Data Structures,82
+REG2023001,4,Algorithms,62
+REG2023001,4,Database Systems,99
+REG2023001,4,Operating Systems,72
+REG2023001,4,Discrete Mathematics,72
+REG2023002,1,Structural Analysis,96
+REG2023002,1,Geotechnical Engineering,91
+REG2023002,1,Transportation Engineering,59
+REG2023002,1,Hydrology,65
+REG2023002,1,Surveying,56
+REG2023002,2,Structural Analysis,59
+REG2023002,2,Geotechnical Engineering,66
+REG2023002,2,Transportation Engineering,62
+REG2023002,2,Hydrology,61
+REG2023002,2,Surveying,88
+REG2023002,3,Structural Analysis,59
+REG2023002,3,Geotechnical Engineering,98
+REG2023002,3,Transportation Engineering,98
+REG2023002,3,Hydrology,91
+REG2023002,3,Surveying,54
+REG2023002,4,Structural Analysis,61
+REG2023002,4,Geotechnical Engineering,99
+REG2023002,4,Transportation Engineering,90
+REG2023002,4,Hydrology,81
+REG2023002,4,Surveying,79
+REG2023003,1,Structural Analysis,98
+REG2023003,1,Geotechnical Engineering,86
+REG2023003,1,Transportation Engineering,98
+REG2023003,1,Hydrology,87
+REG2023003,1,Surveying,78
+REG2023003,2,Structural Analysis,93
+REG2023003,2,Geotechnical Engineering,86
+REG2023003,2,Transportation Engineering,91
+REG2023003,2,Hydrology,90
+REG2023003,2,Surveying,89
+REG2023003,3,Structural Analysis,70
+REG2023003,3,Geotechnical Engineering,90
+REG2023003,3,Transportation Engineering,70
+REG2023003,3,Hydrology,59
+REG2023003,3,Surveying,78
+REG2023003,4,Structural Analysis,54
+REG2023003,4,Geotechnical Engineering,80
+REG2023003,4,Transportation Engineering,78
+REG2023003,4,Hydrology,90
+REG2023003,4,Surveying,69
+REG2023004,1,Biochemistry,100
+REG2023004,1,Genetics,67
+REG2023004,1,Cell Biology,87
+REG2023004,1,Microbiology,53
+REG2023004,1,Bioinformatics,72
+REG2023004,2,Biochemistry,82
+REG2023004,2,Genetics,54
+REG2023004,2,Cell Biology,69
+REG2023004,2,Microbiology,79
+REG2023004,2,Bioinformatics,78
+REG2023004,3,Biochemistry,52
+REG2023004,3,Genetics,53
+REG2023004,3,Cell Biology,73
+REG2023004,3,Microbiology,68
+REG2023004,3,Bioinformatics,54
+REG2023004,4,Biochemistry,91
+REG2023004,4,Genetics,55
+REG2023004,4,Cell Biology,89
+REG2023004,4,Microbiology,88
+REG2023004,4,Bioinformatics,82
+REG2023005,1,Circuit Analysis,74
+REG2023005,1,Digital Electronics,79
+REG2023005,1,Power Systems,87
+REG2023005,1,Control Systems,85
+REG2023005,1,Signals & Systems,100
+REG2023005,2,Circuit Analysis,97
+REG2023005,2,Digital Electronics,52
+REG2023005,2,Power Systems,78
+REG2023005,2,Control Systems,86
+REG2023005,2,Signals & Systems,91
+REG2023005,3,Circuit Analysis,62
+REG2023005,3,Digital Electronics,70
+REG2023005,3,Power Systems,88
+REG2023005,3,Control Systems,80
+REG2023005,3,Signals & Systems,82
+REG2023005,4,Circuit Analysis,59
+REG2023005,4,Digital Electronics,53
+REG2023005,4,Power Systems,78
+REG2023005,4,Control Systems,56
+REG2023005,4,Signals & Systems,71
+REG2023006,1,Thermodynamics,95
+REG2023006,1,Fluid Mechanics,55
+REG2023006,1,Machine Design,82
+REG2023006,1,Material Science,91
+REG2023006,1,Robotics,61
+REG2023006,2,Thermodynamics,52
+REG2023006,2,Fluid Mechanics,65
+REG2023006,2,Machine Design,95
+REG2023006,2,Material Science,78
+REG2023006,2,Robotics,78
+REG2023006,3,Thermodynamics,83
+REG2023006,3,Fluid Mechanics,83
+REG2023006,3,Machine Design,89
+REG2023006,3,Material Science,60
+REG2023006,3,Robotics,73
+REG2023006,4,Thermodynamics,73
+REG2023006,4,Fluid Mechanics,68
+REG2023006,4,Machine Design,74
+REG2023006,4,Material Science,76
+REG2023006,4,Robotics,99
+REG2023007,1,Thermodynamics,71
+REG2023007,1,Fluid Mechanics,93
+REG2023007,1,Machine Design,88
+REG2023007,1,Material Science,53
+REG2023007,1,Robotics,100
+REG2023007,2,Thermodynamics,90
+REG2023007,2,Fluid Mechanics,91
+REG2023007,2,Machine Design,71
+REG2023007,2,Material Science,54
+REG2023007,2,Robotics,71
+REG2023007,3,Thermodynamics,56
+REG2023007,3,Fluid Mechanics,85
+REG2023007,3,Machine Design,93
+REG2023007,3,Material Science,74
+REG2023007,3,Robotics,68
+REG2023007,4,Thermodynamics,66
+REG2023007,4,Fluid Mechanics,96
+REG2023007,4,Machine Design,92
+REG2023007,4,Material Science,88
+REG2023007,4,Robotics,59
+REG2023008,1,Biochemistry,71
+REG2023008,1,Genetics,55
+REG2023008,1,Cell Biology,87
+REG2023008,1,Microbiology,92
+REG2023008,1,Bioinformatics,59
+REG2023008,2,Biochemistry,72
+REG2023008,2,Genetics,69
+REG2023008,2,Cell Biology,91
+REG2023008,2,Microbiology,94
+REG2023008,2,Bioinformatics,92
+REG2023008,3,Biochemistry,75
+REG2023008,3,Genetics,58
+REG2023008,3,Cell Biology,88
+REG2023008,3,Microbiology,95
+REG2023008,3,Bioinformatics,55
+REG2023008,4,Biochemistry,69
+REG2023008,4,Genetics,85
+REG2023008,4,Cell Biology,74
+REG2023008,4,Microbiology,91
+REG2023008,4,Bioinformatics,100
+REG2023009,1,Thermodynamics,71
+REG2023009,1,Fluid Mechanics,58
+REG2023009,1,Machine Design,92
+REG2023009,1,Material Science,94
+REG2023009,1,Robotics,97
+REG2023009,2,Thermodynamics,93
+REG2023009,2,Fluid Mechanics,83
+REG2023009,2,Machine Design,55
+REG2023009,2,Material Science,91
+REG2023009,2,Robotics,92
+REG2023009,3,Thermodynamics,77
+REG2023009,3,Fluid Mechanics,82
+REG2023009,3,Machine Design,73
+REG2023009,3,Material Science,51
+REG2023009,3,Robotics,73
+REG2023009,4,Thermodynamics,69
+REG2023009,4,Fluid Mechanics,61
+REG2023009,4,Machine Design,63
+REG2023009,4,Material Science,71
+REG2023009,4,Robotics,99
+REG2023010,1,Thermodynamics,81
+REG2023010,1,Fluid Mechanics,62
+REG2023010,1,Machine Design,64
+REG2023010,1,Material Science,58
+REG2023010,1,Robotics,59
+REG2023010,2,Thermodynamics,54
+REG2023010,2,Fluid Mechanics,68
+REG2023010,2,Machine Design,100
+REG2023010,2,Material Science,56
+REG2023010,2,Robotics,82
+REG2023010,3,Thermodynamics,99
+REG2023010,3,Fluid Mechanics,84
+REG2023010,3,Machine Design,97
+REG2023010,3,Material Science,83
+REG2023010,3,Robotics,52
+REG2023010,4,Thermodynamics,92
+REG2023010,4,Fluid Mechanics,71
+REG2023010,4,Machine Design,99
+REG2023010,4,Material Science,89
+REG2023010,4,Robotics,58
+REG2023011,1,Biochemistry,88
+REG2023011,1,Genetics,74
+REG2023011,1,Cell Biology,59
+REG2023011,1,Microbiology,60
+REG2023011,1,Bioinformatics,61
+REG2023011,2,Biochemistry,94
+REG2023011,2,Genetics,99
+REG2023011,2,Cell Biology,89
+REG2023011,2,Microbiology,60
+REG2023011,2,Bioinformatics,96
+REG2023011,3,Biochemistry,78
+REG2023011,3,Genetics,52
+REG2023011,3,Cell Biology,76
+REG2023011,3,Microbiology,73
+REG2023011,3,Bioinformatics,93
+REG2023011,4,Biochemistry,96
+REG2023011,4,Genetics,65
+REG2023011,4,Cell Biology,78
+REG2023011,4,Microbiology,89
+REG2023011,4,Bioinformatics,68
+REG2023012,1,Thermodynamics,98
+REG2023012,1,Fluid Mechanics,97
+REG2023012,1,Machine Design,100
+REG2023012,1,Material Science,78
+REG2023012,1,Robotics,64
+REG2023012,2,Thermodynamics,84
+REG2023012,2,Fluid Mechanics,65
+REG2023012,2,Machine Design,69
+REG2023012,2,Material Science,100
+REG2023012,2,Robotics,80
+REG2023012,3,Thermodynamics,62
+REG2023012,3,Fluid Mechanics,73
+REG2023012,3,Machine Design,93
+REG2023012,3,Material Science,86
+REG2023012,3,Robotics,78
+REG2023012,4,Thermodynamics,79
+REG2023012,4,Fluid Mechanics,99
+REG2023012,4,Machine Design,68
+REG2023012,4,Material Science,99
+REG2023012,4,Robotics,74
+REG2023013,1,Structural Analysis,82
+REG2023013,1,Geotechnical Engineering,83
+REG2023013,1,Transportation Engineering,76
+REG2023013,1,Hydrology,60
+REG2023013,1,Surveying,62
+REG2023013,2,Structural Analysis,88
+REG2023013,2,Geotechnical Engineering,58
+REG2023013,2,Transportation Engineering,66
+REG2023013,2,Hydrology,53
+REG2023013,2,Surveying,91
+REG2023013,3,Structural Analysis,80
+REG2023013,3,Geotechnical Engineering,73
+REG2023013,3,Transportation Engineering,85
+REG2023013,3,Hydrology,56
+REG2023013,3,Surveying,95
+REG2023013,4,Structural Analysis,83
+REG2023013,4,Geotechnical Engineering,57
+REG2023013,4,Transportation Engineering,68
+REG2023013,4,Hydrology,55
+REG2023013,4,Surveying,98
+REG2023014,1,Structural Analysis,60
+REG2023014,1,Geotechnical Engineering,67
+REG2023014,1,Transportation Engineering,78
+REG2023014,1,Hydrology,82
+REG2023014,1,Surveying,59
+REG2023014,2,Structural Analysis,77
+REG2023014,2,Geotechnical Engineering,55
+REG2023014,2,Transportation Engineering,64
+REG2023014,2,Hydrology,78
+REG2023014,2,Surveying,72
+REG2023014,3,Structural Analysis,51
+REG2023014,3,Geotechnical Engineering,76
+REG2023014,3,Transportation Engineering,53
+REG2023014,3,Hydrology,75
+REG2023014,3,Surveying,82
+REG2023014,4,Structural Analysis,73
+REG2023014,4,Geotechnical Engineering,65
+REG2023014,4,Transportation Engineering,74
+REG2023014,4,Hydrology,55
+REG2023014,4,Surveying,73
+REG2023015,1,Data Structures,64
+REG2023015,1,Algorithms,51
+REG2023015,1,Database Systems,70
+REG2023015,1,Operating Systems,56
+REG2023015,1,Discrete Mathematics,95
+REG2023015,2,Data Structures,91
+REG2023015,2,Algorithms,71
+REG2023015,2,Database Systems,100
+REG2023015,2,Operating Systems,59
+REG2023015,2,Discrete Mathematics,58
+REG2023015,3,Data Structures,52
+REG2023015,3,Algorithms,68
+REG2023015,3,Database Systems,80
+REG2023015,3,Operating Systems,94
+REG2023015,3,Discrete Mathematics,58
+REG2023015,4,Data Structures,98
+REG2023015,4,Algorithms,95
+REG2023015,4,Database Systems,80
+REG2023015,4,Operating Systems,78
+REG2023015,4,Discrete Mathematics,89
+REG2023016,1,Structural Analysis,50
+REG2023016,1,Geotechnical Engineering,55
+REG2023016,1,Transportation Engineering,51
+REG2023016,1,Hydrology,66
+REG2023016,1,Surveying,63
+REG2023016,2,Structural Analysis,59
+REG2023016,2,Geotechnical Engineering,85
+REG2023016,2,Transportation Engineering,96
+REG2023016,2,Hydrology,88
+REG2023016,2,Surveying,83
+REG2023016,3,Structural Analysis,77
+REG2023016,3,Geotechnical Engineering,57
+REG2023016,3,Transportation Engineering,99
+REG2023016,3,Hydrology,68
+REG2023016,3,Surveying,65
+REG2023016,4,Structural Analysis,69
+REG2023016,4,Geotechnical Engineering,57
+REG2023016,4,Transportation Engineering,53
+REG2023016,4,Hydrology,65
+REG2023016,4,Surveying,76
+REG2023017,1,Biochemistry,90
+REG2023017,1,Genetics,100
+REG2023017,1,Cell Biology,89
+REG2023017,1,Microbiology,79
+REG2023017,1,Bioinformatics,54
+REG2023017,2,Biochemistry,57
+REG2023017,2,Genetics,81
+REG2023017,2,Cell Biology,88
+REG2023017,2,Microbiology,84
+REG2023017,2,Bioinformatics,51
+REG2023017,3,Biochemistry,90
+REG2023017,3,Genetics,82
+REG2023017,3,Cell Biology,86
+REG2023017,3,Microbiology,65
+REG2023017,3,Bioinformatics,95
+REG2023017,4,Biochemistry,59
+REG2023017,4,Genetics,68
+REG2023017,4,Cell Biology,77
+REG2023017,4,Microbiology,50
+REG2023017,4,Bioinformatics,89
+REG2023018,1,Structural Analysis,72
+REG2023018,1,Geotechnical Engineering,65
+REG2023018,1,Transportation Engineering,86
+REG2023018,1,Hydrology,76
+REG2023018,1,Surveying,61
+REG2023018,2,Structural Analysis,92
+REG2023018,2,Geotechnical Engineering,92
+REG2023018,2,Transportation Engineering,55
+REG2023018,2,Hydrology,83
+REG2023018,2,Surveying,73
+REG2023018,3,Structural Analysis,54
+REG2023018,3,Geotechnical Engineering,83
+REG2023018,3,Transportation Engineering,84
+REG2023018,3,Hydrology,82
+REG2023018,3,Surveying,100
+REG2023018,4,Structural Analysis,82
+REG2023018,4,Geotechnical Engineering,85
+REG2023018,4,Transportation Engineering,51
+REG2023018,4,Hydrology,74
+REG2023018,4,Surveying,80
+REG2023019,1,Circuit Analysis,52
+REG2023019,1,Digital Electronics,90
+REG2023019,1,Power Systems,74
+REG2023019,1,Control Systems,73
+REG2023019,1,Signals & Systems,66
+REG2023019,2,Circuit Analysis,97
+REG2023019,2,Digital Electronics,51
+REG2023019,2,Power Systems,72
+REG2023019,2,Control Systems,100
+REG2023019,2,Signals & Systems,54
+REG2023019,3,Circuit Analysis,72
+REG2023019,3,Digital Electronics,65
+REG2023019,3,Power Systems,96
+REG2023019,3,Control Systems,92
+REG2023019,3,Signals & Systems,90
+REG2023019,4,Circuit Analysis,56
+REG2023019,4,Digital Electronics,99
+REG2023019,4,Power Systems,87
+REG2023019,4,Control Systems,97
+REG2023019,4,Signals & Systems,98
+REG2023020,1,Circuit Analysis,71
+REG2023020,1,Digital Electronics,58
+REG2023020,1,Power Systems,52
+REG2023020,1,Control Systems,72
+REG2023020,1,Signals & Systems,84
+REG2023020,2,Circuit Analysis,71
+REG2023020,2,Digital Electronics,91
+REG2023020,2,Power Systems,61
+REG2023020,2,Control Systems,99
+REG2023020,2,Signals & Systems,93
+REG2023020,3,Circuit Analysis,79
+REG2023020,3,Digital Electronics,94
+REG2023020,3,Power Systems,80
+REG2023020,3,Control Systems,90
+REG2023020,3,Signals & Systems,61
+REG2023020,4,Circuit Analysis,58
+REG2023020,4,Digital Electronics,54
+REG2023020,4,Power Systems,95
+REG2023020,4,Control Systems,99
+REG2023020,4,Signals & Systems,79
+REG2023021,1,Biochemistry,52
+REG2023021,1,Genetics,68
+REG2023021,1,Cell Biology,62
+REG2023021,1,Microbiology,52
+REG2023021,1,Bioinformatics,100
+REG2023021,2,Biochemistry,62
+REG2023021,2,Genetics,52
+REG2023021,2,Cell Biology,70
+REG2023021,2,Microbiology,69
+REG2023021,2,Bioinformatics,82
+REG2023021,3,Biochemistry,75
+REG2023021,3,Genetics,84
+REG2023021,3,Cell Biology,80
+REG2023021,3,Microbiology,66
+REG2023021,3,Bioinformatics,52
+REG2023021,4,Biochemistry,98
+REG2023021,4,Genetics,91
+REG2023021,4,Cell Biology,62
+REG2023021,4,Microbiology,68
+REG2023021,4,Bioinformatics,72
+REG2023022,1,Data Structures,99
+REG2023022,1,Algorithms,53
+REG2023022,1,Database Systems,91
+REG2023022,1,Operating Systems,71
+REG2023022,1,Discrete Mathematics,67
+REG2023022,2,Data Structures,57
+REG2023022,2,Algorithms,73
+REG2023022,2,Database Systems,77
+REG2023022,2,Operating Systems,75
+REG2023022,2,Discrete Mathematics,97
+REG2023022,3,Data Structures,78
+REG2023022,3,Algorithms,74
+REG2023022,3,Database Systems,71
+REG2023022,3,Operating Systems,61
+REG2023022,3,Discrete Mathematics,81
+REG2023022,4,Data Structures,94
+REG2023022,4,Algorithms,81
+REG2023022,4,Database Systems,73
+REG2023022,4,Operating Systems,83
+REG2023022,4,Discrete Mathematics,67
+REG2023023,1,Data Structures,55
+REG2023023,1,Algorithms,96
+REG2023023,1,Database Systems,77
+REG2023023,1,Operating Systems,55
+REG2023023,1,Discrete Mathematics,77
+REG2023023,2,Data Structures,88
+REG2023023,2,Algorithms,61
+REG2023023,2,Database Systems,84
+REG2023023,2,Operating Systems,68
+REG2023023,2,Discrete Mathematics,70
+REG2023023,3,Data Structures,56
+REG2023023,3,Algorithms,55
+REG2023023,3,Database Systems,70
+REG2023023,3,Operating Systems,92
+REG2023023,3,Discrete Mathematics,68
+REG2023023,4,Data Structures,69
+REG2023023,4,Algorithms,78
+REG2023023,4,Database Systems,88
+REG2023023,4,Operating Systems,95
+REG2023023,4,Discrete Mathematics,77
+REG2023024,1,Thermodynamics,60
+REG2023024,1,Fluid Mechanics,94
+REG2023024,1,Machine Design,78
+REG2023024,1,Material Science,72
+REG2023024,1,Robotics,78
+REG2023024,2,Thermodynamics,52
+REG2023024,2,Fluid Mechanics,96
+REG2023024,2,Machine Design,72
+REG2023024,2,Material Science,89
+REG2023024,2,Robotics,77
+REG2023024,3,Thermodynamics,67
+REG2023024,3,Fluid Mechanics,90
+REG2023024,3,Machine Design,100
+REG2023024,3,Material Science,53
+REG2023024,3,Robotics,54
+REG2023024,4,Thermodynamics,92
+REG2023024,4,Fluid Mechanics,90
+REG2023024,4,Machine Design,75
+REG2023024,4,Material Science,73
+REG2023024,4,Robotics,82
+REG2023025,1,Thermodynamics,97
+REG2023025,1,Fluid Mechanics,93
+REG2023025,1,Machine Design,60
+REG2023025,1,Material Science,51
+REG2023025,1,Robotics,59
+REG2023025,2,Thermodynamics,88
+REG2023025,2,Fluid Mechanics,93
+REG2023025,2,Machine Design,100
+REG2023025,2,Material Science,78
+REG2023025,2,Robotics,52
+REG2023025,3,Thermodynamics,58
+REG2023025,3,Fluid Mechanics,54
+REG2023025,3,Machine Design,65
+REG2023025,3,Material Science,99
+REG2023025,3,Robotics,91
+REG2023025,4,Thermodynamics,73
+REG2023025,4,Fluid Mechanics,73
+REG2023025,4,Machine Design,74
+REG2023025,4,Material Science,86
+REG2023025,4,Robotics,52
+REG2023026,1,Circuit Analysis,88
+REG2023026,1,Digital Electronics,59
+REG2023026,1,Power Systems,93
+REG2023026,1,Control Systems,78
+REG2023026,1,Signals & Systems,73
+REG2023026,2,Circuit Analysis,73
+REG2023026,2,Digital Electronics,78
+REG2023026,2,Power Systems,98
+REG2023026,2,Control Systems,54
+REG2023026,2,Signals & Systems,86
+REG2023026,3,Circuit Analysis,58
+REG2023026,3,Digital Electronics,83
+REG2023026,3,Power Systems,73
+REG2023026,3,Control Systems,75
+REG2023026,3,Signals & Systems,70
+REG2023026,4,Circuit Analysis,91
+REG2023026,4,Digital Electronics,67
+REG2023026,4,Power Systems,65
+REG2023026,4,Control Systems,57
+REG2023026,4,Signals & Systems,51
+REG2023027,1,Thermodynamics,97
+REG2023027,1,Fluid Mechanics,61
+REG2023027,1,Machine Design,81
+REG2023027,1,Material Science,83
+REG2023027,1,Robotics,74
+REG2023027,2,Thermodynamics,85
+REG2023027,2,Fluid Mechanics,57
+REG2023027,2,Machine Design,66
+REG2023027,2,Material Science,99
+REG2023027,2,Robotics,66
+REG2023027,3,Thermodynamics,95
+REG2023027,3,Fluid Mechanics,78
+REG2023027,3,Machine Design,63
+REG2023027,3,Material Science,89
+REG2023027,3,Robotics,68
+REG2023027,4,Thermodynamics,94
+REG2023027,4,Fluid Mechanics,81
+REG2023027,4,Machine Design,62
+REG2023027,4,Material Science,57
+REG2023027,4,Robotics,58
+REG2023028,1,Thermodynamics,54
+REG2023028,1,Fluid Mechanics,78
+REG2023028,1,Machine Design,61
+REG2023028,1,Material Science,95
+REG2023028,1,Robotics,78
+REG2023028,2,Thermodynamics,55
+REG2023028,2,Fluid Mechanics,93
+REG2023028,2,Machine Design,70
+REG2023028,2,Material Science,92
+REG2023028,2,Robotics,72
+REG2023028,3,Thermodynamics,95
+REG2023028,3,Fluid Mechanics,54
+REG2023028,3,Machine Design,85
+REG2023028,3,Material Science,84
+REG2023028,3,Robotics,68
+REG2023028,4,Thermodynamics,69
+REG2023028,4,Fluid Mechanics,60
+REG2023028,4,Machine Design,95
+REG2023028,4,Material Science,95
+REG2023028,4,Robotics,94
+REG2023029,1,Biochemistry,90
+REG2023029,1,Genetics,61
+REG2023029,1,Cell Biology,100
+REG2023029,1,Microbiology,73
+REG2023029,1,Bioinformatics,82
+REG2023029,2,Biochemistry,64
+REG2023029,2,Genetics,57
+REG2023029,2,Cell Biology,62
+REG2023029,2,Microbiology,100
+REG2023029,2,Bioinformatics,58
+REG2023029,3,Biochemistry,65
+REG2023029,3,Genetics,100
+REG2023029,3,Cell Biology,81
+REG2023029,3,Microbiology,51
+REG2023029,3,Bioinformatics,73
+REG2023029,4,Biochemistry,85
+REG2023029,4,Genetics,86
+REG2023029,4,Cell Biology,73
+REG2023029,4,Microbiology,79
+REG2023029,4,Bioinformatics,85
+REG2023030,1,Biochemistry,58
+REG2023030,1,Genetics,89
+REG2023030,1,Cell Biology,55
+REG2023030,1,Microbiology,54
+REG2023030,1,Bioinformatics,69
+REG2023030,2,Biochemistry,75
+REG2023030,2,Genetics,95
+REG2023030,2,Cell Biology,96
+REG2023030,2,Microbiology,80
+REG2023030,2,Bioinformatics,83
+REG2023030,3,Biochemistry,76
+REG2023030,3,Genetics,99
+REG2023030,3,Cell Biology,76
+REG2023030,3,Microbiology,86
+REG2023030,3,Bioinformatics,54
+REG2023030,4,Biochemistry,58
+REG2023030,4,Genetics,70
+REG2023030,4,Cell Biology,91
+REG2023030,4,Microbiology,54
+REG2023030,4,Bioinformatics,78
+REG2023031,1,Circuit Analysis,79
+REG2023031,1,Digital Electronics,93
+REG2023031,1,Power Systems,83
+REG2023031,1,Control Systems,72
+REG2023031,1,Signals & Systems,58
+REG2023031,2,Circuit Analysis,99
+REG2023031,2,Digital Electronics,85
+REG2023031,2,Power Systems,90
+REG2023031,2,Control Systems,87
+REG2023031,2,Signals & Systems,61
+REG2023031,3,Circuit Analysis,99
+REG2023031,3,Digital Electronics,58
+REG2023031,3,Power Systems,77
+REG2023031,3,Control Systems,82
+REG2023031,3,Signals & Systems,53
+REG2023031,4,Circuit Analysis,57
+REG2023031,4,Digital Electronics,83
+REG2023031,4,Power Systems,59
+REG2023031,4,Control Systems,69
+REG2023031,4,Signals & Systems,60
+REG2023032,1,Biochemistry,60
+REG2023032,1,Genetics,70
+REG2023032,1,Cell Biology,95
+REG2023032,1,Microbiology,64
+REG2023032,1,Bioinformatics,72
+REG2023032,2,Biochemistry,83
+REG2023032,2,Genetics,68
+REG2023032,2,Cell Biology,55
+REG2023032,2,Microbiology,66
+REG2023032,2,Bioinformatics,62
+REG2023032,3,Biochemistry,90
+REG2023032,3,Genetics,85
+REG2023032,3,Cell Biology,67
+REG2023032,3,Microbiology,58
+REG2023032,3,Bioinformatics,90
+REG2023032,4,Biochemistry,69
+REG2023032,4,Genetics,89
+REG2023032,4,Cell Biology,84
+REG2023032,4,Microbiology,55
+REG2023032,4,Bioinformatics,82
+REG2023033,1,Data Structures,91
+REG2023033,1,Algorithms,60
+REG2023033,1,Database Systems,87
+REG2023033,1,Operating Systems,87
+REG2023033,1,Discrete Mathematics,59
+REG2023033,2,Data Structures,60
+REG2023033,2,Algorithms,92
+REG2023033,2,Database Systems,89
+REG2023033,2,Operating Systems,96
+REG2023033,2,Discrete Mathematics,88
+REG2023033,3,Data Structures,71
+REG2023033,3,Algorithms,86
+REG2023033,3,Database Systems,52
+REG2023033,3,Operating Systems,51
+REG2023033,3,Discrete Mathematics,55
+REG2023033,4,Data Structures,52
+REG2023033,4,Algorithms,91
+REG2023033,4,Database Systems,99
+REG2023033,4,Operating Systems,86
+REG2023033,4,Discrete Mathematics,66
+REG2023034,1,Structural Analysis,91
+REG2023034,1,Geotechnical Engineering,63
+REG2023034,1,Transportation Engineering,99
+REG2023034,1,Hydrology,86
+REG2023034,1,Surveying,76
+REG2023034,2,Structural Analysis,89
+REG2023034,2,Geotechnical Engineering,90
+REG2023034,2,Transportation Engineering,51
+REG2023034,2,Hydrology,81
+REG2023034,2,Surveying,90
+REG2023034,3,Structural Analysis,84
+REG2023034,3,Geotechnical Engineering,68
+REG2023034,3,Transportation Engineering,91
+REG2023034,3,Hydrology,69
+REG2023034,3,Surveying,80
+REG2023034,4,Structural Analysis,65
+REG2023034,4,Geotechnical Engineering,93
+REG2023034,4,Transportation Engineering,75
+REG2023034,4,Hydrology,69
+REG2023034,4,Surveying,79
+REG2023035,1,Data Structures,54
+REG2023035,1,Algorithms,94
+REG2023035,1,Database Systems,53
+REG2023035,1,Operating Systems,60
+REG2023035,1,Discrete Mathematics,78
+REG2023035,2,Data Structures,76
+REG2023035,2,Algorithms,80
+REG2023035,2,Database Systems,79
+REG2023035,2,Operating Systems,63
+REG2023035,2,Discrete Mathematics,71
+REG2023035,3,Data Structures,88
+REG2023035,3,Algorithms,59
+REG2023035,3,Database Systems,70
+REG2023035,3,Operating Systems,95
+REG2023035,3,Discrete Mathematics,70
+REG2023035,4,Data Structures,96
+REG2023035,4,Algorithms,72
+REG2023035,4,Database Systems,75
+REG2023035,4,Operating Systems,58
+REG2023035,4,Discrete Mathematics,98
+REG2023036,1,Circuit Analysis,73
+REG2023036,1,Digital Electronics,82
+REG2023036,1,Power Systems,85
+REG2023036,1,Control Systems,56
+REG2023036,1,Signals & Systems,70
+REG2023036,2,Circuit Analysis,65
+REG2023036,2,Digital Electronics,79
+REG2023036,2,Power Systems,57
+REG2023036,2,Control Systems,67
+REG2023036,2,Signals & Systems,78
+REG2023036,3,Circuit Analysis,65
+REG2023036,3,Digital Electronics,59
+REG2023036,3,Power Systems,56
+REG2023036,3,Control Systems,53
+REG2023036,3,Signals & Systems,68
+REG2023036,4,Circuit Analysis,74
+REG2023036,4,Digital Electronics,89
+REG2023036,4,Power Systems,76
+REG2023036,4,Control Systems,65
+REG2023036,4,Signals & Systems,60
+REG2023037,1,Circuit Analysis,70
+REG2023037,1,Digital Electronics,86
+REG2023037,1,Power Systems,96
+REG2023037,1,Control Systems,70
+REG2023037,1,Signals & Systems,62
+REG2023037,2,Circuit Analysis,98
+REG2023037,2,Digital Electronics,60
+REG2023037,2,Power Systems,81
+REG2023037,2,Control Systems,82
+REG2023037,2,Signals & Systems,79
+REG2023037,3,Circuit Analysis,81
+REG2023037,3,Digital Electronics,69
+REG2023037,3,Power Systems,81
+REG2023037,3,Control Systems,51
+REG2023037,3,Signals & Systems,55
+REG2023037,4,Circuit Analysis,75
+REG2023037,4,Digital Electronics,82
+REG2023037,4,Power Systems,79
+REG2023037,4,Control Systems,65
+REG2023037,4,Signals & Systems,63
+REG2023038,1,Biochemistry,87
+REG2023038,1,Genetics,72
+REG2023038,1,Cell Biology,53
+REG2023038,1,Microbiology,53
+REG2023038,1,Bioinformatics,68
+REG2023038,2,Biochemistry,81
+REG2023038,2,Genetics,88
+REG2023038,2,Cell Biology,91
+REG2023038,2,Microbiology,93
+REG2023038,2,Bioinformatics,80
+REG2023038,3,Biochemistry,68
+REG2023038,3,Genetics,84
+REG2023038,3,Cell Biology,50
+REG2023038,3,Microbiology,56
+REG2023038,3,Bioinformatics,77
+REG2023038,4,Biochemistry,58
+REG2023038,4,Genetics,66
+REG2023038,4,Cell Biology,96
+REG2023038,4,Microbiology,73
+REG2023038,4,Bioinformatics,98
+REG2023039,1,Data Structures,75
+REG2023039,1,Algorithms,73
+REG2023039,1,Database Systems,52
+REG2023039,1,Operating Systems,75
+REG2023039,1,Discrete Mathematics,53
+REG2023039,2,Data Structures,86
+REG2023039,2,Algorithms,85
+REG2023039,2,Database Systems,62
+REG2023039,2,Operating Systems,73
+REG2023039,2,Discrete Mathematics,85
+REG2023039,3,Data Structures,68
+REG2023039,3,Algorithms,54
+REG2023039,3,Database Systems,74
+REG2023039,3,Operating Systems,82
+REG2023039,3,Discrete Mathematics,78
+REG2023039,4,Data Structures,98
+REG2023039,4,Algorithms,85
+REG2023039,4,Database Systems,67
+REG2023039,4,Operating Systems,89
+REG2023039,4,Discrete Mathematics,93
+REG2023040,1,Circuit Analysis,89
+REG2023040,1,Digital Electronics,57
+REG2023040,1,Power Systems,58
+REG2023040,1,Control Systems,56
+REG2023040,1,Signals & Systems,75
+REG2023040,2,Circuit Analysis,73
+REG2023040,2,Digital Electronics,100
+REG2023040,2,Power Systems,71
+REG2023040,2,Control Systems,85
+REG2023040,2,Signals & Systems,73
+REG2023040,3,Circuit Analysis,98
+REG2023040,3,Digital Electronics,59
+REG2023040,3,Power Systems,62
+REG2023040,3,Control Systems,88
+REG2023040,3,Signals & Systems,82
+REG2023040,4,Circuit Analysis,75
+REG2023040,4,Digital Electronics,82
+REG2023040,4,Power Systems,52
+REG2023040,4,Control Systems,52
+REG2023040,4,Signals & Systems,52
+REG2023041,1,Circuit Analysis,58
+REG2023041,1,Digital Electronics,95
+REG2023041,1,Power Systems,71
+REG2023041,1,Control Systems,80
+REG2023041,1,Signals & Systems,83
+REG2023041,2,Circuit Analysis,79
+REG2023041,2,Digital Electronics,59
+REG2023041,2,Power Systems,88
+REG2023041,2,Control Systems,82
+REG2023041,2,Signals & Systems,58
+REG2023041,3,Circuit Analysis,70
+REG2023041,3,Digital Electronics,89
+REG2023041,3,Power Systems,70
+REG2023041,3,Control Systems,60
+REG2023041,3,Signals & Systems,75
+REG2023041,4,Circuit Analysis,89
+REG2023041,4,Digital Electronics,97
+REG2023041,4,Power Systems,69
+REG2023041,4,Control Systems,87
+REG2023041,4,Signals & Systems,71
+REG2023042,1,Data Structures,82
+REG2023042,1,Algorithms,82
+REG2023042,1,Database Systems,84
+REG2023042,1,Operating Systems,81
+REG2023042,1,Discrete Mathematics,95
+REG2023042,2,Data Structures,86
+REG2023042,2,Algorithms,69
+REG2023042,2,Database Systems,80
+REG2023042,2,Operating Systems,51
+REG2023042,2,Discrete Mathematics,73
+REG2023042,3,Data Structures,71
+REG2023042,3,Algorithms,93
+REG2023042,3,Database Systems,57
+REG2023042,3,Operating Systems,76
+REG2023042,3,Discrete Mathematics,87
+REG2023042,4,Data Structures,69
+REG2023042,4,Algorithms,100
+REG2023042,4,Database Systems,96
+REG2023042,4,Operating Systems,94
+REG2023042,4,Discrete Mathematics,90
+REG2023043,1,Circuit Analysis,51
+REG2023043,1,Digital Electronics,88
+REG2023043,1,Power Systems,80
+REG2023043,1,Control Systems,66
+REG2023043,1,Signals & Systems,91
+REG2023043,2,Circuit Analysis,100
+REG2023043,2,Digital Electronics,99
+REG2023043,2,Power Systems,87
+REG2023043,2,Control Systems,86
+REG2023043,2,Signals & Systems,64
+REG2023043,3,Circuit Analysis,96
+REG2023043,3,Digital Electronics,53
+REG2023043,3,Power Systems,87
+REG2023043,3,Control Systems,80
+REG2023043,3,Signals & Systems,60
+REG2023043,4,Circuit Analysis,83
+REG2023043,4,Digital Electronics,90
+REG2023043,4,Power Systems,96
+REG2023043,4,Control Systems,89
+REG2023043,4,Signals & Systems,99
+REG2023044,1,Data Structures,74
+REG2023044,1,Algorithms,59
+REG2023044,1,Database Systems,93
+REG2023044,1,Operating Systems,65
+REG2023044,1,Discrete Mathematics,52
+REG2023044,2,Data Structures,86
+REG2023044,2,Algorithms,94
+REG2023044,2,Database Systems,57
+REG2023044,2,Operating Systems,62
+REG2023044,2,Discrete Mathematics,51
+REG2023044,3,Data Structures,78
+REG2023044,3,Algorithms,70
+REG2023044,3,Database Systems,76
+REG2023044,3,Operating Systems,59
+REG2023044,3,Discrete Mathematics,76
+REG2023044,4,Data Structures,94
+REG2023044,4,Algorithms,63
+REG2023044,4,Database Systems,76
+REG2023044,4,Operating Systems,82
+REG2023044,4,Discrete Mathematics,99
+REG2023045,1,Biochemistry,89
+REG2023045,1,Genetics,80
+REG2023045,1,Cell Biology,97
+REG2023045,1,Microbiology,96
+REG2023045,1,Bioinformatics,53
+REG2023045,2,Biochemistry,95
+REG2023045,2,Genetics,58
+REG2023045,2,Cell Biology,83
+REG2023045,2,Microbiology,63
+REG2023045,2,Bioinformatics,85
+REG2023045,3,Biochemistry,70
+REG2023045,3,Genetics,92
+REG2023045,3,Cell Biology,80
+REG2023045,3,Microbiology,83
+REG2023045,3,Bioinformatics,74
+REG2023045,4,Biochemistry,70
+REG2023045,4,Genetics,61
+REG2023045,4,Cell Biology,79
+REG2023045,4,Microbiology,84
+REG2023045,4,Bioinformatics,71
+REG2023046,1,Biochemistry,84
+REG2023046,1,Genetics,72
+REG2023046,1,Cell Biology,93
+REG2023046,1,Microbiology,99
+REG2023046,1,Bioinformatics,96
+REG2023046,2,Biochemistry,93
+REG2023046,2,Genetics,91
+REG2023046,2,Cell Biology,94
+REG2023046,2,Microbiology,66
+REG2023046,2,Bioinformatics,89
+REG2023046,3,Biochemistry,80
+REG2023046,3,Genetics,62
+REG2023046,3,Cell Biology,65
+REG2023046,3,Microbiology,67
+REG2023046,3,Bioinformatics,85
+REG2023046,4,Biochemistry,69
+REG2023046,4,Genetics,64
+REG2023046,4,Cell Biology,69
+REG2023046,4,Microbiology,99
+REG2023046,4,Bioinformatics,68
+REG2023047,1,Structural Analysis,95
+REG2023047,1,Geotechnical Engineering,63
+REG2023047,1,Transportation Engineering,94
+REG2023047,1,Hydrology,95
+REG2023047,1,Surveying,81
+REG2023047,2,Structural Analysis,70
+REG2023047,2,Geotechnical Engineering,80
+REG2023047,2,Transportation Engineering,72
+REG2023047,2,Hydrology,85
+REG2023047,2,Surveying,100
+REG2023047,3,Structural Analysis,96
+REG2023047,3,Geotechnical Engineering,67
+REG2023047,3,Transportation Engineering,68
+REG2023047,3,Hydrology,57
+REG2023047,3,Surveying,86
+REG2023047,4,Structural Analysis,93
+REG2023047,4,Geotechnical Engineering,84
+REG2023047,4,Transportation Engineering,74
+REG2023047,4,Hydrology,75
+REG2023047,4,Surveying,72
+REG2023048,1,Structural Analysis,99
+REG2023048,1,Geotechnical Engineering,59
+REG2023048,1,Transportation Engineering,68
+REG2023048,1,Hydrology,52
+REG2023048,1,Surveying,68
+REG2023048,2,Structural Analysis,95
+REG2023048,2,Geotechnical Engineering,55
+REG2023048,2,Transportation Engineering,72
+REG2023048,2,Hydrology,78
+REG2023048,2,Surveying,91
+REG2023048,3,Structural Analysis,66
+REG2023048,3,Geotechnical Engineering,97
+REG2023048,3,Transportation Engineering,80
+REG2023048,3,Hydrology,63
+REG2023048,3,Surveying,62
+REG2023048,4,Structural Analysis,84
+REG2023048,4,Geotechnical Engineering,67
+REG2023048,4,Transportation Engineering,85
+REG2023048,4,Hydrology,94
+REG2023048,4,Surveying,67
+REG2023049,1,Structural Analysis,58
+REG2023049,1,Geotechnical Engineering,56
+REG2023049,1,Transportation Engineering,89
+REG2023049,1,Hydrology,97
+REG2023049,1,Surveying,87
+REG2023049,2,Structural Analysis,65
+REG2023049,2,Geotechnical Engineering,65
+REG2023049,2,Transportation Engineering,53
+REG2023049,2,Hydrology,92
+REG2023049,2,Surveying,83
+REG2023049,3,Structural Analysis,64
+REG2023049,3,Geotechnical Engineering,90
+REG2023049,3,Transportation Engineering,64
+REG2023049,3,Hydrology,53
+REG2023049,3,Surveying,56
+REG2023049,4,Structural Analysis,76
+REG2023049,4,Geotechnical Engineering,71
+REG2023049,4,Transportation Engineering,95
+REG2023049,4,Hydrology,80
+REG2023049,4,Surveying,56
+REG2023050,1,Structural Analysis,93
+REG2023050,1,Geotechnical Engineering,99
+REG2023050,1,Transportation Engineering,58
+REG2023050,1,Hydrology,50
+REG2023050,1,Surveying,85
+REG2023050,2,Structural Analysis,60
+REG2023050,2,Geotechnical Engineering,76
+REG2023050,2,Transportation Engineering,91
+REG2023050,2,Hydrology,80
+REG2023050,2,Surveying,80
+REG2023050,3,Structural Analysis,91
+REG2023050,3,Geotechnical Engineering,62
+REG2023050,3,Transportation Engineering,98
+REG2023050,3,Hydrology,68
+REG2023050,3,Surveying,70
+REG2023050,4,Structural Analysis,68
+REG2023050,4,Geotechnical Engineering,91
+REG2023050,4,Transportation Engineering,53
+REG2023050,4,Hydrology,99
+REG2023050,4,Surveying,55
+REG2023051,1,Structural Analysis,91
+REG2023051,1,Geotechnical Engineering,86
+REG2023051,1,Transportation Engineering,64
+REG2023051,1,Hydrology,84
+REG2023051,1,Surveying,97
+REG2023051,2,Structural Analysis,96
+REG2023051,2,Geotechnical Engineering,52
+REG2023051,2,Transportation Engineering,61
+REG2023051,2,Hydrology,76
+REG2023051,2,Surveying,61
+REG2023051,3,Structural Analysis,52
+REG2023051,3,Geotechnical Engineering,75
+REG2023051,3,Transportation Engineering,100
+REG2023051,3,Hydrology,81
+REG2023051,3,Surveying,61
+REG2023051,4,Structural Analysis,97
+REG2023051,4,Geotechnical Engineering,68
+REG2023051,4,Transportation Engineering,52
+REG2023051,4,Hydrology,50
+REG2023051,4,Surveying,69
+REG2023052,1,Thermodynamics,86
+REG2023052,1,Fluid Mechanics,88
+REG2023052,1,Machine Design,56
+REG2023052,1,Material Science,71
+REG2023052,1,Robotics,68
+REG2023052,2,Thermodynamics,79
+REG2023052,2,Fluid Mechanics,91
+REG2023052,2,Machine Design,84
+REG2023052,2,Material Science,83
+REG2023052,2,Robotics,81
+REG2023052,3,Thermodynamics,58
+REG2023052,3,Fluid Mechanics,82
+REG2023052,3,Machine Design,79
+REG2023052,3,Material Science,67
+REG2023052,3,Robotics,62
+REG2023052,4,Thermodynamics,57
+REG2023052,4,Fluid Mechanics,71
+REG2023052,4,Machine Design,60
+REG2023052,4,Material Science,96
+REG2023052,4,Robotics,79
+REG2023053,1,Thermodynamics,91
+REG2023053,1,Fluid Mechanics,66
+REG2023053,1,Machine Design,95
+REG2023053,1,Material Science,61
+REG2023053,1,Robotics,50
+REG2023053,2,Thermodynamics,97
+REG2023053,2,Fluid Mechanics,71
+REG2023053,2,Machine Design,100
+REG2023053,2,Material Science,68
+REG2023053,2,Robotics,86
+REG2023053,3,Thermodynamics,93
+REG2023053,3,Fluid Mechanics,98
+REG2023053,3,Machine Design,62
+REG2023053,3,Material Science,61
+REG2023053,3,Robotics,89
+REG2023053,4,Thermodynamics,90
+REG2023053,4,Fluid Mechanics,75
+REG2023053,4,Machine Design,77
+REG2023053,4,Material Science,82
+REG2023053,4,Robotics,70
+REG2023054,1,Structural Analysis,55
+REG2023054,1,Geotechnical Engineering,75
+REG2023054,1,Transportation Engineering,92
+REG2023054,1,Hydrology,56
+REG2023054,1,Surveying,61
+REG2023054,2,Structural Analysis,58
+REG2023054,2,Geotechnical Engineering,80
+REG2023054,2,Transportation Engineering,70
+REG2023054,2,Hydrology,65
+REG2023054,2,Surveying,50
+REG2023054,3,Structural Analysis,66
+REG2023054,3,Geotechnical Engineering,74
+REG2023054,3,Transportation Engineering,65
+REG2023054,3,Hydrology,78
+REG2023054,3,Surveying,98
+REG2023054,4,Structural Analysis,67
+REG2023054,4,Geotechnical Engineering,71
+REG2023054,4,Transportation Engineering,69
+REG2023054,4,Hydrology,87
+REG2023054,4,Surveying,96
+REG2023055,1,Thermodynamics,86
+REG2023055,1,Fluid Mechanics,50
+REG2023055,1,Machine Design,66
+REG2023055,1,Material Science,91
+REG2023055,1,Robotics,73
+REG2023055,2,Thermodynamics,94
+REG2023055,2,Fluid Mechanics,65
+REG2023055,2,Machine Design,53
+REG2023055,2,Material Science,92
+REG2023055,2,Robotics,57
+REG2023055,3,Thermodynamics,79
+REG2023055,3,Fluid Mechanics,69
+REG2023055,3,Machine Design,60
+REG2023055,3,Material Science,75
+REG2023055,3,Robotics,93
+REG2023055,4,Thermodynamics,82
+REG2023055,4,Fluid Mechanics,95
+REG2023055,4,Machine Design,99
+REG2023055,4,Material Science,69
+REG2023055,4,Robotics,94
+REG2023056,1,Structural Analysis,57
+REG2023056,1,Geotechnical Engineering,90
+REG2023056,1,Transportation Engineering,68
+REG2023056,1,Hydrology,73
+REG2023056,1,Surveying,89
+REG2023056,2,Structural Analysis,64
+REG2023056,2,Geotechnical Engineering,64
+REG2023056,2,Transportation Engineering,58
+REG2023056,2,Hydrology,80
+REG2023056,2,Surveying,59
+REG2023056,3,Structural Analysis,79
+REG2023056,3,Geotechnical Engineering,97
+REG2023056,3,Transportation Engineering,88
+REG2023056,3,Hydrology,73
+REG2023056,3,Surveying,76
+REG2023056,4,Structural Analysis,94
+REG2023056,4,Geotechnical Engineering,85
+REG2023056,4,Transportation Engineering,80
+REG2023056,4,Hydrology,98
+REG2023056,4,Surveying,84
+REG2023057,1,Data Structures,92
+REG2023057,1,Algorithms,63
+REG2023057,1,Database Systems,98
+REG2023057,1,Operating Systems,65
+REG2023057,1,Discrete Mathematics,93
+REG2023057,2,Data Structures,98
+REG2023057,2,Algorithms,88
+REG2023057,2,Database Systems,100
+REG2023057,2,Operating Systems,55
+REG2023057,2,Discrete Mathematics,83
+REG2023057,3,Data Structures,78
+REG2023057,3,Algorithms,83
+REG2023057,3,Database Systems,95
+REG2023057,3,Operating Systems,73
+REG2023057,3,Discrete Mathematics,54
+REG2023057,4,Data Structures,86
+REG2023057,4,Algorithms,57
+REG2023057,4,Database Systems,53
+REG2023057,4,Operating Systems,85
+REG2023057,4,Discrete Mathematics,82
+REG2023058,1,Circuit Analysis,62
+REG2023058,1,Digital Electronics,86
+REG2023058,1,Power Systems,84
+REG2023058,1,Control Systems,59
+REG2023058,1,Signals & Systems,60
+REG2023058,2,Circuit Analysis,70
+REG2023058,2,Digital Electronics,83
+REG2023058,2,Power Systems,78
+REG2023058,2,Control Systems,57
+REG2023058,2,Signals & Systems,93
+REG2023058,3,Circuit Analysis,63
+REG2023058,3,Digital Electronics,95
+REG2023058,3,Power Systems,87
+REG2023058,3,Control Systems,81
+REG2023058,3,Signals & Systems,55
+REG2023058,4,Circuit Analysis,82
+REG2023058,4,Digital Electronics,78
+REG2023058,4,Power Systems,53
+REG2023058,4,Control Systems,79
+REG2023058,4,Signals & Systems,58
+REG2023059,1,Thermodynamics,82
+REG2023059,1,Fluid Mechanics,76
+REG2023059,1,Machine Design,79
+REG2023059,1,Material Science,86
+REG2023059,1,Robotics,53
+REG2023059,2,Thermodynamics,85
+REG2023059,2,Fluid Mechanics,79
+REG2023059,2,Machine Design,93
+REG2023059,2,Material Science,69
+REG2023059,2,Robotics,96
+REG2023059,3,Thermodynamics,51
+REG2023059,3,Fluid Mechanics,75
+REG2023059,3,Machine Design,66
+REG2023059,3,Material Science,50
+REG2023059,3,Robotics,97
+REG2023059,4,Thermodynamics,63
+REG2023059,4,Fluid Mechanics,87
+REG2023059,4,Machine Design,54
+REG2023059,4,Material Science,52
+REG2023059,4,Robotics,77
+REG2023060,1,Thermodynamics,72
+REG2023060,1,Fluid Mechanics,94
+REG2023060,1,Machine Design,54
+REG2023060,1,Material Science,84
+REG2023060,1,Robotics,53
+REG2023060,2,Thermodynamics,54
+REG2023060,2,Fluid Mechanics,80
+REG2023060,2,Machine Design,52
+REG2023060,2,Material Science,68
+REG2023060,2,Robotics,76
+REG2023060,3,Thermodynamics,61
+REG2023060,3,Fluid Mechanics,99
+REG2023060,3,Machine Design,58
+REG2023060,3,Material Science,99
+REG2023060,3,Robotics,91
+REG2023060,4,Thermodynamics,96
+REG2023060,4,Fluid Mechanics,91
+REG2023060,4,Machine Design,76
+REG2023060,4,Material Science,73
+REG2023060,4,Robotics,74
+REG2023061,1,Biochemistry,78
+REG2023061,1,Genetics,74
+REG2023061,1,Cell Biology,74
+REG2023061,1,Microbiology,55
+REG2023061,1,Bioinformatics,93
+REG2023061,2,Biochemistry,92
+REG2023061,2,Genetics,84
+REG2023061,2,Cell Biology,58
+REG2023061,2,Microbiology,91
+REG2023061,2,Bioinformatics,72
+REG2023061,3,Biochemistry,57
+REG2023061,3,Genetics,61
+REG2023061,3,Cell Biology,84
+REG2023061,3,Microbiology,75
+REG2023061,3,Bioinformatics,83
+REG2023061,4,Biochemistry,58
+REG2023061,4,Genetics,96
+REG2023061,4,Cell Biology,64
+REG2023061,4,Microbiology,50
+REG2023061,4,Bioinformatics,98
+REG2023062,1,Thermodynamics,51
+REG2023062,1,Fluid Mechanics,69
+REG2023062,1,Machine Design,79
+REG2023062,1,Material Science,93
+REG2023062,1,Robotics,96
+REG2023062,2,Thermodynamics,84
+REG2023062,2,Fluid Mechanics,77
+REG2023062,2,Machine Design,84
+REG2023062,2,Material Science,74
+REG2023062,2,Robotics,64
+REG2023062,3,Thermodynamics,65
+REG2023062,3,Fluid Mechanics,79
+REG2023062,3,Machine Design,72
+REG2023062,3,Material Science,59
+REG2023062,3,Robotics,67
+REG2023062,4,Thermodynamics,62
+REG2023062,4,Fluid Mechanics,96
+REG2023062,4,Machine Design,98
+REG2023062,4,Material Science,57
+REG2023062,4,Robotics,52
+REG2023063,1,Data Structures,92
+REG2023063,1,Algorithms,76
+REG2023063,1,Database Systems,89
+REG2023063,1,Operating Systems,99
+REG2023063,1,Discrete Mathematics,51
+REG2023063,2,Data Structures,65
+REG2023063,2,Algorithms,63
+REG2023063,2,Database Systems,54
+REG2023063,2,Operating Systems,56
+REG2023063,2,Discrete Mathematics,88
+REG2023063,3,Data Structures,52
+REG2023063,3,Algorithms,78
+REG2023063,3,Database Systems,88
+REG2023063,3,Operating Systems,93
+REG2023063,3,Discrete Mathematics,95
+REG2023063,4,Data Structures,53
+REG2023063,4,Algorithms,65
+REG2023063,4,Database Systems,97
+REG2023063,4,Operating Systems,52
+REG2023063,4,Discrete Mathematics,75
+REG2023064,1,Thermodynamics,78
+REG2023064,1,Fluid Mechanics,64
+REG2023064,1,Machine Design,84
+REG2023064,1,Material Science,63
+REG2023064,1,Robotics,98
+REG2023064,2,Thermodynamics,99
+REG2023064,2,Fluid Mechanics,53
+REG2023064,2,Machine Design,58
+REG2023064,2,Material Science,82
+REG2023064,2,Robotics,68
+REG2023064,3,Thermodynamics,64
+REG2023064,3,Fluid Mechanics,96
+REG2023064,3,Machine Design,86
+REG2023064,3,Material Science,70
+REG2023064,3,Robotics,86
+REG2023064,4,Thermodynamics,88
+REG2023064,4,Fluid Mechanics,99
+REG2023064,4,Machine Design,93
+REG2023064,4,Material Science,70
+REG2023064,4,Robotics,65
+REG2023065,1,Data Structures,69
+REG2023065,1,Algorithms,59
+REG2023065,1,Database Systems,92
+REG2023065,1,Operating Systems,83
+REG2023065,1,Discrete Mathematics,64
+REG2023065,2,Data Structures,76
+REG2023065,2,Algorithms,69
+REG2023065,2,Database Systems,67
+REG2023065,2,Operating Systems,53
+REG2023065,2,Discrete Mathematics,85
+REG2023065,3,Data Structures,87
+REG2023065,3,Algorithms,97
+REG2023065,3,Database Systems,61
+REG2023065,3,Operating Systems,90
+REG2023065,3,Discrete Mathematics,93
+REG2023065,4,Data Structures,77
+REG2023065,4,Algorithms,85
+REG2023065,4,Database Systems,81
+REG2023065,4,Operating Systems,53
+REG2023065,4,Discrete Mathematics,72
+REG2023066,1,Structural Analysis,91
+REG2023066,1,Geotechnical Engineering,92
+REG2023066,1,Transportation Engineering,74
+REG2023066,1,Hydrology,100
+REG2023066,1,Surveying,83
+REG2023066,2,Structural Analysis,70
+REG2023066,2,Geotechnical Engineering,94
+REG2023066,2,Transportation Engineering,76
+REG2023066,2,Hydrology,76
+REG2023066,2,Surveying,59
+REG2023066,3,Structural Analysis,69
+REG2023066,3,Geotechnical Engineering,74
+REG2023066,3,Transportation Engineering,61
+REG2023066,3,Hydrology,98
+REG2023066,3,Surveying,84
+REG2023066,4,Structural Analysis,80
+REG2023066,4,Geotechnical Engineering,65
+REG2023066,4,Transportation Engineering,64
+REG2023066,4,Hydrology,69
+REG2023066,4,Surveying,95
+REG2023067,1,Circuit Analysis,59
+REG2023067,1,Digital Electronics,79
+REG2023067,1,Power Systems,53
+REG2023067,1,Control Systems,85
+REG2023067,1,Signals & Systems,76
+REG2023067,2,Circuit Analysis,76
+REG2023067,2,Digital Electronics,85
+REG2023067,2,Power Systems,83
+REG2023067,2,Control Systems,58
+REG2023067,2,Signals & Systems,74
+REG2023067,3,Circuit Analysis,65
+REG2023067,3,Digital Electronics,66
+REG2023067,3,Power Systems,63
+REG2023067,3,Control Systems,71
+REG2023067,3,Signals & Systems,91
+REG2023067,4,Circuit Analysis,55
+REG2023067,4,Digital Electronics,78
+REG2023067,4,Power Systems,73
+REG2023067,4,Control Systems,55
+REG2023067,4,Signals & Systems,84
+REG2023068,1,Data Structures,96
+REG2023068,1,Algorithms,62
+REG2023068,1,Database Systems,53
+REG2023068,1,Operating Systems,67
+REG2023068,1,Discrete Mathematics,74
+REG2023068,2,Data Structures,93
+REG2023068,2,Algorithms,88
+REG2023068,2,Database Systems,88
+REG2023068,2,Operating Systems,52
+REG2023068,2,Discrete Mathematics,54
+REG2023068,3,Data Structures,62
+REG2023068,3,Algorithms,98
+REG2023068,3,Database Systems,87
+REG2023068,3,Operating Systems,96
+REG2023068,3,Discrete Mathematics,92
+REG2023068,4,Data Structures,85
+REG2023068,4,Algorithms,63
+REG2023068,4,Database Systems,80
+REG2023068,4,Operating Systems,63
+REG2023068,4,Discrete Mathematics,71
+REG2023069,1,Circuit Analysis,69
+REG2023069,1,Digital Electronics,50
+REG2023069,1,Power Systems,63
+REG2023069,1,Control Systems,62
+REG2023069,1,Signals & Systems,97
+REG2023069,2,Circuit Analysis,57
+REG2023069,2,Digital Electronics,97
+REG2023069,2,Power Systems,98
+REG2023069,2,Control Systems,80
+REG2023069,2,Signals & Systems,65
+REG2023069,3,Circuit Analysis,94
+REG2023069,3,Digital Electronics,88
+REG2023069,3,Power Systems,95
+REG2023069,3,Control Systems,63
+REG2023069,3,Signals & Systems,75
+REG2023069,4,Circuit Analysis,65
+REG2023069,4,Digital Electronics,85
+REG2023069,4,Power Systems,70
+REG2023069,4,Control Systems,99
+REG2023069,4,Signals & Systems,68
+REG2023070,1,Biochemistry,74
+REG2023070,1,Genetics,79
+REG2023070,1,Cell Biology,84
+REG2023070,1,Microbiology,91
+REG2023070,1,Bioinformatics,72
+REG2023070,2,Biochemistry,69
+REG2023070,2,Genetics,66
+REG2023070,2,Cell Biology,73
+REG2023070,2,Microbiology,82
+REG2023070,2,Bioinformatics,81
+REG2023070,3,Biochemistry,79
+REG2023070,3,Genetics,56
+REG2023070,3,Cell Biology,96
+REG2023070,3,Microbiology,80
+REG2023070,3,Bioinformatics,98
+REG2023070,4,Biochemistry,70
+REG2023070,4,Genetics,63
+REG2023070,4,Cell Biology,73
+REG2023070,4,Microbiology,70
+REG2023070,4,Bioinformatics,76
+REG2023071,1,Circuit Analysis,52
+REG2023071,1,Digital Electronics,86
+REG2023071,1,Power Systems,64
+REG2023071,1,Control Systems,97
+REG2023071,1,Signals & Systems,59
+REG2023071,2,Circuit Analysis,51
+REG2023071,2,Digital Electronics,66
+REG2023071,2,Power Systems,85
+REG2023071,2,Control Systems,87
+REG2023071,2,Signals & Systems,87
+REG2023071,3,Circuit Analysis,96
+REG2023071,3,Digital Electronics,76
+REG2023071,3,Power Systems,68
+REG2023071,3,Control Systems,59
+REG2023071,3,Signals & Systems,62
+REG2023071,4,Circuit Analysis,71
+REG2023071,4,Digital Electronics,64
+REG2023071,4,Power Systems,74
+REG2023071,4,Control Systems,86
+REG2023071,4,Signals & Systems,65
+REG2023072,1,Data Structures,81
+REG2023072,1,Algorithms,85
+REG2023072,1,Database Systems,91
+REG2023072,1,Operating Systems,93
+REG2023072,1,Discrete Mathematics,71
+REG2023072,2,Data Structures,66
+REG2023072,2,Algorithms,98
+REG2023072,2,Database Systems,81
+REG2023072,2,Operating Systems,96
+REG2023072,2,Discrete Mathematics,91
+REG2023072,3,Data Structures,97
+REG2023072,3,Algorithms,81
+REG2023072,3,Database Systems,79
+REG2023072,3,Operating Systems,60
+REG2023072,3,Discrete Mathematics,96
+REG2023072,4,Data Structures,100
+REG2023072,4,Algorithms,72
+REG2023072,4,Database Systems,60
+REG2023072,4,Operating Systems,58
+REG2023072,4,Discrete Mathematics,96
+REG2023073,1,Structural Analysis,84
+REG2023073,1,Geotechnical Engineering,81
+REG2023073,1,Transportation Engineering,61
+REG2023073,1,Hydrology,84
+REG2023073,1,Surveying,91
+REG2023073,2,Structural Analysis,53
+REG2023073,2,Geotechnical Engineering,83
+REG2023073,2,Transportation Engineering,52
+REG2023073,2,Hydrology,54
+REG2023073,2,Surveying,92
+REG2023073,3,Structural Analysis,53
+REG2023073,3,Geotechnical Engineering,98
+REG2023073,3,Transportation Engineering,50
+REG2023073,3,Hydrology,76
+REG2023073,3,Surveying,58
+REG2023073,4,Structural Analysis,90
+REG2023073,4,Geotechnical Engineering,64
+REG2023073,4,Transportation Engineering,54
+REG2023073,4,Hydrology,95
+REG2023073,4,Surveying,59
+REG2023074,1,Structural Analysis,50
+REG2023074,1,Geotechnical Engineering,63
+REG2023074,1,Transportation Engineering,82
+REG2023074,1,Hydrology,79
+REG2023074,1,Surveying,73
+REG2023074,2,Structural Analysis,53
+REG2023074,2,Geotechnical Engineering,89
+REG2023074,2,Transportation Engineering,90
+REG2023074,2,Hydrology,92
+REG2023074,2,Surveying,89
+REG2023074,3,Structural Analysis,80
+REG2023074,3,Geotechnical Engineering,92
+REG2023074,3,Transportation Engineering,81
+REG2023074,3,Hydrology,51
+REG2023074,3,Surveying,50
+REG2023074,4,Structural Analysis,84
+REG2023074,4,Geotechnical Engineering,85
+REG2023074,4,Transportation Engineering,76
+REG2023074,4,Hydrology,50
+REG2023074,4,Surveying,51
+REG2023075,1,Thermodynamics,83
+REG2023075,1,Fluid Mechanics,96
+REG2023075,1,Machine Design,67
+REG2023075,1,Material Science,84
+REG2023075,1,Robotics,68
+REG2023075,2,Thermodynamics,51
+REG2023075,2,Fluid Mechanics,82
+REG2023075,2,Machine Design,94
+REG2023075,2,Material Science,93
+REG2023075,2,Robotics,77
+REG2023075,3,Thermodynamics,61
+REG2023075,3,Fluid Mechanics,56
+REG2023075,3,Machine Design,56
+REG2023075,3,Material Science,83
+REG2023075,3,Robotics,59
+REG2023075,4,Thermodynamics,65
+REG2023075,4,Fluid Mechanics,62
+REG2023075,4,Machine Design,89
+REG2023075,4,Material Science,83
+REG2023075,4,Robotics,66
+REG2023076,1,Circuit Analysis,72
+REG2023076,1,Digital Electronics,67
+REG2023076,1,Power Systems,100
+REG2023076,1,Control Systems,75
+REG2023076,1,Signals & Systems,55
+REG2023076,2,Circuit Analysis,73
+REG2023076,2,Digital Electronics,75
+REG2023076,2,Power Systems,79
+REG2023076,2,Control Systems,86
+REG2023076,2,Signals & Systems,65
+REG2023076,3,Circuit Analysis,94
+REG2023076,3,Digital Electronics,64
+REG2023076,3,Power Systems,69
+REG2023076,3,Control Systems,93
+REG2023076,3,Signals & Systems,55
+REG2023076,4,Circuit Analysis,91
+REG2023076,4,Digital Electronics,91
+REG2023076,4,Power Systems,98
+REG2023076,4,Control Systems,52
+REG2023076,4,Signals & Systems,55
+REG2023077,1,Structural Analysis,75
+REG2023077,1,Geotechnical Engineering,74
+REG2023077,1,Transportation Engineering,74
+REG2023077,1,Hydrology,85
+REG2023077,1,Surveying,80
+REG2023077,2,Structural Analysis,53
+REG2023077,2,Geotechnical Engineering,90
+REG2023077,2,Transportation Engineering,50
+REG2023077,2,Hydrology,94
+REG2023077,2,Surveying,60
+REG2023077,3,Structural Analysis,55
+REG2023077,3,Geotechnical Engineering,81
+REG2023077,3,Transportation Engineering,77
+REG2023077,3,Hydrology,91
+REG2023077,3,Surveying,100
+REG2023077,4,Structural Analysis,71
+REG2023077,4,Geotechnical Engineering,86
+REG2023077,4,Transportation Engineering,56
+REG2023077,4,Hydrology,83
+REG2023077,4,Surveying,52
+REG2023078,1,Biochemistry,64
+REG2023078,1,Genetics,63
+REG2023078,1,Cell Biology,94
+REG2023078,1,Microbiology,86
+REG2023078,1,Bioinformatics,80
+REG2023078,2,Biochemistry,67
+REG2023078,2,Genetics,52
+REG2023078,2,Cell Biology,54
+REG2023078,2,Microbiology,93
+REG2023078,2,Bioinformatics,67
+REG2023078,3,Biochemistry,84
+REG2023078,3,Genetics,86
+REG2023078,3,Cell Biology,92
+REG2023078,3,Microbiology,52
+REG2023078,3,Bioinformatics,61
+REG2023078,4,Biochemistry,70
+REG2023078,4,Genetics,51
+REG2023078,4,Cell Biology,63
+REG2023078,4,Microbiology,87
+REG2023078,4,Bioinformatics,59
+REG2023079,1,Data Structures,98
+REG2023079,1,Algorithms,95
+REG2023079,1,Database Systems,75
+REG2023079,1,Operating Systems,54
+REG2023079,1,Discrete Mathematics,69
+REG2023079,2,Data Structures,60
+REG2023079,2,Algorithms,86
+REG2023079,2,Database Systems,65
+REG2023079,2,Operating Systems,86
+REG2023079,2,Discrete Mathematics,74
+REG2023079,3,Data Structures,93
+REG2023079,3,Algorithms,84
+REG2023079,3,Database Systems,71
+REG2023079,3,Operating Systems,74
+REG2023079,3,Discrete Mathematics,98
+REG2023079,4,Data Structures,97
+REG2023079,4,Algorithms,58
+REG2023079,4,Database Systems,100
+REG2023079,4,Operating Systems,94
+REG2023079,4,Discrete Mathematics,96
+REG2023080,1,Biochemistry,55
+REG2023080,1,Genetics,82
+REG2023080,1,Cell Biology,97
+REG2023080,1,Microbiology,72
+REG2023080,1,Bioinformatics,53
+REG2023080,2,Biochemistry,56
+REG2023080,2,Genetics,77
+REG2023080,2,Cell Biology,64
+REG2023080,2,Microbiology,54
+REG2023080,2,Bioinformatics,71
+REG2023080,3,Biochemistry,88
+REG2023080,3,Genetics,99
+REG2023080,3,Cell Biology,89
+REG2023080,3,Microbiology,88
+REG2023080,3,Bioinformatics,75
+REG2023080,4,Biochemistry,99
+REG2023080,4,Genetics,70
+REG2023080,4,Cell Biology,51
+REG2023080,4,Microbiology,90
+REG2023080,4,Bioinformatics,67
+REG2023081,1,Biochemistry,100
+REG2023081,1,Genetics,78
+REG2023081,1,Cell Biology,81
+REG2023081,1,Microbiology,64
+REG2023081,1,Bioinformatics,72
+REG2023081,2,Biochemistry,85
+REG2023081,2,Genetics,74
+REG2023081,2,Cell Biology,77
+REG2023081,2,Microbiology,61
+REG2023081,2,Bioinformatics,93
+REG2023081,3,Biochemistry,87
+REG2023081,3,Genetics,92
+REG2023081,3,Cell Biology,74
+REG2023081,3,Microbiology,55
+REG2023081,3,Bioinformatics,99
+REG2023081,4,Biochemistry,89
+REG2023081,4,Genetics,68
+REG2023081,4,Cell Biology,65
+REG2023081,4,Microbiology,95
+REG2023081,4,Bioinformatics,54
+REG2023082,1,Structural Analysis,55
+REG2023082,1,Geotechnical Engineering,67
+REG2023082,1,Transportation Engineering,59
+REG2023082,1,Hydrology,74
+REG2023082,1,Surveying,95
+REG2023082,2,Structural Analysis,100
+REG2023082,2,Geotechnical Engineering,90
+REG2023082,2,Transportation Engineering,59
+REG2023082,2,Hydrology,97
+REG2023082,2,Surveying,74
+REG2023082,3,Structural Analysis,70
+REG2023082,3,Geotechnical Engineering,73
+REG2023082,3,Transportation Engineering,56
+REG2023082,3,Hydrology,55
+REG2023082,3,Surveying,50
+REG2023082,4,Structural Analysis,69
+REG2023082,4,Geotechnical Engineering,78
+REG2023082,4,Transportation Engineering,73
+REG2023082,4,Hydrology,98
+REG2023082,4,Surveying,67
+REG2023083,1,Structural Analysis,56
+REG2023083,1,Geotechnical Engineering,58
+REG2023083,1,Transportation Engineering,55
+REG2023083,1,Hydrology,61
+REG2023083,1,Surveying,77
+REG2023083,2,Structural Analysis,78
+REG2023083,2,Geotechnical Engineering,85
+REG2023083,2,Transportation Engineering,85
+REG2023083,2,Hydrology,82
+REG2023083,2,Surveying,76
+REG2023083,3,Structural Analysis,56
+REG2023083,3,Geotechnical Engineering,51
+REG2023083,3,Transportation Engineering,55
+REG2023083,3,Hydrology,72
+REG2023083,3,Surveying,85
+REG2023083,4,Structural Analysis,55
+REG2023083,4,Geotechnical Engineering,88
+REG2023083,4,Transportation Engineering,88
+REG2023083,4,Hydrology,100
+REG2023083,4,Surveying,70
+REG2023084,1,Biochemistry,74
+REG2023084,1,Genetics,50
+REG2023084,1,Cell Biology,68
+REG2023084,1,Microbiology,76
+REG2023084,1,Bioinformatics,74
+REG2023084,2,Biochemistry,99
+REG2023084,2,Genetics,55
+REG2023084,2,Cell Biology,96
+REG2023084,2,Microbiology,85
+REG2023084,2,Bioinformatics,65
+REG2023084,3,Biochemistry,86
+REG2023084,3,Genetics,83
+REG2023084,3,Cell Biology,60
+REG2023084,3,Microbiology,93
+REG2023084,3,Bioinformatics,74
+REG2023084,4,Biochemistry,60
+REG2023084,4,Genetics,58
+REG2023084,4,Cell Biology,67
+REG2023084,4,Microbiology,69
+REG2023084,4,Bioinformatics,67
+REG2023085,1,Thermodynamics,81
+REG2023085,1,Fluid Mechanics,59
+REG2023085,1,Machine Design,54
+REG2023085,1,Material Science,60
+REG2023085,1,Robotics,77
+REG2023085,2,Thermodynamics,67
+REG2023085,2,Fluid Mechanics,76
+REG2023085,2,Machine Design,69
+REG2023085,2,Material Science,80
+REG2023085,2,Robotics,100
+REG2023085,3,Thermodynamics,54
+REG2023085,3,Fluid Mechanics,73
+REG2023085,3,Machine Design,66
+REG2023085,3,Material Science,65
+REG2023085,3,Robotics,96
+REG2023085,4,Thermodynamics,90
+REG2023085,4,Fluid Mechanics,81
+REG2023085,4,Machine Design,88
+REG2023085,4,Material Science,89
+REG2023085,4,Robotics,62
+REG2023086,1,Circuit Analysis,79
+REG2023086,1,Digital Electronics,56
+REG2023086,1,Power Systems,58
+REG2023086,1,Control Systems,69
+REG2023086,1,Signals & Systems,50
+REG2023086,2,Circuit Analysis,75
+REG2023086,2,Digital Electronics,71
+REG2023086,2,Power Systems,89
+REG2023086,2,Control Systems,74
+REG2023086,2,Signals & Systems,71
+REG2023086,3,Circuit Analysis,78
+REG2023086,3,Digital Electronics,71
+REG2023086,3,Power Systems,77
+REG2023086,3,Control Systems,91
+REG2023086,3,Signals & Systems,88
+REG2023086,4,Circuit Analysis,58
+REG2023086,4,Digital Electronics,69
+REG2023086,4,Power Systems,70
+REG2023086,4,Control Systems,88
+REG2023086,4,Signals & Systems,94
+REG2023087,1,Circuit Analysis,62
+REG2023087,1,Digital Electronics,80
+REG2023087,1,Power Systems,70
+REG2023087,1,Control Systems,61
+REG2023087,1,Signals & Systems,75
+REG2023087,2,Circuit Analysis,70
+REG2023087,2,Digital Electronics,68
+REG2023087,2,Power Systems,97
+REG2023087,2,Control Systems,94
+REG2023087,2,Signals & Systems,90
+REG2023087,3,Circuit Analysis,81
+REG2023087,3,Digital Electronics,86
+REG2023087,3,Power Systems,100
+REG2023087,3,Control Systems,65
+REG2023087,3,Signals & Systems,70
+REG2023087,4,Circuit Analysis,74
+REG2023087,4,Digital Electronics,67
+REG2023087,4,Power Systems,100
+REG2023087,4,Control Systems,75
+REG2023087,4,Signals & Systems,73
+REG2023088,1,Structural Analysis,57
+REG2023088,1,Geotechnical Engineering,86
+REG2023088,1,Transportation Engineering,62
+REG2023088,1,Hydrology,87
+REG2023088,1,Surveying,84
+REG2023088,2,Structural Analysis,61
+REG2023088,2,Geotechnical Engineering,93
+REG2023088,2,Transportation Engineering,99
+REG2023088,2,Hydrology,85
+REG2023088,2,Surveying,51
+REG2023088,3,Structural Analysis,96
+REG2023088,3,Geotechnical Engineering,79
+REG2023088,3,Transportation Engineering,95
+REG2023088,3,Hydrology,63
+REG2023088,3,Surveying,78
+REG2023088,4,Structural Analysis,68
+REG2023088,4,Geotechnical Engineering,94
+REG2023088,4,Transportation Engineering,54
+REG2023088,4,Hydrology,100
+REG2023088,4,Surveying,100
+REG2023089,1,Data Structures,76
+REG2023089,1,Algorithms,93
+REG2023089,1,Database Systems,81
+REG2023089,1,Operating Systems,58
+REG2023089,1,Discrete Mathematics,90
+REG2023089,2,Data Structures,69
+REG2023089,2,Algorithms,65
+REG2023089,2,Database Systems,66
+REG2023089,2,Operating Systems,92
+REG2023089,2,Discrete Mathematics,59
+REG2023089,3,Data Structures,95
+REG2023089,3,Algorithms,77
+REG2023089,3,Database Systems,100
+REG2023089,3,Operating Systems,74
+REG2023089,3,Discrete Mathematics,54
+REG2023089,4,Data Structures,78
+REG2023089,4,Algorithms,88
+REG2023089,4,Database Systems,80
+REG2023089,4,Operating Systems,87
+REG2023089,4,Discrete Mathematics,75
+REG2023090,1,Circuit Analysis,84
+REG2023090,1,Digital Electronics,82
+REG2023090,1,Power Systems,94
+REG2023090,1,Control Systems,76
+REG2023090,1,Signals & Systems,84
+REG2023090,2,Circuit Analysis,52
+REG2023090,2,Digital Electronics,100
+REG2023090,2,Power Systems,73
+REG2023090,2,Control Systems,94
+REG2023090,2,Signals & Systems,84
+REG2023090,3,Circuit Analysis,88
+REG2023090,3,Digital Electronics,90
+REG2023090,3,Power Systems,55
+REG2023090,3,Control Systems,56
+REG2023090,3,Signals & Systems,99
+REG2023090,4,Circuit Analysis,65
+REG2023090,4,Digital Electronics,92
+REG2023090,4,Power Systems,92
+REG2023090,4,Control Systems,72
+REG2023090,4,Signals & Systems,60
+REG2023091,1,Circuit Analysis,91
+REG2023091,1,Digital Electronics,89
+REG2023091,1,Power Systems,52
+REG2023091,1,Control Systems,86
+REG2023091,1,Signals & Systems,91
+REG2023091,2,Circuit Analysis,93
+REG2023091,2,Digital Electronics,91
+REG2023091,2,Power Systems,75
+REG2023091,2,Control Systems,98
+REG2023091,2,Signals & Systems,71
+REG2023091,3,Circuit Analysis,100
+REG2023091,3,Digital Electronics,77
+REG2023091,3,Power Systems,56
+REG2023091,3,Control Systems,50
+REG2023091,3,Signals & Systems,56
+REG2023091,4,Circuit Analysis,66
+REG2023091,4,Digital Electronics,64
+REG2023091,4,Power Systems,82
+REG2023091,4,Control Systems,97
+REG2023091,4,Signals & Systems,83
+REG2023092,1,Structural Analysis,85
+REG2023092,1,Geotechnical Engineering,87
+REG2023092,1,Transportation Engineering,94
+REG2023092,1,Hydrology,86
+REG2023092,1,Surveying,64
+REG2023092,2,Structural Analysis,78
+REG2023092,2,Geotechnical Engineering,73
+REG2023092,2,Transportation Engineering,75
+REG2023092,2,Hydrology,79
+REG2023092,2,Surveying,99
+REG2023092,3,Structural Analysis,93
+REG2023092,3,Geotechnical Engineering,87
+REG2023092,3,Transportation Engineering,94
+REG2023092,3,Hydrology,82
+REG2023092,3,Surveying,59
+REG2023092,4,Structural Analysis,72
+REG2023092,4,Geotechnical Engineering,51
+REG2023092,4,Transportation Engineering,80
+REG2023092,4,Hydrology,56
+REG2023092,4,Surveying,68
+REG2023093,1,Structural Analysis,76
+REG2023093,1,Geotechnical Engineering,55
+REG2023093,1,Transportation Engineering,57
+REG2023093,1,Hydrology,96
+REG2023093,1,Surveying,59
+REG2023093,2,Structural Analysis,72
+REG2023093,2,Geotechnical Engineering,69
+REG2023093,2,Transportation Engineering,71
+REG2023093,2,Hydrology,79
+REG2023093,2,Surveying,100
+REG2023093,3,Structural Analysis,63
+REG2023093,3,Geotechnical Engineering,83
+REG2023093,3,Transportation Engineering,80
+REG2023093,3,Hydrology,72
+REG2023093,3,Surveying,80
+REG2023093,4,Structural Analysis,56
+REG2023093,4,Geotechnical Engineering,78
+REG2023093,4,Transportation Engineering,96
+REG2023093,4,Hydrology,94
+REG2023093,4,Surveying,78
+REG2023094,1,Biochemistry,70
+REG2023094,1,Genetics,54
+REG2023094,1,Cell Biology,69
+REG2023094,1,Microbiology,52
+REG2023094,1,Bioinformatics,95
+REG2023094,2,Biochemistry,57
+REG2023094,2,Genetics,51
+REG2023094,2,Cell Biology,71
+REG2023094,2,Microbiology,91
+REG2023094,2,Bioinformatics,56
+REG2023094,3,Biochemistry,93
+REG2023094,3,Genetics,60
+REG2023094,3,Cell Biology,97
+REG2023094,3,Microbiology,65
+REG2023094,3,Bioinformatics,83
+REG2023094,4,Biochemistry,61
+REG2023094,4,Genetics,85
+REG2023094,4,Cell Biology,60
+REG2023094,4,Microbiology,71
+REG2023094,4,Bioinformatics,85
+REG2023095,1,Circuit Analysis,77
+REG2023095,1,Digital Electronics,79
+REG2023095,1,Power Systems,64
+REG2023095,1,Control Systems,75
+REG2023095,1,Signals & Systems,90
+REG2023095,2,Circuit Analysis,61
+REG2023095,2,Digital Electronics,61
+REG2023095,2,Power Systems,90
+REG2023095,2,Control Systems,92
+REG2023095,2,Signals & Systems,77
+REG2023095,3,Circuit Analysis,75
+REG2023095,3,Digital Electronics,51
+REG2023095,3,Power Systems,97
+REG2023095,3,Control Systems,89
+REG2023095,3,Signals & Systems,62
+REG2023095,4,Circuit Analysis,78
+REG2023095,4,Digital Electronics,87
+REG2023095,4,Power Systems,77
+REG2023095,4,Control Systems,74
+REG2023095,4,Signals & Systems,50
+REG2023096,1,Circuit Analysis,95
+REG2023096,1,Digital Electronics,63
+REG2023096,1,Power Systems,63
+REG2023096,1,Control Systems,67
+REG2023096,1,Signals & Systems,98
+REG2023096,2,Circuit Analysis,95
+REG2023096,2,Digital Electronics,100
+REG2023096,2,Power Systems,54
+REG2023096,2,Control Systems,86
+REG2023096,2,Signals & Systems,56
+REG2023096,3,Circuit Analysis,84
+REG2023096,3,Digital Electronics,61
+REG2023096,3,Power Systems,73
+REG2023096,3,Control Systems,70
+REG2023096,3,Signals & Systems,62
+REG2023096,4,Circuit Analysis,79
+REG2023096,4,Digital Electronics,57
+REG2023096,4,Power Systems,66
+REG2023096,4,Control Systems,92
+REG2023096,4,Signals & Systems,81
+REG2023097,1,Thermodynamics,83
+REG2023097,1,Fluid Mechanics,90
+REG2023097,1,Machine Design,70
+REG2023097,1,Material Science,88
+REG2023097,1,Robotics,74
+REG2023097,2,Thermodynamics,89
+REG2023097,2,Fluid Mechanics,75
+REG2023097,2,Machine Design,87
+REG2023097,2,Material Science,57
+REG2023097,2,Robotics,72
+REG2023097,3,Thermodynamics,72
+REG2023097,3,Fluid Mechanics,79
+REG2023097,3,Machine Design,89
+REG2023097,3,Material Science,61
+REG2023097,3,Robotics,93
+REG2023097,4,Thermodynamics,95
+REG2023097,4,Fluid Mechanics,69
+REG2023097,4,Machine Design,89
+REG2023097,4,Material Science,87
+REG2023097,4,Robotics,55
+REG2023098,1,Circuit Analysis,93
+REG2023098,1,Digital Electronics,58
+REG2023098,1,Power Systems,70
+REG2023098,1,Control Systems,57
+REG2023098,1,Signals & Systems,65
+REG2023098,2,Circuit Analysis,69
+REG2023098,2,Digital Electronics,57
+REG2023098,2,Power Systems,61
+REG2023098,2,Control Systems,73
+REG2023098,2,Signals & Systems,94
+REG2023098,3,Circuit Analysis,59
+REG2023098,3,Digital Electronics,82
+REG2023098,3,Power Systems,74
+REG2023098,3,Control Systems,76
+REG2023098,3,Signals & Systems,88
+REG2023098,4,Circuit Analysis,58
+REG2023098,4,Digital Electronics,86
+REG2023098,4,Power Systems,74
+REG2023098,4,Control Systems,77
+REG2023098,4,Signals & Systems,61
+REG2023099,1,Biochemistry,81
+REG2023099,1,Genetics,90
+REG2023099,1,Cell Biology,84
+REG2023099,1,Microbiology,94
+REG2023099,1,Bioinformatics,91
+REG2023099,2,Biochemistry,61
+REG2023099,2,Genetics,85
+REG2023099,2,Cell Biology,60
+REG2023099,2,Microbiology,81
+REG2023099,2,Bioinformatics,68
+REG2023099,3,Biochemistry,58
+REG2023099,3,Genetics,61
+REG2023099,3,Cell Biology,70
+REG2023099,3,Microbiology,78
+REG2023099,3,Bioinformatics,89
+REG2023099,4,Biochemistry,53
+REG2023099,4,Genetics,72
+REG2023099,4,Cell Biology,50
+REG2023099,4,Microbiology,81
+REG2023099,4,Bioinformatics,58
+REG2023100,1,Data Structures,62
+REG2023100,1,Algorithms,74
+REG2023100,1,Database Systems,85
+REG2023100,1,Operating Systems,82
+REG2023100,1,Discrete Mathematics,91
+REG2023100,2,Data Structures,81
+REG2023100,2,Algorithms,76
+REG2023100,2,Database Systems,93
+REG2023100,2,Operating Systems,81
+REG2023100,2,Discrete Mathematics,76
+REG2023100,3,Data Structures,95
+REG2023100,3,Algorithms,78
+REG2023100,3,Database Systems,81
+REG2023100,3,Operating Systems,60
+REG2023100,3,Discrete Mathematics,55
+REG2023100,4,Data Structures,86
+REG2023100,4,Algorithms,51
+REG2023100,4,Database Systems,100
+REG2023100,4,Operating Systems,98
+REG2023100,4,Discrete Mathematics,64
+REG2023101,1,Thermodynamics,68
+REG2023101,1,Fluid Mechanics,52
+REG2023101,1,Machine Design,67
+REG2023101,1,Material Science,64
+REG2023101,1,Robotics,84
+REG2023101,2,Thermodynamics,68
+REG2023101,2,Fluid Mechanics,60
+REG2023101,2,Machine Design,99
+REG2023101,2,Material Science,79
+REG2023101,2,Robotics,86
+REG2023101,3,Thermodynamics,97
+REG2023101,3,Fluid Mechanics,99
+REG2023101,3,Machine Design,99
+REG2023101,3,Material Science,81
+REG2023101,3,Robotics,85
+REG2023101,4,Thermodynamics,82
+REG2023101,4,Fluid Mechanics,57
+REG2023101,4,Machine Design,86
+REG2023101,4,Material Science,57
+REG2023101,4,Robotics,67
+REG2023102,1,Structural Analysis,99
+REG2023102,1,Geotechnical Engineering,84
+REG2023102,1,Transportation Engineering,73
+REG2023102,1,Hydrology,84
+REG2023102,1,Surveying,98
+REG2023102,2,Structural Analysis,52
+REG2023102,2,Geotechnical Engineering,98
+REG2023102,2,Transportation Engineering,96
+REG2023102,2,Hydrology,78
+REG2023102,2,Surveying,84
+REG2023102,3,Structural Analysis,63
+REG2023102,3,Geotechnical Engineering,77
+REG2023102,3,Transportation Engineering,56
+REG2023102,3,Hydrology,97
+REG2023102,3,Surveying,91
+REG2023102,4,Structural Analysis,98
+REG2023102,4,Geotechnical Engineering,65
+REG2023102,4,Transportation Engineering,69
+REG2023102,4,Hydrology,52
+REG2023102,4,Surveying,78
+REG2023103,1,Circuit Analysis,66
+REG2023103,1,Digital Electronics,72
+REG2023103,1,Power Systems,55
+REG2023103,1,Control Systems,78
+REG2023103,1,Signals & Systems,57
+REG2023103,2,Circuit Analysis,99
+REG2023103,2,Digital Electronics,65
+REG2023103,2,Power Systems,63
+REG2023103,2,Control Systems,97
+REG2023103,2,Signals & Systems,87
+REG2023103,3,Circuit Analysis,94
+REG2023103,3,Digital Electronics,72
+REG2023103,3,Power Systems,95
+REG2023103,3,Control Systems,89
+REG2023103,3,Signals & Systems,90
+REG2023103,4,Circuit Analysis,77
+REG2023103,4,Digital Electronics,60
+REG2023103,4,Power Systems,89
+REG2023103,4,Control Systems,58
+REG2023103,4,Signals & Systems,100
+REG2023104,1,Biochemistry,63
+REG2023104,1,Genetics,63
+REG2023104,1,Cell Biology,53
+REG2023104,1,Microbiology,86
+REG2023104,1,Bioinformatics,72
+REG2023104,2,Biochemistry,84
+REG2023104,2,Genetics,67
+REG2023104,2,Cell Biology,88
+REG2023104,2,Microbiology,84
+REG2023104,2,Bioinformatics,60
+REG2023104,3,Biochemistry,70
+REG2023104,3,Genetics,95
+REG2023104,3,Cell Biology,68
+REG2023104,3,Microbiology,68
+REG2023104,3,Bioinformatics,86
+REG2023104,4,Biochemistry,67
+REG2023104,4,Genetics,82
+REG2023104,4,Cell Biology,93
+REG2023104,4,Microbiology,56
+REG2023104,4,Bioinformatics,58
+REG2023105,1,Structural Analysis,98
+REG2023105,1,Geotechnical Engineering,100
+REG2023105,1,Transportation Engineering,76
+REG2023105,1,Hydrology,53
+REG2023105,1,Surveying,67
+REG2023105,2,Structural Analysis,91
+REG2023105,2,Geotechnical Engineering,58
+REG2023105,2,Transportation Engineering,94
+REG2023105,2,Hydrology,58
+REG2023105,2,Surveying,65
+REG2023105,3,Structural Analysis,59
+REG2023105,3,Geotechnical Engineering,95
+REG2023105,3,Transportation Engineering,70
+REG2023105,3,Hydrology,65
+REG2023105,3,Surveying,98
+REG2023105,4,Structural Analysis,93
+REG2023105,4,Geotechnical Engineering,75
+REG2023105,4,Transportation Engineering,81
+REG2023105,4,Hydrology,59
+REG2023105,4,Surveying,86
+REG2023106,1,Biochemistry,90
+REG2023106,1,Genetics,67
+REG2023106,1,Cell Biology,90
+REG2023106,1,Microbiology,76
+REG2023106,1,Bioinformatics,74
+REG2023106,2,Biochemistry,78
+REG2023106,2,Genetics,54
+REG2023106,2,Cell Biology,90
+REG2023106,2,Microbiology,100
+REG2023106,2,Bioinformatics,99
+REG2023106,3,Biochemistry,55
+REG2023106,3,Genetics,75
+REG2023106,3,Cell Biology,82
+REG2023106,3,Microbiology,97
+REG2023106,3,Bioinformatics,67
+REG2023106,4,Biochemistry,94
+REG2023106,4,Genetics,73
+REG2023106,4,Cell Biology,79
+REG2023106,4,Microbiology,81
+REG2023106,4,Bioinformatics,70
+REG2023107,1,Circuit Analysis,87
+REG2023107,1,Digital Electronics,50
+REG2023107,1,Power Systems,99
+REG2023107,1,Control Systems,96
+REG2023107,1,Signals & Systems,55
+REG2023107,2,Circuit Analysis,96
+REG2023107,2,Digital Electronics,79
+REG2023107,2,Power Systems,90
+REG2023107,2,Control Systems,92
+REG2023107,2,Signals & Systems,94
+REG2023107,3,Circuit Analysis,72
+REG2023107,3,Digital Electronics,54
+REG2023107,3,Power Systems,100
+REG2023107,3,Control Systems,84
+REG2023107,3,Signals & Systems,75
+REG2023107,4,Circuit Analysis,63
+REG2023107,4,Digital Electronics,77
+REG2023107,4,Power Systems,63
+REG2023107,4,Control Systems,81
+REG2023107,4,Signals & Systems,67
+REG2023108,1,Biochemistry,70
+REG2023108,1,Genetics,68
+REG2023108,1,Cell Biology,71
+REG2023108,1,Microbiology,85
+REG2023108,1,Bioinformatics,86
+REG2023108,2,Biochemistry,58
+REG2023108,2,Genetics,86
+REG2023108,2,Cell Biology,81
+REG2023108,2,Microbiology,100
+REG2023108,2,Bioinformatics,71
+REG2023108,3,Biochemistry,93
+REG2023108,3,Genetics,98
+REG2023108,3,Cell Biology,53
+REG2023108,3,Microbiology,52
+REG2023108,3,Bioinformatics,56
+REG2023108,4,Biochemistry,90
+REG2023108,4,Genetics,100
+REG2023108,4,Cell Biology,79
+REG2023108,4,Microbiology,51
+REG2023108,4,Bioinformatics,57
+REG2023109,1,Thermodynamics,60
+REG2023109,1,Fluid Mechanics,78
+REG2023109,1,Machine Design,79
+REG2023109,1,Material Science,50
+REG2023109,1,Robotics,77
+REG2023109,2,Thermodynamics,62
+REG2023109,2,Fluid Mechanics,94
+REG2023109,2,Machine Design,58
+REG2023109,2,Material Science,91
+REG2023109,2,Robotics,69
+REG2023109,3,Thermodynamics,60
+REG2023109,3,Fluid Mechanics,67
+REG2023109,3,Machine Design,55
+REG2023109,3,Material Science,91
+REG2023109,3,Robotics,73
+REG2023109,4,Thermodynamics,66
+REG2023109,4,Fluid Mechanics,55
+REG2023109,4,Machine Design,73
+REG2023109,4,Material Science,92
+REG2023109,4,Robotics,91
+REG2023110,1,Data Structures,60
+REG2023110,1,Algorithms,53
+REG2023110,1,Database Systems,75
+REG2023110,1,Operating Systems,90
+REG2023110,1,Discrete Mathematics,69
+REG2023110,2,Data Structures,96
+REG2023110,2,Algorithms,94
+REG2023110,2,Database Systems,98
+REG2023110,2,Operating Systems,64
+REG2023110,2,Discrete Mathematics,77
+REG2023110,3,Data Structures,91
+REG2023110,3,Algorithms,55
+REG2023110,3,Database Systems,95
+REG2023110,3,Operating Systems,56
+REG2023110,3,Discrete Mathematics,50
+REG2023110,4,Data Structures,63
+REG2023110,4,Algorithms,80
+REG2023110,4,Database Systems,54
+REG2023110,4,Operating Systems,58
+REG2023110,4,Discrete Mathematics,87
+REG2023111,1,Circuit Analysis,64
+REG2023111,1,Digital Electronics,83
+REG2023111,1,Power Systems,93
+REG2023111,1,Control Systems,78
+REG2023111,1,Signals & Systems,50
+REG2023111,2,Circuit Analysis,50
+REG2023111,2,Digital Electronics,94
+REG2023111,2,Power Systems,71
+REG2023111,2,Control Systems,57
+REG2023111,2,Signals & Systems,77
+REG2023111,3,Circuit Analysis,94
+REG2023111,3,Digital Electronics,58
+REG2023111,3,Power Systems,80
+REG2023111,3,Control Systems,54
+REG2023111,3,Signals & Systems,64
+REG2023111,4,Circuit Analysis,74
+REG2023111,4,Digital Electronics,55
+REG2023111,4,Power Systems,96
+REG2023111,4,Control Systems,56
+REG2023111,4,Signals & Systems,56
+REG2023112,1,Thermodynamics,70
+REG2023112,1,Fluid Mechanics,73
+REG2023112,1,Machine Design,69
+REG2023112,1,Material Science,58
+REG2023112,1,Robotics,74
+REG2023112,2,Thermodynamics,99
+REG2023112,2,Fluid Mechanics,98
+REG2023112,2,Machine Design,58
+REG2023112,2,Material Science,91
+REG2023112,2,Robotics,93
+REG2023112,3,Thermodynamics,59
+REG2023112,3,Fluid Mechanics,54
+REG2023112,3,Machine Design,83
+REG2023112,3,Material Science,86
+REG2023112,3,Robotics,50
+REG2023112,4,Thermodynamics,89
+REG2023112,4,Fluid Mechanics,91
+REG2023112,4,Machine Design,60
+REG2023112,4,Material Science,78
+REG2023112,4,Robotics,72
+REG2023113,1,Data Structures,96
+REG2023113,1,Algorithms,63
+REG2023113,1,Database Systems,90
+REG2023113,1,Operating Systems,97
+REG2023113,1,Discrete Mathematics,59
+REG2023113,2,Data Structures,76
+REG2023113,2,Algorithms,89
+REG2023113,2,Database Systems,93
+REG2023113,2,Operating Systems,78
+REG2023113,2,Discrete Mathematics,63
+REG2023113,3,Data Structures,55
+REG2023113,3,Algorithms,56
+REG2023113,3,Database Systems,58
+REG2023113,3,Operating Systems,98
+REG2023113,3,Discrete Mathematics,57
+REG2023113,4,Data Structures,87
+REG2023113,4,Algorithms,96
+REG2023113,4,Database Systems,74
+REG2023113,4,Operating Systems,72
+REG2023113,4,Discrete Mathematics,77
+REG2023114,1,Thermodynamics,70
+REG2023114,1,Fluid Mechanics,100
+REG2023114,1,Machine Design,58
+REG2023114,1,Material Science,65
+REG2023114,1,Robotics,67
+REG2023114,2,Thermodynamics,91
+REG2023114,2,Fluid Mechanics,55
+REG2023114,2,Machine Design,65
+REG2023114,2,Material Science,85
+REG2023114,2,Robotics,88
+REG2023114,3,Thermodynamics,88
+REG2023114,3,Fluid Mechanics,96
+REG2023114,3,Machine Design,88
+REG2023114,3,Material Science,68
+REG2023114,3,Robotics,99
+REG2023114,4,Thermodynamics,94
+REG2023114,4,Fluid Mechanics,51
+REG2023114,4,Machine Design,92
+REG2023114,4,Material Science,69
+REG2023114,4,Robotics,63
+REG2023115,1,Circuit Analysis,83
+REG2023115,1,Digital Electronics,88
+REG2023115,1,Power Systems,82
+REG2023115,1,Control Systems,62
+REG2023115,1,Signals & Systems,97
+REG2023115,2,Circuit Analysis,75
+REG2023115,2,Digital Electronics,68
+REG2023115,2,Power Systems,91
+REG2023115,2,Control Systems,53
+REG2023115,2,Signals & Systems,100
+REG2023115,3,Circuit Analysis,100
+REG2023115,3,Digital Electronics,65
+REG2023115,3,Power Systems,81
+REG2023115,3,Control Systems,74
+REG2023115,3,Signals & Systems,57
+REG2023115,4,Circuit Analysis,65
+REG2023115,4,Digital Electronics,81
+REG2023115,4,Power Systems,90
+REG2023115,4,Control Systems,88
+REG2023115,4,Signals & Systems,54
+REG2023116,1,Thermodynamics,83
+REG2023116,1,Fluid Mechanics,50
+REG2023116,1,Machine Design,73
+REG2023116,1,Material Science,70
+REG2023116,1,Robotics,58
+REG2023116,2,Thermodynamics,74
+REG2023116,2,Fluid Mechanics,86
+REG2023116,2,Machine Design,76
+REG2023116,2,Material Science,73
+REG2023116,2,Robotics,84
+REG2023116,3,Thermodynamics,93
+REG2023116,3,Fluid Mechanics,61
+REG2023116,3,Machine Design,98
+REG2023116,3,Material Science,80
+REG2023116,3,Robotics,99
+REG2023116,4,Thermodynamics,54
+REG2023116,4,Fluid Mechanics,51
+REG2023116,4,Machine Design,87
+REG2023116,4,Material Science,54
+REG2023116,4,Robotics,50
+REG2023117,1,Data Structures,66
+REG2023117,1,Algorithms,63
+REG2023117,1,Database Systems,52
+REG2023117,1,Operating Systems,53
+REG2023117,1,Discrete Mathematics,100
+REG2023117,2,Data Structures,75
+REG2023117,2,Algorithms,82
+REG2023117,2,Database Systems,68
+REG2023117,2,Operating Systems,90
+REG2023117,2,Discrete Mathematics,95
+REG2023117,3,Data Structures,82
+REG2023117,3,Algorithms,99
+REG2023117,3,Database Systems,76
+REG2023117,3,Operating Systems,77
+REG2023117,3,Discrete Mathematics,94
+REG2023117,4,Data Structures,75
+REG2023117,4,Algorithms,55
+REG2023117,4,Database Systems,90
+REG2023117,4,Operating Systems,84
+REG2023117,4,Discrete Mathematics,84
+REG2023118,1,Thermodynamics,89
+REG2023118,1,Fluid Mechanics,59
+REG2023118,1,Machine Design,67
+REG2023118,1,Material Science,55
+REG2023118,1,Robotics,69
+REG2023118,2,Thermodynamics,55
+REG2023118,2,Fluid Mechanics,82
+REG2023118,2,Machine Design,63
+REG2023118,2,Material Science,59
+REG2023118,2,Robotics,84
+REG2023118,3,Thermodynamics,70
+REG2023118,3,Fluid Mechanics,75
+REG2023118,3,Machine Design,87
+REG2023118,3,Material Science,90
+REG2023118,3,Robotics,98
+REG2023118,4,Thermodynamics,91
+REG2023118,4,Fluid Mechanics,93
+REG2023118,4,Machine Design,91
+REG2023118,4,Material Science,54
+REG2023118,4,Robotics,69
+REG2023119,1,Thermodynamics,94
+REG2023119,1,Fluid Mechanics,77
+REG2023119,1,Machine Design,96
+REG2023119,1,Material Science,65
+REG2023119,1,Robotics,53
+REG2023119,2,Thermodynamics,65
+REG2023119,2,Fluid Mechanics,55
+REG2023119,2,Machine Design,77
+REG2023119,2,Material Science,57
+REG2023119,2,Robotics,79
+REG2023119,3,Thermodynamics,89
+REG2023119,3,Fluid Mechanics,88
+REG2023119,3,Machine Design,53
+REG2023119,3,Material Science,69
+REG2023119,3,Robotics,92
+REG2023119,4,Thermodynamics,97
+REG2023119,4,Fluid Mechanics,92
+REG2023119,4,Machine Design,97
+REG2023119,4,Material Science,61
+REG2023119,4,Robotics,57
+REG2023120,1,Structural Analysis,50
+REG2023120,1,Geotechnical Engineering,95
+REG2023120,1,Transportation Engineering,58
+REG2023120,1,Hydrology,94
+REG2023120,1,Surveying,50
+REG2023120,2,Structural Analysis,60
+REG2023120,2,Geotechnical Engineering,81
+REG2023120,2,Transportation Engineering,72
+REG2023120,2,Hydrology,83
+REG2023120,2,Surveying,83
+REG2023120,3,Structural Analysis,100
+REG2023120,3,Geotechnical Engineering,96
+REG2023120,3,Transportation Engineering,66
+REG2023120,3,Hydrology,60
+REG2023120,3,Surveying,73
+REG2023120,4,Structural Analysis,58
+REG2023120,4,Geotechnical Engineering,97
+REG2023120,4,Transportation Engineering,99
+REG2023120,4,Hydrology,67
+REG2023120,4,Surveying,96
+REG2023121,1,Biochemistry,57
+REG2023121,1,Genetics,99
+REG2023121,1,Cell Biology,51
+REG2023121,1,Microbiology,71
+REG2023121,1,Bioinformatics,77
+REG2023121,2,Biochemistry,67
+REG2023121,2,Genetics,83
+REG2023121,2,Cell Biology,54
+REG2023121,2,Microbiology,66
+REG2023121,2,Bioinformatics,95
+REG2023121,3,Biochemistry,86
+REG2023121,3,Genetics,90
+REG2023121,3,Cell Biology,54
+REG2023121,3,Microbiology,81
+REG2023121,3,Bioinformatics,79
+REG2023121,4,Biochemistry,82
+REG2023121,4,Genetics,73
+REG2023121,4,Cell Biology,53
+REG2023121,4,Microbiology,81
+REG2023121,4,Bioinformatics,86
+REG2023122,1,Circuit Analysis,60
+REG2023122,1,Digital Electronics,73
+REG2023122,1,Power Systems,60
+REG2023122,1,Control Systems,66
+REG2023122,1,Signals & Systems,99
+REG2023122,2,Circuit Analysis,56
+REG2023122,2,Digital Electronics,86
+REG2023122,2,Power Systems,93
+REG2023122,2,Control Systems,96
+REG2023122,2,Signals & Systems,57
+REG2023122,3,Circuit Analysis,64
+REG2023122,3,Digital Electronics,97
+REG2023122,3,Power Systems,82
+REG2023122,3,Control Systems,50
+REG2023122,3,Signals & Systems,52
+REG2023122,4,Circuit Analysis,50
+REG2023122,4,Digital Electronics,65
+REG2023122,4,Power Systems,52
+REG2023122,4,Control Systems,80
+REG2023122,4,Signals & Systems,73
+REG2023123,1,Biochemistry,74
+REG2023123,1,Genetics,59
+REG2023123,1,Cell Biology,61
+REG2023123,1,Microbiology,52
+REG2023123,1,Bioinformatics,85
+REG2023123,2,Biochemistry,95
+REG2023123,2,Genetics,97
+REG2023123,2,Cell Biology,91
+REG2023123,2,Microbiology,76
+REG2023123,2,Bioinformatics,64
+REG2023123,3,Biochemistry,70
+REG2023123,3,Genetics,65
+REG2023123,3,Cell Biology,76
+REG2023123,3,Microbiology,96
+REG2023123,3,Bioinformatics,70
+REG2023123,4,Biochemistry,67
+REG2023123,4,Genetics,54
+REG2023123,4,Cell Biology,86
+REG2023123,4,Microbiology,73
+REG2023123,4,Bioinformatics,57
+REG2023124,1,Thermodynamics,82
+REG2023124,1,Fluid Mechanics,93
+REG2023124,1,Machine Design,53
+REG2023124,1,Material Science,61
+REG2023124,1,Robotics,64
+REG2023124,2,Thermodynamics,83
+REG2023124,2,Fluid Mechanics,52
+REG2023124,2,Machine Design,75
+REG2023124,2,Material Science,54
+REG2023124,2,Robotics,79
+REG2023124,3,Thermodynamics,68
+REG2023124,3,Fluid Mechanics,99
+REG2023124,3,Machine Design,69
+REG2023124,3,Material Science,70
+REG2023124,3,Robotics,55
+REG2023124,4,Thermodynamics,85
+REG2023124,4,Fluid Mechanics,79
+REG2023124,4,Machine Design,50
+REG2023124,4,Material Science,73
+REG2023124,4,Robotics,62
+REG2023125,1,Structural Analysis,68
+REG2023125,1,Geotechnical Engineering,86
+REG2023125,1,Transportation Engineering,100
+REG2023125,1,Hydrology,69
+REG2023125,1,Surveying,97
+REG2023125,2,Structural Analysis,89
+REG2023125,2,Geotechnical Engineering,65
+REG2023125,2,Transportation Engineering,79
+REG2023125,2,Hydrology,73
+REG2023125,2,Surveying,87
+REG2023125,3,Structural Analysis,81
+REG2023125,3,Geotechnical Engineering,99
+REG2023125,3,Transportation Engineering,99
+REG2023125,3,Hydrology,62
+REG2023125,3,Surveying,96
+REG2023125,4,Structural Analysis,84
+REG2023125,4,Geotechnical Engineering,98
+REG2023125,4,Transportation Engineering,100
+REG2023125,4,Hydrology,65
+REG2023125,4,Surveying,59
+REG2023126,1,Data Structures,50
+REG2023126,1,Algorithms,76
+REG2023126,1,Database Systems,51
+REG2023126,1,Operating Systems,64
+REG2023126,1,Discrete Mathematics,84
+REG2023126,2,Data Structures,72
+REG2023126,2,Algorithms,90
+REG2023126,2,Database Systems,94
+REG2023126,2,Operating Systems,50
+REG2023126,2,Discrete Mathematics,71
+REG2023126,3,Data Structures,50
+REG2023126,3,Algorithms,98
+REG2023126,3,Database Systems,92
+REG2023126,3,Operating Systems,74
+REG2023126,3,Discrete Mathematics,97
+REG2023126,4,Data Structures,96
+REG2023126,4,Algorithms,69
+REG2023126,4,Database Systems,56
+REG2023126,4,Operating Systems,63
+REG2023126,4,Discrete Mathematics,83
+REG2023127,1,Biochemistry,65
+REG2023127,1,Genetics,76
+REG2023127,1,Cell Biology,81
+REG2023127,1,Microbiology,53
+REG2023127,1,Bioinformatics,59
+REG2023127,2,Biochemistry,95
+REG2023127,2,Genetics,67
+REG2023127,2,Cell Biology,55
+REG2023127,2,Microbiology,52
+REG2023127,2,Bioinformatics,64
+REG2023127,3,Biochemistry,83
+REG2023127,3,Genetics,76
+REG2023127,3,Cell Biology,94
+REG2023127,3,Microbiology,73
+REG2023127,3,Bioinformatics,79
+REG2023127,4,Biochemistry,97
+REG2023127,4,Genetics,55
+REG2023127,4,Cell Biology,87
+REG2023127,4,Microbiology,56
+REG2023127,4,Bioinformatics,82
+REG2023128,1,Circuit Analysis,58
+REG2023128,1,Digital Electronics,90
+REG2023128,1,Power Systems,75
+REG2023128,1,Control Systems,54
+REG2023128,1,Signals & Systems,87
+REG2023128,2,Circuit Analysis,86
+REG2023128,2,Digital Electronics,53
+REG2023128,2,Power Systems,77
+REG2023128,2,Control Systems,92
+REG2023128,2,Signals & Systems,58
+REG2023128,3,Circuit Analysis,65
+REG2023128,3,Digital Electronics,68
+REG2023128,3,Power Systems,66
+REG2023128,3,Control Systems,70
+REG2023128,3,Signals & Systems,75
+REG2023128,4,Circuit Analysis,94
+REG2023128,4,Digital Electronics,97
+REG2023128,4,Power Systems,70
+REG2023128,4,Control Systems,70
+REG2023128,4,Signals & Systems,78
+REG2023129,1,Structural Analysis,67
+REG2023129,1,Geotechnical Engineering,64
+REG2023129,1,Transportation Engineering,54
+REG2023129,1,Hydrology,62
+REG2023129,1,Surveying,58
+REG2023129,2,Structural Analysis,99
+REG2023129,2,Geotechnical Engineering,99
+REG2023129,2,Transportation Engineering,87
+REG2023129,2,Hydrology,56
+REG2023129,2,Surveying,59
+REG2023129,3,Structural Analysis,56
+REG2023129,3,Geotechnical Engineering,60
+REG2023129,3,Transportation Engineering,78
+REG2023129,3,Hydrology,79
+REG2023129,3,Surveying,70
+REG2023129,4,Structural Analysis,76
+REG2023129,4,Geotechnical Engineering,57
+REG2023129,4,Transportation Engineering,84
+REG2023129,4,Hydrology,72
+REG2023129,4,Surveying,99
+REG2023130,1,Biochemistry,63
+REG2023130,1,Genetics,78
+REG2023130,1,Cell Biology,69
+REG2023130,1,Microbiology,79
+REG2023130,1,Bioinformatics,66
+REG2023130,2,Biochemistry,57
+REG2023130,2,Genetics,55
+REG2023130,2,Cell Biology,60
+REG2023130,2,Microbiology,93
+REG2023130,2,Bioinformatics,69
+REG2023130,3,Biochemistry,95
+REG2023130,3,Genetics,94
+REG2023130,3,Cell Biology,88
+REG2023130,3,Microbiology,52
+REG2023130,3,Bioinformatics,63
+REG2023130,4,Biochemistry,70
+REG2023130,4,Genetics,59
+REG2023130,4,Cell Biology,55
+REG2023130,4,Microbiology,95
+REG2023130,4,Bioinformatics,65
+REG2023131,1,Data Structures,72
+REG2023131,1,Algorithms,75
+REG2023131,1,Database Systems,82
+REG2023131,1,Operating Systems,53
+REG2023131,1,Discrete Mathematics,93
+REG2023131,2,Data Structures,69
+REG2023131,2,Algorithms,66
+REG2023131,2,Database Systems,61
+REG2023131,2,Operating Systems,51
+REG2023131,2,Discrete Mathematics,75
+REG2023131,3,Data Structures,78
+REG2023131,3,Algorithms,85
+REG2023131,3,Database Systems,97
+REG2023131,3,Operating Systems,85
+REG2023131,3,Discrete Mathematics,65
+REG2023131,4,Data Structures,56
+REG2023131,4,Algorithms,79
+REG2023131,4,Database Systems,56
+REG2023131,4,Operating Systems,100
+REG2023131,4,Discrete Mathematics,58
+REG2023132,1,Biochemistry,57
+REG2023132,1,Genetics,50
+REG2023132,1,Cell Biology,53
+REG2023132,1,Microbiology,99
+REG2023132,1,Bioinformatics,64
+REG2023132,2,Biochemistry,58
+REG2023132,2,Genetics,62
+REG2023132,2,Cell Biology,75
+REG2023132,2,Microbiology,73
+REG2023132,2,Bioinformatics,93
+REG2023132,3,Biochemistry,90
+REG2023132,3,Genetics,91
+REG2023132,3,Cell Biology,55
+REG2023132,3,Microbiology,87
+REG2023132,3,Bioinformatics,87
+REG2023132,4,Biochemistry,66
+REG2023132,4,Genetics,54
+REG2023132,4,Cell Biology,51
+REG2023132,4,Microbiology,54
+REG2023132,4,Bioinformatics,62
+REG2023133,1,Data Structures,91
+REG2023133,1,Algorithms,78
+REG2023133,1,Database Systems,58
+REG2023133,1,Operating Systems,55
+REG2023133,1,Discrete Mathematics,71
+REG2023133,2,Data Structures,57
+REG2023133,2,Algorithms,52
+REG2023133,2,Database Systems,79
+REG2023133,2,Operating Systems,53
+REG2023133,2,Discrete Mathematics,60
+REG2023133,3,Data Structures,86
+REG2023133,3,Algorithms,77
+REG2023133,3,Database Systems,96
+REG2023133,3,Operating Systems,75
+REG2023133,3,Discrete Mathematics,81
+REG2023133,4,Data Structures,51
+REG2023133,4,Algorithms,74
+REG2023133,4,Database Systems,93
+REG2023133,4,Operating Systems,77
+REG2023133,4,Discrete Mathematics,61
+REG2023134,1,Structural Analysis,72
+REG2023134,1,Geotechnical Engineering,63
+REG2023134,1,Transportation Engineering,61
+REG2023134,1,Hydrology,67
+REG2023134,1,Surveying,67
+REG2023134,2,Structural Analysis,78
+REG2023134,2,Geotechnical Engineering,59
+REG2023134,2,Transportation Engineering,52
+REG2023134,2,Hydrology,89
+REG2023134,2,Surveying,89
+REG2023134,3,Structural Analysis,89
+REG2023134,3,Geotechnical Engineering,65
+REG2023134,3,Transportation Engineering,91
+REG2023134,3,Hydrology,68
+REG2023134,3,Surveying,81
+REG2023134,4,Structural Analysis,76
+REG2023134,4,Geotechnical Engineering,85
+REG2023134,4,Transportation Engineering,80
+REG2023134,4,Hydrology,53
+REG2023134,4,Surveying,55
+REG2023135,1,Circuit Analysis,67
+REG2023135,1,Digital Electronics,74
+REG2023135,1,Power Systems,58
+REG2023135,1,Control Systems,76
+REG2023135,1,Signals & Systems,62
+REG2023135,2,Circuit Analysis,91
+REG2023135,2,Digital Electronics,83
+REG2023135,2,Power Systems,65
+REG2023135,2,Control Systems,90
+REG2023135,2,Signals & Systems,84
+REG2023135,3,Circuit Analysis,100
+REG2023135,3,Digital Electronics,51
+REG2023135,3,Power Systems,74
+REG2023135,3,Control Systems,100
+REG2023135,3,Signals & Systems,95
+REG2023135,4,Circuit Analysis,72
+REG2023135,4,Digital Electronics,80
+REG2023135,4,Power Systems,84
+REG2023135,4,Control Systems,100
+REG2023135,4,Signals & Systems,81
+REG2023136,1,Thermodynamics,72
+REG2023136,1,Fluid Mechanics,86
+REG2023136,1,Machine Design,82
+REG2023136,1,Material Science,70
+REG2023136,1,Robotics,74
+REG2023136,2,Thermodynamics,67
+REG2023136,2,Fluid Mechanics,61
+REG2023136,2,Machine Design,51
+REG2023136,2,Material Science,70
+REG2023136,2,Robotics,88
+REG2023136,3,Thermodynamics,64
+REG2023136,3,Fluid Mechanics,51
+REG2023136,3,Machine Design,99
+REG2023136,3,Material Science,67
+REG2023136,3,Robotics,53
+REG2023136,4,Thermodynamics,80
+REG2023136,4,Fluid Mechanics,83
+REG2023136,4,Machine Design,72
+REG2023136,4,Material Science,99
+REG2023136,4,Robotics,87
+REG2023137,1,Biochemistry,64
+REG2023137,1,Genetics,60
+REG2023137,1,Cell Biology,56
+REG2023137,1,Microbiology,65
+REG2023137,1,Bioinformatics,92
+REG2023137,2,Biochemistry,65
+REG2023137,2,Genetics,67
+REG2023137,2,Cell Biology,84
+REG2023137,2,Microbiology,100
+REG2023137,2,Bioinformatics,97
+REG2023137,3,Biochemistry,53
+REG2023137,3,Genetics,98
+REG2023137,3,Cell Biology,64
+REG2023137,3,Microbiology,86
+REG2023137,3,Bioinformatics,74
+REG2023137,4,Biochemistry,72
+REG2023137,4,Genetics,61
+REG2023137,4,Cell Biology,61
+REG2023137,4,Microbiology,65
+REG2023137,4,Bioinformatics,87
+REG2023138,1,Data Structures,70
+REG2023138,1,Algorithms,97
+REG2023138,1,Database Systems,94
+REG2023138,1,Operating Systems,72
+REG2023138,1,Discrete Mathematics,87
+REG2023138,2,Data Structures,51
+REG2023138,2,Algorithms,95
+REG2023138,2,Database Systems,94
+REG2023138,2,Operating Systems,72
+REG2023138,2,Discrete Mathematics,86
+REG2023138,3,Data Structures,86
+REG2023138,3,Algorithms,59
+REG2023138,3,Database Systems,86
+REG2023138,3,Operating Systems,62
+REG2023138,3,Discrete Mathematics,81
+REG2023138,4,Data Structures,84
+REG2023138,4,Algorithms,69
+REG2023138,4,Database Systems,61
+REG2023138,4,Operating Systems,81
+REG2023138,4,Discrete Mathematics,52
+REG2023139,1,Circuit Analysis,55
+REG2023139,1,Digital Electronics,53
+REG2023139,1,Power Systems,64
+REG2023139,1,Control Systems,88
+REG2023139,1,Signals & Systems,64
+REG2023139,2,Circuit Analysis,51
+REG2023139,2,Digital Electronics,83
+REG2023139,2,Power Systems,80
+REG2023139,2,Control Systems,50
+REG2023139,2,Signals & Systems,71
+REG2023139,3,Circuit Analysis,89
+REG2023139,3,Digital Electronics,62
+REG2023139,3,Power Systems,58
+REG2023139,3,Control Systems,71
+REG2023139,3,Signals & Systems,95
+REG2023139,4,Circuit Analysis,61
+REG2023139,4,Digital Electronics,70
+REG2023139,4,Power Systems,53
+REG2023139,4,Control Systems,51
+REG2023139,4,Signals & Systems,59
+REG2023140,1,Circuit Analysis,87
+REG2023140,1,Digital Electronics,95
+REG2023140,1,Power Systems,59
+REG2023140,1,Control Systems,99
+REG2023140,1,Signals & Systems,57
+REG2023140,2,Circuit Analysis,83
+REG2023140,2,Digital Electronics,73
+REG2023140,2,Power Systems,54
+REG2023140,2,Control Systems,73
+REG2023140,2,Signals & Systems,95
+REG2023140,3,Circuit Analysis,92
+REG2023140,3,Digital Electronics,75
+REG2023140,3,Power Systems,87
+REG2023140,3,Control Systems,56
+REG2023140,3,Signals & Systems,71
+REG2023140,4,Circuit Analysis,69
+REG2023140,4,Digital Electronics,70
+REG2023140,4,Power Systems,58
+REG2023140,4,Control Systems,60
+REG2023140,4,Signals & Systems,96
+REG2023141,1,Structural Analysis,77
+REG2023141,1,Geotechnical Engineering,100
+REG2023141,1,Transportation Engineering,90
+REG2023141,1,Hydrology,81
+REG2023141,1,Surveying,91
+REG2023141,2,Structural Analysis,70
+REG2023141,2,Geotechnical Engineering,61
+REG2023141,2,Transportation Engineering,95
+REG2023141,2,Hydrology,85
+REG2023141,2,Surveying,94
+REG2023141,3,Structural Analysis,89
+REG2023141,3,Geotechnical Engineering,100
+REG2023141,3,Transportation Engineering,72
+REG2023141,3,Hydrology,64
+REG2023141,3,Surveying,92
+REG2023141,4,Structural Analysis,87
+REG2023141,4,Geotechnical Engineering,61
+REG2023141,4,Transportation Engineering,74
+REG2023141,4,Hydrology,69
+REG2023141,4,Surveying,96
+REG2023142,1,Data Structures,94
+REG2023142,1,Algorithms,68
+REG2023142,1,Database Systems,58
+REG2023142,1,Operating Systems,61
+REG2023142,1,Discrete Mathematics,96
+REG2023142,2,Data Structures,50
+REG2023142,2,Algorithms,94
+REG2023142,2,Database Systems,86
+REG2023142,2,Operating Systems,75
+REG2023142,2,Discrete Mathematics,99
+REG2023142,3,Data Structures,86
+REG2023142,3,Algorithms,52
+REG2023142,3,Database Systems,61
+REG2023142,3,Operating Systems,88
+REG2023142,3,Discrete Mathematics,70
+REG2023142,4,Data Structures,89
+REG2023142,4,Algorithms,64
+REG2023142,4,Database Systems,90
+REG2023142,4,Operating Systems,86
+REG2023142,4,Discrete Mathematics,56
+REG2023143,1,Circuit Analysis,81
+REG2023143,1,Digital Electronics,59
+REG2023143,1,Power Systems,71
+REG2023143,1,Control Systems,97
+REG2023143,1,Signals & Systems,54
+REG2023143,2,Circuit Analysis,65
+REG2023143,2,Digital Electronics,72
+REG2023143,2,Power Systems,70
+REG2023143,2,Control Systems,60
+REG2023143,2,Signals & Systems,90
+REG2023143,3,Circuit Analysis,55
+REG2023143,3,Digital Electronics,95
+REG2023143,3,Power Systems,92
+REG2023143,3,Control Systems,90
+REG2023143,3,Signals & Systems,96
+REG2023143,4,Circuit Analysis,71
+REG2023143,4,Digital Electronics,78
+REG2023143,4,Power Systems,50
+REG2023143,4,Control Systems,66
+REG2023143,4,Signals & Systems,63
+REG2023144,1,Structural Analysis,65
+REG2023144,1,Geotechnical Engineering,94
+REG2023144,1,Transportation Engineering,54
+REG2023144,1,Hydrology,72
+REG2023144,1,Surveying,66
+REG2023144,2,Structural Analysis,100
+REG2023144,2,Geotechnical Engineering,56
+REG2023144,2,Transportation Engineering,96
+REG2023144,2,Hydrology,50
+REG2023144,2,Surveying,53
+REG2023144,3,Structural Analysis,74
+REG2023144,3,Geotechnical Engineering,78
+REG2023144,3,Transportation Engineering,96
+REG2023144,3,Hydrology,76
+REG2023144,3,Surveying,60
+REG2023144,4,Structural Analysis,76
+REG2023144,4,Geotechnical Engineering,81
+REG2023144,4,Transportation Engineering,74
+REG2023144,4,Hydrology,72
+REG2023144,4,Surveying,84
+REG2023145,1,Biochemistry,74
+REG2023145,1,Genetics,56
+REG2023145,1,Cell Biology,80
+REG2023145,1,Microbiology,100
+REG2023145,1,Bioinformatics,86
+REG2023145,2,Biochemistry,91
+REG2023145,2,Genetics,98
+REG2023145,2,Cell Biology,93
+REG2023145,2,Microbiology,64
+REG2023145,2,Bioinformatics,60
+REG2023145,3,Biochemistry,78
+REG2023145,3,Genetics,54
+REG2023145,3,Cell Biology,52
+REG2023145,3,Microbiology,68
+REG2023145,3,Bioinformatics,51
+REG2023145,4,Biochemistry,70
+REG2023145,4,Genetics,66
+REG2023145,4,Cell Biology,56
+REG2023145,4,Microbiology,54
+REG2023145,4,Bioinformatics,71
+REG2023146,1,Structural Analysis,60
+REG2023146,1,Geotechnical Engineering,74
+REG2023146,1,Transportation Engineering,60
+REG2023146,1,Hydrology,96
+REG2023146,1,Surveying,54
+REG2023146,2,Structural Analysis,85
+REG2023146,2,Geotechnical Engineering,55
+REG2023146,2,Transportation Engineering,71
+REG2023146,2,Hydrology,88
+REG2023146,2,Surveying,89
+REG2023146,3,Structural Analysis,80
+REG2023146,3,Geotechnical Engineering,95
+REG2023146,3,Transportation Engineering,51
+REG2023146,3,Hydrology,77
+REG2023146,3,Surveying,91
+REG2023146,4,Structural Analysis,60
+REG2023146,4,Geotechnical Engineering,88
+REG2023146,4,Transportation Engineering,77
+REG2023146,4,Hydrology,60
+REG2023146,4,Surveying,53
+REG2023147,1,Circuit Analysis,56
+REG2023147,1,Digital Electronics,71
+REG2023147,1,Power Systems,63
+REG2023147,1,Control Systems,62
+REG2023147,1,Signals & Systems,76
+REG2023147,2,Circuit Analysis,94
+REG2023147,2,Digital Electronics,85
+REG2023147,2,Power Systems,96
+REG2023147,2,Control Systems,96
+REG2023147,2,Signals & Systems,84
+REG2023147,3,Circuit Analysis,66
+REG2023147,3,Digital Electronics,92
+REG2023147,3,Power Systems,68
+REG2023147,3,Control Systems,69
+REG2023147,3,Signals & Systems,65
+REG2023147,4,Circuit Analysis,56
+REG2023147,4,Digital Electronics,53
+REG2023147,4,Power Systems,75
+REG2023147,4,Control Systems,86
+REG2023147,4,Signals & Systems,85
+REG2023148,1,Thermodynamics,81
+REG2023148,1,Fluid Mechanics,59
+REG2023148,1,Machine Design,53
+REG2023148,1,Material Science,73
+REG2023148,1,Robotics,50
+REG2023148,2,Thermodynamics,77
+REG2023148,2,Fluid Mechanics,55
+REG2023148,2,Machine Design,68
+REG2023148,2,Material Science,92
+REG2023148,2,Robotics,90
+REG2023148,3,Thermodynamics,88
+REG2023148,3,Fluid Mechanics,80
+REG2023148,3,Machine Design,62
+REG2023148,3,Material Science,56
+REG2023148,3,Robotics,51
+REG2023148,4,Thermodynamics,63
+REG2023148,4,Fluid Mechanics,60
+REG2023148,4,Machine Design,90
+REG2023148,4,Material Science,68
+REG2023148,4,Robotics,55
+REG2023149,1,Biochemistry,80
+REG2023149,1,Genetics,57
+REG2023149,1,Cell Biology,69
+REG2023149,1,Microbiology,100
+REG2023149,1,Bioinformatics,75
+REG2023149,2,Biochemistry,80
+REG2023149,2,Genetics,81
+REG2023149,2,Cell Biology,92
+REG2023149,2,Microbiology,66
+REG2023149,2,Bioinformatics,55
+REG2023149,3,Biochemistry,91
+REG2023149,3,Genetics,84
+REG2023149,3,Cell Biology,74
+REG2023149,3,Microbiology,61
+REG2023149,3,Bioinformatics,73
+REG2023149,4,Biochemistry,74
+REG2023149,4,Genetics,73
+REG2023149,4,Cell Biology,61
+REG2023149,4,Microbiology,78
+REG2023149,4,Bioinformatics,52
+REG2023150,1,Biochemistry,66
+REG2023150,1,Genetics,78
+REG2023150,1,Cell Biology,79
+REG2023150,1,Microbiology,66
+REG2023150,1,Bioinformatics,64
+REG2023150,2,Biochemistry,67
+REG2023150,2,Genetics,86
+REG2023150,2,Cell Biology,53
+REG2023150,2,Microbiology,59
+REG2023150,2,Bioinformatics,98
+REG2023150,3,Biochemistry,94
+REG2023150,3,Genetics,92
+REG2023150,3,Cell Biology,56
+REG2023150,3,Microbiology,55
+REG2023150,3,Bioinformatics,92
+REG2023150,4,Biochemistry,72
+REG2023150,4,Genetics,84
+REG2023150,4,Cell Biology,76
+REG2023150,4,Microbiology,98
+REG2023150,4,Bioinformatics,87
+REG2023151,1,Structural Analysis,64
+REG2023151,1,Geotechnical Engineering,85
+REG2023151,1,Transportation Engineering,53
+REG2023151,1,Hydrology,74
+REG2023151,1,Surveying,83
+REG2023151,2,Structural Analysis,76
+REG2023151,2,Geotechnical Engineering,84
+REG2023151,2,Transportation Engineering,93
+REG2023151,2,Hydrology,80
+REG2023151,2,Surveying,86
+REG2023151,3,Structural Analysis,65
+REG2023151,3,Geotechnical Engineering,80
+REG2023151,3,Transportation Engineering,69
+REG2023151,3,Hydrology,55
+REG2023151,3,Surveying,75
+REG2023151,4,Structural Analysis,95
+REG2023151,4,Geotechnical Engineering,52
+REG2023151,4,Transportation Engineering,82
+REG2023151,4,Hydrology,86
+REG2023151,4,Surveying,83
+REG2023152,1,Structural Analysis,86
+REG2023152,1,Geotechnical Engineering,93
+REG2023152,1,Transportation Engineering,89
+REG2023152,1,Hydrology,59
+REG2023152,1,Surveying,57
+REG2023152,2,Structural Analysis,98
+REG2023152,2,Geotechnical Engineering,78
+REG2023152,2,Transportation Engineering,61
+REG2023152,2,Hydrology,60
+REG2023152,2,Surveying,63
+REG2023152,3,Structural Analysis,62
+REG2023152,3,Geotechnical Engineering,58
+REG2023152,3,Transportation Engineering,52
+REG2023152,3,Hydrology,77
+REG2023152,3,Surveying,55
+REG2023152,4,Structural Analysis,93
+REG2023152,4,Geotechnical Engineering,77
+REG2023152,4,Transportation Engineering,62
+REG2023152,4,Hydrology,90
+REG2023152,4,Surveying,59
+REG2023153,1,Structural Analysis,88
+REG2023153,1,Geotechnical Engineering,66
+REG2023153,1,Transportation Engineering,70
+REG2023153,1,Hydrology,96
+REG2023153,1,Surveying,54
+REG2023153,2,Structural Analysis,55
+REG2023153,2,Geotechnical Engineering,74
+REG2023153,2,Transportation Engineering,85
+REG2023153,2,Hydrology,75
+REG2023153,2,Surveying,85
+REG2023153,3,Structural Analysis,70
+REG2023153,3,Geotechnical Engineering,67
+REG2023153,3,Transportation Engineering,83
+REG2023153,3,Hydrology,79
+REG2023153,3,Surveying,50
+REG2023153,4,Structural Analysis,100
+REG2023153,4,Geotechnical Engineering,94
+REG2023153,4,Transportation Engineering,89
+REG2023153,4,Hydrology,87
+REG2023153,4,Surveying,83
+REG2023154,1,Thermodynamics,100
+REG2023154,1,Fluid Mechanics,76
+REG2023154,1,Machine Design,57
+REG2023154,1,Material Science,76
+REG2023154,1,Robotics,59
+REG2023154,2,Thermodynamics,59
+REG2023154,2,Fluid Mechanics,86
+REG2023154,2,Machine Design,87
+REG2023154,2,Material Science,87
+REG2023154,2,Robotics,98
+REG2023154,3,Thermodynamics,56
+REG2023154,3,Fluid Mechanics,56
+REG2023154,3,Machine Design,86
+REG2023154,3,Material Science,99
+REG2023154,3,Robotics,56
+REG2023154,4,Thermodynamics,100
+REG2023154,4,Fluid Mechanics,68
+REG2023154,4,Machine Design,84
+REG2023154,4,Material Science,72
+REG2023154,4,Robotics,76
+REG2023155,1,Data Structures,66
+REG2023155,1,Algorithms,74
+REG2023155,1,Database Systems,91
+REG2023155,1,Operating Systems,81
+REG2023155,1,Discrete Mathematics,86
+REG2023155,2,Data Structures,88
+REG2023155,2,Algorithms,80
+REG2023155,2,Database Systems,52
+REG2023155,2,Operating Systems,61
+REG2023155,2,Discrete Mathematics,67
+REG2023155,3,Data Structures,75
+REG2023155,3,Algorithms,59
+REG2023155,3,Database Systems,89
+REG2023155,3,Operating Systems,88
+REG2023155,3,Discrete Mathematics,93
+REG2023155,4,Data Structures,94
+REG2023155,4,Algorithms,75
+REG2023155,4,Database Systems,52
+REG2023155,4,Operating Systems,75
+REG2023155,4,Discrete Mathematics,71
+REG2023156,1,Circuit Analysis,94
+REG2023156,1,Digital Electronics,65
+REG2023156,1,Power Systems,53
+REG2023156,1,Control Systems,97
+REG2023156,1,Signals & Systems,80
+REG2023156,2,Circuit Analysis,67
+REG2023156,2,Digital Electronics,73
+REG2023156,2,Power Systems,51
+REG2023156,2,Control Systems,71
+REG2023156,2,Signals & Systems,100
+REG2023156,3,Circuit Analysis,69
+REG2023156,3,Digital Electronics,69
+REG2023156,3,Power Systems,67
+REG2023156,3,Control Systems,81
+REG2023156,3,Signals & Systems,94
+REG2023156,4,Circuit Analysis,93
+REG2023156,4,Digital Electronics,56
+REG2023156,4,Power Systems,64
+REG2023156,4,Control Systems,58
+REG2023156,4,Signals & Systems,69
+REG2023157,1,Structural Analysis,97
+REG2023157,1,Geotechnical Engineering,78
+REG2023157,1,Transportation Engineering,99
+REG2023157,1,Hydrology,70
+REG2023157,1,Surveying,67
+REG2023157,2,Structural Analysis,96
+REG2023157,2,Geotechnical Engineering,76
+REG2023157,2,Transportation Engineering,88
+REG2023157,2,Hydrology,91
+REG2023157,2,Surveying,55
+REG2023157,3,Structural Analysis,62
+REG2023157,3,Geotechnical Engineering,78
+REG2023157,3,Transportation Engineering,63
+REG2023157,3,Hydrology,76
+REG2023157,3,Surveying,97
+REG2023157,4,Structural Analysis,81
+REG2023157,4,Geotechnical Engineering,98
+REG2023157,4,Transportation Engineering,83
+REG2023157,4,Hydrology,73
+REG2023157,4,Surveying,53
+REG2023158,1,Biochemistry,82
+REG2023158,1,Genetics,100
+REG2023158,1,Cell Biology,60
+REG2023158,1,Microbiology,54
+REG2023158,1,Bioinformatics,69
+REG2023158,2,Biochemistry,95
+REG2023158,2,Genetics,82
+REG2023158,2,Cell Biology,75
+REG2023158,2,Microbiology,58
+REG2023158,2,Bioinformatics,99
+REG2023158,3,Biochemistry,83
+REG2023158,3,Genetics,86
+REG2023158,3,Cell Biology,51
+REG2023158,3,Microbiology,61
+REG2023158,3,Bioinformatics,62
+REG2023158,4,Biochemistry,62
+REG2023158,4,Genetics,53
+REG2023158,4,Cell Biology,65
+REG2023158,4,Microbiology,52
+REG2023158,4,Bioinformatics,79
+REG2023159,1,Biochemistry,53
+REG2023159,1,Genetics,73
+REG2023159,1,Cell Biology,95
+REG2023159,1,Microbiology,62
+REG2023159,1,Bioinformatics,67
+REG2023159,2,Biochemistry,73
+REG2023159,2,Genetics,79
+REG2023159,2,Cell Biology,82
+REG2023159,2,Microbiology,75
+REG2023159,2,Bioinformatics,90
+REG2023159,3,Biochemistry,57
+REG2023159,3,Genetics,93
+REG2023159,3,Cell Biology,51
+REG2023159,3,Microbiology,65
+REG2023159,3,Bioinformatics,73
+REG2023159,4,Biochemistry,81
+REG2023159,4,Genetics,88
+REG2023159,4,Cell Biology,78
+REG2023159,4,Microbiology,61
+REG2023159,4,Bioinformatics,80
+REG2023160,1,Biochemistry,87
+REG2023160,1,Genetics,85
+REG2023160,1,Cell Biology,72
+REG2023160,1,Microbiology,72
+REG2023160,1,Bioinformatics,60
+REG2023160,2,Biochemistry,66
+REG2023160,2,Genetics,97
+REG2023160,2,Cell Biology,94
+REG2023160,2,Microbiology,55
+REG2023160,2,Bioinformatics,68
+REG2023160,3,Biochemistry,51
+REG2023160,3,Genetics,74
+REG2023160,3,Cell Biology,53
+REG2023160,3,Microbiology,60
+REG2023160,3,Bioinformatics,86
+REG2023160,4,Biochemistry,99
+REG2023160,4,Genetics,63
+REG2023160,4,Cell Biology,64
+REG2023160,4,Microbiology,91
+REG2023160,4,Bioinformatics,64
+REG2023161,1,Biochemistry,93
+REG2023161,1,Genetics,63
+REG2023161,1,Cell Biology,67
+REG2023161,1,Microbiology,91
+REG2023161,1,Bioinformatics,76
+REG2023161,2,Biochemistry,82
+REG2023161,2,Genetics,51
+REG2023161,2,Cell Biology,99
+REG2023161,2,Microbiology,99
+REG2023161,2,Bioinformatics,93
+REG2023161,3,Biochemistry,50
+REG2023161,3,Genetics,80
+REG2023161,3,Cell Biology,58
+REG2023161,3,Microbiology,91
+REG2023161,3,Bioinformatics,61
+REG2023161,4,Biochemistry,88
+REG2023161,4,Genetics,50
+REG2023161,4,Cell Biology,64
+REG2023161,4,Microbiology,66
+REG2023161,4,Bioinformatics,88
+REG2023162,1,Circuit Analysis,69
+REG2023162,1,Digital Electronics,95
+REG2023162,1,Power Systems,95
+REG2023162,1,Control Systems,91
+REG2023162,1,Signals & Systems,67
+REG2023162,2,Circuit Analysis,77
+REG2023162,2,Digital Electronics,74
+REG2023162,2,Power Systems,72
+REG2023162,2,Control Systems,79
+REG2023162,2,Signals & Systems,66
+REG2023162,3,Circuit Analysis,63
+REG2023162,3,Digital Electronics,79
+REG2023162,3,Power Systems,69
+REG2023162,3,Control Systems,93
+REG2023162,3,Signals & Systems,83
+REG2023162,4,Circuit Analysis,89
+REG2023162,4,Digital Electronics,75
+REG2023162,4,Power Systems,87
+REG2023162,4,Control Systems,56
+REG2023162,4,Signals & Systems,50
+REG2023163,1,Circuit Analysis,82
+REG2023163,1,Digital Electronics,92
+REG2023163,1,Power Systems,73
+REG2023163,1,Control Systems,85
+REG2023163,1,Signals & Systems,91
+REG2023163,2,Circuit Analysis,88
+REG2023163,2,Digital Electronics,88
+REG2023163,2,Power Systems,68
+REG2023163,2,Control Systems,69
+REG2023163,2,Signals & Systems,93
+REG2023163,3,Circuit Analysis,56
+REG2023163,3,Digital Electronics,80
+REG2023163,3,Power Systems,54
+REG2023163,3,Control Systems,71
+REG2023163,3,Signals & Systems,67
+REG2023163,4,Circuit Analysis,90
+REG2023163,4,Digital Electronics,70
+REG2023163,4,Power Systems,67
+REG2023163,4,Control Systems,66
+REG2023163,4,Signals & Systems,91
+REG2023164,1,Circuit Analysis,95
+REG2023164,1,Digital Electronics,91
+REG2023164,1,Power Systems,69
+REG2023164,1,Control Systems,62
+REG2023164,1,Signals & Systems,59
+REG2023164,2,Circuit Analysis,83
+REG2023164,2,Digital Electronics,98
+REG2023164,2,Power Systems,65
+REG2023164,2,Control Systems,53
+REG2023164,2,Signals & Systems,88
+REG2023164,3,Circuit Analysis,75
+REG2023164,3,Digital Electronics,92
+REG2023164,3,Power Systems,70
+REG2023164,3,Control Systems,93
+REG2023164,3,Signals & Systems,58
+REG2023164,4,Circuit Analysis,96
+REG2023164,4,Digital Electronics,51
+REG2023164,4,Power Systems,91
+REG2023164,4,Control Systems,81
+REG2023164,4,Signals & Systems,68
+REG2023165,1,Biochemistry,66
+REG2023165,1,Genetics,76
+REG2023165,1,Cell Biology,75
+REG2023165,1,Microbiology,74
+REG2023165,1,Bioinformatics,97
+REG2023165,2,Biochemistry,52
+REG2023165,2,Genetics,87
+REG2023165,2,Cell Biology,95
+REG2023165,2,Microbiology,86
+REG2023165,2,Bioinformatics,62
+REG2023165,3,Biochemistry,71
+REG2023165,3,Genetics,96
+REG2023165,3,Cell Biology,95
+REG2023165,3,Microbiology,64
+REG2023165,3,Bioinformatics,93
+REG2023165,4,Biochemistry,84
+REG2023165,4,Genetics,90
+REG2023165,4,Cell Biology,100
+REG2023165,4,Microbiology,80
+REG2023165,4,Bioinformatics,92
+REG2023166,1,Structural Analysis,72
+REG2023166,1,Geotechnical Engineering,82
+REG2023166,1,Transportation Engineering,69
+REG2023166,1,Hydrology,60
+REG2023166,1,Surveying,92
+REG2023166,2,Structural Analysis,85
+REG2023166,2,Geotechnical Engineering,61
+REG2023166,2,Transportation Engineering,68
+REG2023166,2,Hydrology,56
+REG2023166,2,Surveying,80
+REG2023166,3,Structural Analysis,58
+REG2023166,3,Geotechnical Engineering,97
+REG2023166,3,Transportation Engineering,66
+REG2023166,3,Hydrology,96
+REG2023166,3,Surveying,85
+REG2023166,4,Structural Analysis,98
+REG2023166,4,Geotechnical Engineering,61
+REG2023166,4,Transportation Engineering,93
+REG2023166,4,Hydrology,71
+REG2023166,4,Surveying,91
+REG2023167,1,Biochemistry,55
+REG2023167,1,Genetics,64
+REG2023167,1,Cell Biology,72
+REG2023167,1,Microbiology,64
+REG2023167,1,Bioinformatics,97
+REG2023167,2,Biochemistry,69
+REG2023167,2,Genetics,76
+REG2023167,2,Cell Biology,100
+REG2023167,2,Microbiology,71
+REG2023167,2,Bioinformatics,73
+REG2023167,3,Biochemistry,66
+REG2023167,3,Genetics,87
+REG2023167,3,Cell Biology,68
+REG2023167,3,Microbiology,79
+REG2023167,3,Bioinformatics,57
+REG2023167,4,Biochemistry,80
+REG2023167,4,Genetics,53
+REG2023167,4,Cell Biology,90
+REG2023167,4,Microbiology,87
+REG2023167,4,Bioinformatics,87
+REG2023168,1,Thermodynamics,89
+REG2023168,1,Fluid Mechanics,54
+REG2023168,1,Machine Design,80
+REG2023168,1,Material Science,62
+REG2023168,1,Robotics,82
+REG2023168,2,Thermodynamics,57
+REG2023168,2,Fluid Mechanics,93
+REG2023168,2,Machine Design,74
+REG2023168,2,Material Science,83
+REG2023168,2,Robotics,69
+REG2023168,3,Thermodynamics,76
+REG2023168,3,Fluid Mechanics,53
+REG2023168,3,Machine Design,59
+REG2023168,3,Material Science,58
+REG2023168,3,Robotics,62
+REG2023168,4,Thermodynamics,71
+REG2023168,4,Fluid Mechanics,76
+REG2023168,4,Machine Design,86
+REG2023168,4,Material Science,79
+REG2023168,4,Robotics,59
+REG2023169,1,Biochemistry,70
+REG2023169,1,Genetics,95
+REG2023169,1,Cell Biology,61
+REG2023169,1,Microbiology,99
+REG2023169,1,Bioinformatics,55
+REG2023169,2,Biochemistry,81
+REG2023169,2,Genetics,71
+REG2023169,2,Cell Biology,90
+REG2023169,2,Microbiology,61
+REG2023169,2,Bioinformatics,70
+REG2023169,3,Biochemistry,90
+REG2023169,3,Genetics,53
+REG2023169,3,Cell Biology,50
+REG2023169,3,Microbiology,78
+REG2023169,3,Bioinformatics,67
+REG2023169,4,Biochemistry,63
+REG2023169,4,Genetics,98
+REG2023169,4,Cell Biology,99
+REG2023169,4,Microbiology,60
+REG2023169,4,Bioinformatics,86
+REG2023170,1,Biochemistry,98
+REG2023170,1,Genetics,60
+REG2023170,1,Cell Biology,81
+REG2023170,1,Microbiology,100
+REG2023170,1,Bioinformatics,98
+REG2023170,2,Biochemistry,99
+REG2023170,2,Genetics,55
+REG2023170,2,Cell Biology,58
+REG2023170,2,Microbiology,89
+REG2023170,2,Bioinformatics,77
+REG2023170,3,Biochemistry,90
+REG2023170,3,Genetics,77
+REG2023170,3,Cell Biology,75
+REG2023170,3,Microbiology,77
+REG2023170,3,Bioinformatics,80
+REG2023170,4,Biochemistry,74
+REG2023170,4,Genetics,50
+REG2023170,4,Cell Biology,52
+REG2023170,4,Microbiology,84
+REG2023170,4,Bioinformatics,62
+REG2023171,1,Biochemistry,96
+REG2023171,1,Genetics,73
+REG2023171,1,Cell Biology,50
+REG2023171,1,Microbiology,70
+REG2023171,1,Bioinformatics,98
+REG2023171,2,Biochemistry,83
+REG2023171,2,Genetics,62
+REG2023171,2,Cell Biology,51
+REG2023171,2,Microbiology,93
+REG2023171,2,Bioinformatics,50
+REG2023171,3,Biochemistry,90
+REG2023171,3,Genetics,96
+REG2023171,3,Cell Biology,65
+REG2023171,3,Microbiology,64
+REG2023171,3,Bioinformatics,94
+REG2023171,4,Biochemistry,72
+REG2023171,4,Genetics,69
+REG2023171,4,Cell Biology,58
+REG2023171,4,Microbiology,56
+REG2023171,4,Bioinformatics,74
+REG2023172,1,Biochemistry,82
+REG2023172,1,Genetics,87
+REG2023172,1,Cell Biology,69
+REG2023172,1,Microbiology,60
+REG2023172,1,Bioinformatics,54
+REG2023172,2,Biochemistry,52
+REG2023172,2,Genetics,69
+REG2023172,2,Cell Biology,68
+REG2023172,2,Microbiology,79
+REG2023172,2,Bioinformatics,96
+REG2023172,3,Biochemistry,83
+REG2023172,3,Genetics,88
+REG2023172,3,Cell Biology,83
+REG2023172,3,Microbiology,71
+REG2023172,3,Bioinformatics,77
+REG2023172,4,Biochemistry,93
+REG2023172,4,Genetics,58
+REG2023172,4,Cell Biology,71
+REG2023172,4,Microbiology,81
+REG2023172,4,Bioinformatics,72
+REG2023173,1,Biochemistry,98
+REG2023173,1,Genetics,62
+REG2023173,1,Cell Biology,60
+REG2023173,1,Microbiology,75
+REG2023173,1,Bioinformatics,51
+REG2023173,2,Biochemistry,64
+REG2023173,2,Genetics,64
+REG2023173,2,Cell Biology,96
+REG2023173,2,Microbiology,58
+REG2023173,2,Bioinformatics,63
+REG2023173,3,Biochemistry,96
+REG2023173,3,Genetics,51
+REG2023173,3,Cell Biology,87
+REG2023173,3,Microbiology,82
+REG2023173,3,Bioinformatics,60
+REG2023173,4,Biochemistry,57
+REG2023173,4,Genetics,73
+REG2023173,4,Cell Biology,95
+REG2023173,4,Microbiology,91
+REG2023173,4,Bioinformatics,100
+REG2023174,1,Data Structures,52
+REG2023174,1,Algorithms,74
+REG2023174,1,Database Systems,90
+REG2023174,1,Operating Systems,66
+REG2023174,1,Discrete Mathematics,99
+REG2023174,2,Data Structures,84
+REG2023174,2,Algorithms,89
+REG2023174,2,Database Systems,53
+REG2023174,2,Operating Systems,88
+REG2023174,2,Discrete Mathematics,53
+REG2023174,3,Data Structures,92
+REG2023174,3,Algorithms,56
+REG2023174,3,Database Systems,91
+REG2023174,3,Operating Systems,51
+REG2023174,3,Discrete Mathematics,53
+REG2023174,4,Data Structures,94
+REG2023174,4,Algorithms,57
+REG2023174,4,Database Systems,76
+REG2023174,4,Operating Systems,78
+REG2023174,4,Discrete Mathematics,74
+REG2023175,1,Circuit Analysis,57
+REG2023175,1,Digital Electronics,85
+REG2023175,1,Power Systems,66
+REG2023175,1,Control Systems,80
+REG2023175,1,Signals & Systems,94
+REG2023175,2,Circuit Analysis,59
+REG2023175,2,Digital Electronics,63
+REG2023175,2,Power Systems,94
+REG2023175,2,Control Systems,93
+REG2023175,2,Signals & Systems,90
+REG2023175,3,Circuit Analysis,50
+REG2023175,3,Digital Electronics,69
+REG2023175,3,Power Systems,76
+REG2023175,3,Control Systems,92
+REG2023175,3,Signals & Systems,56
+REG2023175,4,Circuit Analysis,92
+REG2023175,4,Digital Electronics,83
+REG2023175,4,Power Systems,67
+REG2023175,4,Control Systems,89
+REG2023175,4,Signals & Systems,88
+REG2023176,1,Thermodynamics,94
+REG2023176,1,Fluid Mechanics,58
+REG2023176,1,Machine Design,76
+REG2023176,1,Material Science,56
+REG2023176,1,Robotics,82
+REG2023176,2,Thermodynamics,96
+REG2023176,2,Fluid Mechanics,89
+REG2023176,2,Machine Design,57
+REG2023176,2,Material Science,68
+REG2023176,2,Robotics,57
+REG2023176,3,Thermodynamics,100
+REG2023176,3,Fluid Mechanics,56
+REG2023176,3,Machine Design,81
+REG2023176,3,Material Science,62
+REG2023176,3,Robotics,88
+REG2023176,4,Thermodynamics,62
+REG2023176,4,Fluid Mechanics,99
+REG2023176,4,Machine Design,66
+REG2023176,4,Material Science,83
+REG2023176,4,Robotics,62
+REG2023177,1,Structural Analysis,72
+REG2023177,1,Geotechnical Engineering,95
+REG2023177,1,Transportation Engineering,76
+REG2023177,1,Hydrology,68
+REG2023177,1,Surveying,60
+REG2023177,2,Structural Analysis,52
+REG2023177,2,Geotechnical Engineering,85
+REG2023177,2,Transportation Engineering,81
+REG2023177,2,Hydrology,63
+REG2023177,2,Surveying,94
+REG2023177,3,Structural Analysis,80
+REG2023177,3,Geotechnical Engineering,71
+REG2023177,3,Transportation Engineering,65
+REG2023177,3,Hydrology,50
+REG2023177,3,Surveying,50
+REG2023177,4,Structural Analysis,92
+REG2023177,4,Geotechnical Engineering,55
+REG2023177,4,Transportation Engineering,57
+REG2023177,4,Hydrology,86
+REG2023177,4,Surveying,92
+REG2023178,1,Structural Analysis,81
+REG2023178,1,Geotechnical Engineering,59
+REG2023178,1,Transportation Engineering,55
+REG2023178,1,Hydrology,99
+REG2023178,1,Surveying,82
+REG2023178,2,Structural Analysis,54
+REG2023178,2,Geotechnical Engineering,96
+REG2023178,2,Transportation Engineering,96
+REG2023178,2,Hydrology,56
+REG2023178,2,Surveying,66
+REG2023178,3,Structural Analysis,91
+REG2023178,3,Geotechnical Engineering,64
+REG2023178,3,Transportation Engineering,79
+REG2023178,3,Hydrology,68
+REG2023178,3,Surveying,66
+REG2023178,4,Structural Analysis,79
+REG2023178,4,Geotechnical Engineering,53
+REG2023178,4,Transportation Engineering,56
+REG2023178,4,Hydrology,61
+REG2023178,4,Surveying,52
+REG2023179,1,Circuit Analysis,68
+REG2023179,1,Digital Electronics,73
+REG2023179,1,Power Systems,93
+REG2023179,1,Control Systems,70
+REG2023179,1,Signals & Systems,77
+REG2023179,2,Circuit Analysis,97
+REG2023179,2,Digital Electronics,57
+REG2023179,2,Power Systems,56
+REG2023179,2,Control Systems,98
+REG2023179,2,Signals & Systems,52
+REG2023179,3,Circuit Analysis,50
+REG2023179,3,Digital Electronics,58
+REG2023179,3,Power Systems,92
+REG2023179,3,Control Systems,91
+REG2023179,3,Signals & Systems,60
+REG2023179,4,Circuit Analysis,71
+REG2023179,4,Digital Electronics,72
+REG2023179,4,Power Systems,78
+REG2023179,4,Control Systems,89
+REG2023179,4,Signals & Systems,67
+REG2023180,1,Data Structures,96
+REG2023180,1,Algorithms,55
+REG2023180,1,Database Systems,73
+REG2023180,1,Operating Systems,71
+REG2023180,1,Discrete Mathematics,61
+REG2023180,2,Data Structures,57
+REG2023180,2,Algorithms,75
+REG2023180,2,Database Systems,75
+REG2023180,2,Operating Systems,79
+REG2023180,2,Discrete Mathematics,67
+REG2023180,3,Data Structures,74
+REG2023180,3,Algorithms,94
+REG2023180,3,Database Systems,80
+REG2023180,3,Operating Systems,76
+REG2023180,3,Discrete Mathematics,91
+REG2023180,4,Data Structures,60
+REG2023180,4,Algorithms,57
+REG2023180,4,Database Systems,58
+REG2023180,4,Operating Systems,94
+REG2023180,4,Discrete Mathematics,96
+REG2023181,1,Data Structures,53
+REG2023181,1,Algorithms,60
+REG2023181,1,Database Systems,56
+REG2023181,1,Operating Systems,76
+REG2023181,1,Discrete Mathematics,87
+REG2023181,2,Data Structures,80
+REG2023181,2,Algorithms,86
+REG2023181,2,Database Systems,93
+REG2023181,2,Operating Systems,78
+REG2023181,2,Discrete Mathematics,61
+REG2023181,3,Data Structures,89
+REG2023181,3,Algorithms,74
+REG2023181,3,Database Systems,99
+REG2023181,3,Operating Systems,72
+REG2023181,3,Discrete Mathematics,89
+REG2023181,4,Data Structures,51
+REG2023181,4,Algorithms,93
+REG2023181,4,Database Systems,96
+REG2023181,4,Operating Systems,58
+REG2023181,4,Discrete Mathematics,80
+REG2023182,1,Structural Analysis,81
+REG2023182,1,Geotechnical Engineering,57
+REG2023182,1,Transportation Engineering,76
+REG2023182,1,Hydrology,78
+REG2023182,1,Surveying,52
+REG2023182,2,Structural Analysis,54
+REG2023182,2,Geotechnical Engineering,66
+REG2023182,2,Transportation Engineering,91
+REG2023182,2,Hydrology,70
+REG2023182,2,Surveying,50
+REG2023182,3,Structural Analysis,95
+REG2023182,3,Geotechnical Engineering,93
+REG2023182,3,Transportation Engineering,83
+REG2023182,3,Hydrology,99
+REG2023182,3,Surveying,97
+REG2023182,4,Structural Analysis,86
+REG2023182,4,Geotechnical Engineering,96
+REG2023182,4,Transportation Engineering,86
+REG2023182,4,Hydrology,64
+REG2023182,4,Surveying,92
+REG2023183,1,Biochemistry,71
+REG2023183,1,Genetics,83
+REG2023183,1,Cell Biology,83
+REG2023183,1,Microbiology,94
+REG2023183,1,Bioinformatics,94
+REG2023183,2,Biochemistry,89
+REG2023183,2,Genetics,56
+REG2023183,2,Cell Biology,77
+REG2023183,2,Microbiology,92
+REG2023183,2,Bioinformatics,96
+REG2023183,3,Biochemistry,65
+REG2023183,3,Genetics,80
+REG2023183,3,Cell Biology,72
+REG2023183,3,Microbiology,92
+REG2023183,3,Bioinformatics,93
+REG2023183,4,Biochemistry,91
+REG2023183,4,Genetics,74
+REG2023183,4,Cell Biology,59
+REG2023183,4,Microbiology,85
+REG2023183,4,Bioinformatics,89
+REG2023184,1,Biochemistry,53
+REG2023184,1,Genetics,50
+REG2023184,1,Cell Biology,91
+REG2023184,1,Microbiology,60
+REG2023184,1,Bioinformatics,82
+REG2023184,2,Biochemistry,80
+REG2023184,2,Genetics,81
+REG2023184,2,Cell Biology,60
+REG2023184,2,Microbiology,54
+REG2023184,2,Bioinformatics,98
+REG2023184,3,Biochemistry,81
+REG2023184,3,Genetics,70
+REG2023184,3,Cell Biology,65
+REG2023184,3,Microbiology,71
+REG2023184,3,Bioinformatics,67
+REG2023184,4,Biochemistry,53
+REG2023184,4,Genetics,82
+REG2023184,4,Cell Biology,64
+REG2023184,4,Microbiology,85
+REG2023184,4,Bioinformatics,91
+REG2023185,1,Biochemistry,74
+REG2023185,1,Genetics,75
+REG2023185,1,Cell Biology,65
+REG2023185,1,Microbiology,55
+REG2023185,1,Bioinformatics,79
+REG2023185,2,Biochemistry,78
+REG2023185,2,Genetics,86
+REG2023185,2,Cell Biology,78
+REG2023185,2,Microbiology,55
+REG2023185,2,Bioinformatics,81
+REG2023185,3,Biochemistry,78
+REG2023185,3,Genetics,70
+REG2023185,3,Cell Biology,57
+REG2023185,3,Microbiology,81
+REG2023185,3,Bioinformatics,97
+REG2023185,4,Biochemistry,91
+REG2023185,4,Genetics,51
+REG2023185,4,Cell Biology,56
+REG2023185,4,Microbiology,75
+REG2023185,4,Bioinformatics,76
+REG2023186,1,Thermodynamics,52
+REG2023186,1,Fluid Mechanics,85
+REG2023186,1,Machine Design,85
+REG2023186,1,Material Science,50
+REG2023186,1,Robotics,55
+REG2023186,2,Thermodynamics,100
+REG2023186,2,Fluid Mechanics,88
+REG2023186,2,Machine Design,89
+REG2023186,2,Material Science,90
+REG2023186,2,Robotics,69
+REG2023186,3,Thermodynamics,82
+REG2023186,3,Fluid Mechanics,85
+REG2023186,3,Machine Design,63
+REG2023186,3,Material Science,91
+REG2023186,3,Robotics,92
+REG2023186,4,Thermodynamics,79
+REG2023186,4,Fluid Mechanics,71
+REG2023186,4,Machine Design,73
+REG2023186,4,Material Science,53
+REG2023186,4,Robotics,64
+REG2023187,1,Biochemistry,79
+REG2023187,1,Genetics,71
+REG2023187,1,Cell Biology,85
+REG2023187,1,Microbiology,99
+REG2023187,1,Bioinformatics,89
+REG2023187,2,Biochemistry,88
+REG2023187,2,Genetics,80
+REG2023187,2,Cell Biology,95
+REG2023187,2,Microbiology,92
+REG2023187,2,Bioinformatics,73
+REG2023187,3,Biochemistry,95
+REG2023187,3,Genetics,78
+REG2023187,3,Cell Biology,57
+REG2023187,3,Microbiology,56
+REG2023187,3,Bioinformatics,98
+REG2023187,4,Biochemistry,92
+REG2023187,4,Genetics,64
+REG2023187,4,Cell Biology,50
+REG2023187,4,Microbiology,71
+REG2023187,4,Bioinformatics,72
+REG2023188,1,Circuit Analysis,90
+REG2023188,1,Digital Electronics,68
+REG2023188,1,Power Systems,85
+REG2023188,1,Control Systems,83
+REG2023188,1,Signals & Systems,73
+REG2023188,2,Circuit Analysis,94
+REG2023188,2,Digital Electronics,56
+REG2023188,2,Power Systems,52
+REG2023188,2,Control Systems,60
+REG2023188,2,Signals & Systems,81
+REG2023188,3,Circuit Analysis,58
+REG2023188,3,Digital Electronics,95
+REG2023188,3,Power Systems,97
+REG2023188,3,Control Systems,96
+REG2023188,3,Signals & Systems,76
+REG2023188,4,Circuit Analysis,56
+REG2023188,4,Digital Electronics,66
+REG2023188,4,Power Systems,89
+REG2023188,4,Control Systems,62
+REG2023188,4,Signals & Systems,62
+REG2023189,1,Data Structures,57
+REG2023189,1,Algorithms,75
+REG2023189,1,Database Systems,63
+REG2023189,1,Operating Systems,79
+REG2023189,1,Discrete Mathematics,100
+REG2023189,2,Data Structures,62
+REG2023189,2,Algorithms,95
+REG2023189,2,Database Systems,71
+REG2023189,2,Operating Systems,56
+REG2023189,2,Discrete Mathematics,98
+REG2023189,3,Data Structures,76
+REG2023189,3,Algorithms,52
+REG2023189,3,Database Systems,90
+REG2023189,3,Operating Systems,93
+REG2023189,3,Discrete Mathematics,87
+REG2023189,4,Data Structures,57
+REG2023189,4,Algorithms,99
+REG2023189,4,Database Systems,78
+REG2023189,4,Operating Systems,79
+REG2023189,4,Discrete Mathematics,92
+REG2023190,1,Data Structures,87
+REG2023190,1,Algorithms,82
+REG2023190,1,Database Systems,58
+REG2023190,1,Operating Systems,81
+REG2023190,1,Discrete Mathematics,50
+REG2023190,2,Data Structures,83
+REG2023190,2,Algorithms,97
+REG2023190,2,Database Systems,53
+REG2023190,2,Operating Systems,85
+REG2023190,2,Discrete Mathematics,77
+REG2023190,3,Data Structures,87
+REG2023190,3,Algorithms,80
+REG2023190,3,Database Systems,82
+REG2023190,3,Operating Systems,99
+REG2023190,3,Discrete Mathematics,61
+REG2023190,4,Data Structures,94
+REG2023190,4,Algorithms,87
+REG2023190,4,Database Systems,61
+REG2023190,4,Operating Systems,96
+REG2023190,4,Discrete Mathematics,58
+REG2023191,1,Circuit Analysis,56
+REG2023191,1,Digital Electronics,74
+REG2023191,1,Power Systems,92
+REG2023191,1,Control Systems,88
+REG2023191,1,Signals & Systems,88
+REG2023191,2,Circuit Analysis,70
+REG2023191,2,Digital Electronics,82
+REG2023191,2,Power Systems,74
+REG2023191,2,Control Systems,76
+REG2023191,2,Signals & Systems,88
+REG2023191,3,Circuit Analysis,94
+REG2023191,3,Digital Electronics,98
+REG2023191,3,Power Systems,65
+REG2023191,3,Control Systems,67
+REG2023191,3,Signals & Systems,75
+REG2023191,4,Circuit Analysis,71
+REG2023191,4,Digital Electronics,68
+REG2023191,4,Power Systems,78
+REG2023191,4,Control Systems,58
+REG2023191,4,Signals & Systems,58
+REG2023192,1,Circuit Analysis,76
+REG2023192,1,Digital Electronics,88
+REG2023192,1,Power Systems,94
+REG2023192,1,Control Systems,97
+REG2023192,1,Signals & Systems,82
+REG2023192,2,Circuit Analysis,69
+REG2023192,2,Digital Electronics,94
+REG2023192,2,Power Systems,85
+REG2023192,2,Control Systems,70
+REG2023192,2,Signals & Systems,95
+REG2023192,3,Circuit Analysis,97
+REG2023192,3,Digital Electronics,85
+REG2023192,3,Power Systems,90
+REG2023192,3,Control Systems,63
+REG2023192,3,Signals & Systems,62
+REG2023192,4,Circuit Analysis,63
+REG2023192,4,Digital Electronics,89
+REG2023192,4,Power Systems,95
+REG2023192,4,Control Systems,68
+REG2023192,4,Signals & Systems,93
+REG2023193,1,Biochemistry,72
+REG2023193,1,Genetics,93
+REG2023193,1,Cell Biology,58
+REG2023193,1,Microbiology,95
+REG2023193,1,Bioinformatics,91
+REG2023193,2,Biochemistry,61
+REG2023193,2,Genetics,82
+REG2023193,2,Cell Biology,84
+REG2023193,2,Microbiology,94
+REG2023193,2,Bioinformatics,90
+REG2023193,3,Biochemistry,70
+REG2023193,3,Genetics,95
+REG2023193,3,Cell Biology,57
+REG2023193,3,Microbiology,98
+REG2023193,3,Bioinformatics,72
+REG2023193,4,Biochemistry,85
+REG2023193,4,Genetics,80
+REG2023193,4,Cell Biology,87
+REG2023193,4,Microbiology,86
+REG2023193,4,Bioinformatics,92
+REG2023194,1,Thermodynamics,95
+REG2023194,1,Fluid Mechanics,76
+REG2023194,1,Machine Design,93
+REG2023194,1,Material Science,97
+REG2023194,1,Robotics,84
+REG2023194,2,Thermodynamics,68
+REG2023194,2,Fluid Mechanics,77
+REG2023194,2,Machine Design,50
+REG2023194,2,Material Science,83
+REG2023194,2,Robotics,56
+REG2023194,3,Thermodynamics,51
+REG2023194,3,Fluid Mechanics,74
+REG2023194,3,Machine Design,59
+REG2023194,3,Material Science,53
+REG2023194,3,Robotics,92
+REG2023194,4,Thermodynamics,53
+REG2023194,4,Fluid Mechanics,62
+REG2023194,4,Machine Design,67
+REG2023194,4,Material Science,98
+REG2023194,4,Robotics,100
+REG2023195,1,Thermodynamics,60
+REG2023195,1,Fluid Mechanics,68
+REG2023195,1,Machine Design,93
+REG2023195,1,Material Science,66
+REG2023195,1,Robotics,59
+REG2023195,2,Thermodynamics,53
+REG2023195,2,Fluid Mechanics,94
+REG2023195,2,Machine Design,100
+REG2023195,2,Material Science,68
+REG2023195,2,Robotics,63
+REG2023195,3,Thermodynamics,98
+REG2023195,3,Fluid Mechanics,84
+REG2023195,3,Machine Design,52
+REG2023195,3,Material Science,72
+REG2023195,3,Robotics,78
+REG2023195,4,Thermodynamics,56
+REG2023195,4,Fluid Mechanics,89
+REG2023195,4,Machine Design,93
+REG2023195,4,Material Science,97
+REG2023195,4,Robotics,85
+REG2023196,1,Biochemistry,64
+REG2023196,1,Genetics,97
+REG2023196,1,Cell Biology,91
+REG2023196,1,Microbiology,85
+REG2023196,1,Bioinformatics,74
+REG2023196,2,Biochemistry,65
+REG2023196,2,Genetics,82
+REG2023196,2,Cell Biology,100
+REG2023196,2,Microbiology,100
+REG2023196,2,Bioinformatics,94
+REG2023196,3,Biochemistry,68
+REG2023196,3,Genetics,94
+REG2023196,3,Cell Biology,92
+REG2023196,3,Microbiology,53
+REG2023196,3,Bioinformatics,74
+REG2023196,4,Biochemistry,74
+REG2023196,4,Genetics,76
+REG2023196,4,Cell Biology,100
+REG2023196,4,Microbiology,93
+REG2023196,4,Bioinformatics,70
+REG2023197,1,Biochemistry,85
+REG2023197,1,Genetics,53
+REG2023197,1,Cell Biology,50
+REG2023197,1,Microbiology,97
+REG2023197,1,Bioinformatics,66
+REG2023197,2,Biochemistry,62
+REG2023197,2,Genetics,89
+REG2023197,2,Cell Biology,99
+REG2023197,2,Microbiology,78
+REG2023197,2,Bioinformatics,64
+REG2023197,3,Biochemistry,90
+REG2023197,3,Genetics,95
+REG2023197,3,Cell Biology,95
+REG2023197,3,Microbiology,91
+REG2023197,3,Bioinformatics,73
+REG2023197,4,Biochemistry,98
+REG2023197,4,Genetics,87
+REG2023197,4,Cell Biology,84
+REG2023197,4,Microbiology,97
+REG2023197,4,Bioinformatics,88
+REG2023198,1,Biochemistry,62
+REG2023198,1,Genetics,99
+REG2023198,1,Cell Biology,96
+REG2023198,1,Microbiology,62
+REG2023198,1,Bioinformatics,68
+REG2023198,2,Biochemistry,78
+REG2023198,2,Genetics,61
+REG2023198,2,Cell Biology,93
+REG2023198,2,Microbiology,54
+REG2023198,2,Bioinformatics,61
+REG2023198,3,Biochemistry,61
+REG2023198,3,Genetics,97
+REG2023198,3,Cell Biology,82
+REG2023198,3,Microbiology,57
+REG2023198,3,Bioinformatics,74
+REG2023198,4,Biochemistry,52
+REG2023198,4,Genetics,77
+REG2023198,4,Cell Biology,67
+REG2023198,4,Microbiology,85
+REG2023198,4,Bioinformatics,66
+REG2023199,1,Data Structures,58
+REG2023199,1,Algorithms,60
+REG2023199,1,Database Systems,87
+REG2023199,1,Operating Systems,66
+REG2023199,1,Discrete Mathematics,50
+REG2023199,2,Data Structures,71
+REG2023199,2,Algorithms,79
+REG2023199,2,Database Systems,95
+REG2023199,2,Operating Systems,59
+REG2023199,2,Discrete Mathematics,52
+REG2023199,3,Data Structures,59
+REG2023199,3,Algorithms,70
+REG2023199,3,Database Systems,88
+REG2023199,3,Operating Systems,53
+REG2023199,3,Discrete Mathematics,99
+REG2023199,4,Data Structures,90
+REG2023199,4,Algorithms,89
+REG2023199,4,Database Systems,92
+REG2023199,4,Operating Systems,69
+REG2023199,4,Discrete Mathematics,81
+REG2023200,1,Thermodynamics,100
+REG2023200,1,Fluid Mechanics,86
+REG2023200,1,Machine Design,85
+REG2023200,1,Material Science,72
+REG2023200,1,Robotics,54
+REG2023200,2,Thermodynamics,100
+REG2023200,2,Fluid Mechanics,95
+REG2023200,2,Machine Design,70
+REG2023200,2,Material Science,83
+REG2023200,2,Robotics,64
+REG2023200,3,Thermodynamics,61
+REG2023200,3,Fluid Mechanics,83
+REG2023200,3,Machine Design,54
+REG2023200,3,Material Science,100
+REG2023200,3,Robotics,82
+REG2023200,4,Thermodynamics,60
+REG2023200,4,Fluid Mechanics,76
+REG2023200,4,Machine Design,84
+REG2023200,4,Material Science,84
+REG2023200,4,Robotics,75
+REG2023201,1,Circuit Analysis,55
+REG2023201,1,Digital Electronics,72
+REG2023201,1,Power Systems,64
+REG2023201,1,Control Systems,63
+REG2023201,1,Signals & Systems,92
+REG2023201,2,Circuit Analysis,71
+REG2023201,2,Digital Electronics,71
+REG2023201,2,Power Systems,73
+REG2023201,2,Control Systems,68
+REG2023201,2,Signals & Systems,63
+REG2023201,3,Circuit Analysis,98
+REG2023201,3,Digital Electronics,89
+REG2023201,3,Power Systems,83
+REG2023201,3,Control Systems,80
+REG2023201,3,Signals & Systems,85
+REG2023201,4,Circuit Analysis,98
+REG2023201,4,Digital Electronics,91
+REG2023201,4,Power Systems,50
+REG2023201,4,Control Systems,57
+REG2023201,4,Signals & Systems,92
+REG2023202,1,Structural Analysis,72
+REG2023202,1,Geotechnical Engineering,78
+REG2023202,1,Transportation Engineering,65
+REG2023202,1,Hydrology,91
+REG2023202,1,Surveying,89
+REG2023202,2,Structural Analysis,89
+REG2023202,2,Geotechnical Engineering,65
+REG2023202,2,Transportation Engineering,52
+REG2023202,2,Hydrology,93
+REG2023202,2,Surveying,70
+REG2023202,3,Structural Analysis,74
+REG2023202,3,Geotechnical Engineering,100
+REG2023202,3,Transportation Engineering,57
+REG2023202,3,Hydrology,74
+REG2023202,3,Surveying,66
+REG2023202,4,Structural Analysis,84
+REG2023202,4,Geotechnical Engineering,96
+REG2023202,4,Transportation Engineering,68
+REG2023202,4,Hydrology,51
+REG2023202,4,Surveying,83
+REG2023203,1,Thermodynamics,99
+REG2023203,1,Fluid Mechanics,73
+REG2023203,1,Machine Design,82
+REG2023203,1,Material Science,82
+REG2023203,1,Robotics,78
+REG2023203,2,Thermodynamics,81
+REG2023203,2,Fluid Mechanics,52
+REG2023203,2,Machine Design,68
+REG2023203,2,Material Science,91
+REG2023203,2,Robotics,62
+REG2023203,3,Thermodynamics,70
+REG2023203,3,Fluid Mechanics,82
+REG2023203,3,Machine Design,55
+REG2023203,3,Material Science,56
+REG2023203,3,Robotics,60
+REG2023203,4,Thermodynamics,99
+REG2023203,4,Fluid Mechanics,84
+REG2023203,4,Machine Design,84
+REG2023203,4,Material Science,50
+REG2023203,4,Robotics,90
+REG2023204,1,Biochemistry,54
+REG2023204,1,Genetics,63
+REG2023204,1,Cell Biology,92
+REG2023204,1,Microbiology,90
+REG2023204,1,Bioinformatics,99
+REG2023204,2,Biochemistry,63
+REG2023204,2,Genetics,93
+REG2023204,2,Cell Biology,77
+REG2023204,2,Microbiology,56
+REG2023204,2,Bioinformatics,63
+REG2023204,3,Biochemistry,84
+REG2023204,3,Genetics,94
+REG2023204,3,Cell Biology,97
+REG2023204,3,Microbiology,99
+REG2023204,3,Bioinformatics,77
+REG2023204,4,Biochemistry,91
+REG2023204,4,Genetics,54
+REG2023204,4,Cell Biology,97
+REG2023204,4,Microbiology,93
+REG2023204,4,Bioinformatics,59
+REG2023205,1,Thermodynamics,51
+REG2023205,1,Fluid Mechanics,79
+REG2023205,1,Machine Design,95
+REG2023205,1,Material Science,71
+REG2023205,1,Robotics,52
+REG2023205,2,Thermodynamics,55
+REG2023205,2,Fluid Mechanics,54
+REG2023205,2,Machine Design,53
+REG2023205,2,Material Science,61
+REG2023205,2,Robotics,100
+REG2023205,3,Thermodynamics,66
+REG2023205,3,Fluid Mechanics,85
+REG2023205,3,Machine Design,54
+REG2023205,3,Material Science,86
+REG2023205,3,Robotics,64
+REG2023205,4,Thermodynamics,66
+REG2023205,4,Fluid Mechanics,76
+REG2023205,4,Machine Design,74
+REG2023205,4,Material Science,78
+REG2023205,4,Robotics,90
+REG2023206,1,Circuit Analysis,75
+REG2023206,1,Digital Electronics,77
+REG2023206,1,Power Systems,70
+REG2023206,1,Control Systems,51
+REG2023206,1,Signals & Systems,74
+REG2023206,2,Circuit Analysis,93
+REG2023206,2,Digital Electronics,57
+REG2023206,2,Power Systems,84
+REG2023206,2,Control Systems,50
+REG2023206,2,Signals & Systems,91
+REG2023206,3,Circuit Analysis,96
+REG2023206,3,Digital Electronics,89
+REG2023206,3,Power Systems,54
+REG2023206,3,Control Systems,98
+REG2023206,3,Signals & Systems,97
+REG2023206,4,Circuit Analysis,87
+REG2023206,4,Digital Electronics,52
+REG2023206,4,Power Systems,94
+REG2023206,4,Control Systems,54
+REG2023206,4,Signals & Systems,72
+REG2023207,1,Thermodynamics,82
+REG2023207,1,Fluid Mechanics,56
+REG2023207,1,Machine Design,68
+REG2023207,1,Material Science,100
+REG2023207,1,Robotics,93
+REG2023207,2,Thermodynamics,69
+REG2023207,2,Fluid Mechanics,88
+REG2023207,2,Machine Design,55
+REG2023207,2,Material Science,68
+REG2023207,2,Robotics,98
+REG2023207,3,Thermodynamics,78
+REG2023207,3,Fluid Mechanics,74
+REG2023207,3,Machine Design,75
+REG2023207,3,Material Science,92
+REG2023207,3,Robotics,51
+REG2023207,4,Thermodynamics,80
+REG2023207,4,Fluid Mechanics,60
+REG2023207,4,Machine Design,84
+REG2023207,4,Material Science,64
+REG2023207,4,Robotics,58
+REG2023208,1,Thermodynamics,97
+REG2023208,1,Fluid Mechanics,75
+REG2023208,1,Machine Design,100
+REG2023208,1,Material Science,84
+REG2023208,1,Robotics,68
+REG2023208,2,Thermodynamics,90
+REG2023208,2,Fluid Mechanics,59
+REG2023208,2,Machine Design,69
+REG2023208,2,Material Science,93
+REG2023208,2,Robotics,100
+REG2023208,3,Thermodynamics,96
+REG2023208,3,Fluid Mechanics,91
+REG2023208,3,Machine Design,73
+REG2023208,3,Material Science,50
+REG2023208,3,Robotics,85
+REG2023208,4,Thermodynamics,85
+REG2023208,4,Fluid Mechanics,59
+REG2023208,4,Machine Design,57
+REG2023208,4,Material Science,52
+REG2023208,4,Robotics,50
+REG2023209,1,Thermodynamics,86
+REG2023209,1,Fluid Mechanics,88
+REG2023209,1,Machine Design,75
+REG2023209,1,Material Science,84
+REG2023209,1,Robotics,85
+REG2023209,2,Thermodynamics,55
+REG2023209,2,Fluid Mechanics,69
+REG2023209,2,Machine Design,63
+REG2023209,2,Material Science,97
+REG2023209,2,Robotics,97
+REG2023209,3,Thermodynamics,96
+REG2023209,3,Fluid Mechanics,72
+REG2023209,3,Machine Design,63
+REG2023209,3,Material Science,76
+REG2023209,3,Robotics,91
+REG2023209,4,Thermodynamics,82
+REG2023209,4,Fluid Mechanics,59
+REG2023209,4,Machine Design,60
+REG2023209,4,Material Science,61
+REG2023209,4,Robotics,64
+REG2023210,1,Biochemistry,89
+REG2023210,1,Genetics,66
+REG2023210,1,Cell Biology,62
+REG2023210,1,Microbiology,57
+REG2023210,1,Bioinformatics,61
+REG2023210,2,Biochemistry,92
+REG2023210,2,Genetics,86
+REG2023210,2,Cell Biology,53
+REG2023210,2,Microbiology,98
+REG2023210,2,Bioinformatics,85
+REG2023210,3,Biochemistry,79
+REG2023210,3,Genetics,91
+REG2023210,3,Cell Biology,85
+REG2023210,3,Microbiology,54
+REG2023210,3,Bioinformatics,68
+REG2023210,4,Biochemistry,92
+REG2023210,4,Genetics,54
+REG2023210,4,Cell Biology,66
+REG2023210,4,Microbiology,56
+REG2023210,4,Bioinformatics,62
+REG2023211,1,Data Structures,96
+REG2023211,1,Algorithms,87
+REG2023211,1,Database Systems,81
+REG2023211,1,Operating Systems,71
+REG2023211,1,Discrete Mathematics,72
+REG2023211,2,Data Structures,58
+REG2023211,2,Algorithms,92
+REG2023211,2,Database Systems,91
+REG2023211,2,Operating Systems,65
+REG2023211,2,Discrete Mathematics,56
+REG2023211,3,Data Structures,68
+REG2023211,3,Algorithms,89
+REG2023211,3,Database Systems,54
+REG2023211,3,Operating Systems,62
+REG2023211,3,Discrete Mathematics,70
+REG2023211,4,Data Structures,81
+REG2023211,4,Algorithms,78
+REG2023211,4,Database Systems,71
+REG2023211,4,Operating Systems,89
+REG2023211,4,Discrete Mathematics,92
+REG2023212,1,Data Structures,69
+REG2023212,1,Algorithms,94
+REG2023212,1,Database Systems,87
+REG2023212,1,Operating Systems,59
+REG2023212,1,Discrete Mathematics,86
+REG2023212,2,Data Structures,86
+REG2023212,2,Algorithms,73
+REG2023212,2,Database Systems,70
+REG2023212,2,Operating Systems,77
+REG2023212,2,Discrete Mathematics,60
+REG2023212,3,Data Structures,50
+REG2023212,3,Algorithms,70
+REG2023212,3,Database Systems,65
+REG2023212,3,Operating Systems,100
+REG2023212,3,Discrete Mathematics,64
+REG2023212,4,Data Structures,95
+REG2023212,4,Algorithms,97
+REG2023212,4,Database Systems,91
+REG2023212,4,Operating Systems,77
+REG2023212,4,Discrete Mathematics,67
+REG2023213,1,Circuit Analysis,73
+REG2023213,1,Digital Electronics,58
+REG2023213,1,Power Systems,93
+REG2023213,1,Control Systems,96
+REG2023213,1,Signals & Systems,71
+REG2023213,2,Circuit Analysis,80
+REG2023213,2,Digital Electronics,79
+REG2023213,2,Power Systems,78
+REG2023213,2,Control Systems,72
+REG2023213,2,Signals & Systems,99
+REG2023213,3,Circuit Analysis,69
+REG2023213,3,Digital Electronics,81
+REG2023213,3,Power Systems,85
+REG2023213,3,Control Systems,56
+REG2023213,3,Signals & Systems,61
+REG2023213,4,Circuit Analysis,91
+REG2023213,4,Digital Electronics,88
+REG2023213,4,Power Systems,55
+REG2023213,4,Control Systems,67
+REG2023213,4,Signals & Systems,58
+REG2023214,1,Circuit Analysis,84
+REG2023214,1,Digital Electronics,62
+REG2023214,1,Power Systems,66
+REG2023214,1,Control Systems,96
+REG2023214,1,Signals & Systems,90
+REG2023214,2,Circuit Analysis,54
+REG2023214,2,Digital Electronics,96
+REG2023214,2,Power Systems,54
+REG2023214,2,Control Systems,51
+REG2023214,2,Signals & Systems,82
+REG2023214,3,Circuit Analysis,90
+REG2023214,3,Digital Electronics,51
+REG2023214,3,Power Systems,87
+REG2023214,3,Control Systems,87
+REG2023214,3,Signals & Systems,75
+REG2023214,4,Circuit Analysis,99
+REG2023214,4,Digital Electronics,87
+REG2023214,4,Power Systems,63
+REG2023214,4,Control Systems,52
+REG2023214,4,Signals & Systems,85
+REG2023215,1,Data Structures,66
+REG2023215,1,Algorithms,84
+REG2023215,1,Database Systems,84
+REG2023215,1,Operating Systems,80
+REG2023215,1,Discrete Mathematics,91
+REG2023215,2,Data Structures,99
+REG2023215,2,Algorithms,59
+REG2023215,2,Database Systems,73
+REG2023215,2,Operating Systems,75
+REG2023215,2,Discrete Mathematics,64
+REG2023215,3,Data Structures,99
+REG2023215,3,Algorithms,87
+REG2023215,3,Database Systems,96
+REG2023215,3,Operating Systems,68
+REG2023215,3,Discrete Mathematics,58
+REG2023215,4,Data Structures,79
+REG2023215,4,Algorithms,82
+REG2023215,4,Database Systems,82
+REG2023215,4,Operating Systems,55
+REG2023215,4,Discrete Mathematics,75
+REG2023216,1,Data Structures,73
+REG2023216,1,Algorithms,82
+REG2023216,1,Database Systems,50
+REG2023216,1,Operating Systems,92
+REG2023216,1,Discrete Mathematics,65
+REG2023216,2,Data Structures,89
+REG2023216,2,Algorithms,93
+REG2023216,2,Database Systems,60
+REG2023216,2,Operating Systems,98
+REG2023216,2,Discrete Mathematics,82
+REG2023216,3,Data Structures,58
+REG2023216,3,Algorithms,78
+REG2023216,3,Database Systems,60
+REG2023216,3,Operating Systems,61
+REG2023216,3,Discrete Mathematics,86
+REG2023216,4,Data Structures,86
+REG2023216,4,Algorithms,92
+REG2023216,4,Database Systems,59
+REG2023216,4,Operating Systems,97
+REG2023216,4,Discrete Mathematics,96
+REG2023217,1,Data Structures,80
+REG2023217,1,Algorithms,72
+REG2023217,1,Database Systems,52
+REG2023217,1,Operating Systems,64
+REG2023217,1,Discrete Mathematics,98
+REG2023217,2,Data Structures,81
+REG2023217,2,Algorithms,64
+REG2023217,2,Database Systems,54
+REG2023217,2,Operating Systems,66
+REG2023217,2,Discrete Mathematics,73
+REG2023217,3,Data Structures,64
+REG2023217,3,Algorithms,52
+REG2023217,3,Database Systems,92
+REG2023217,3,Operating Systems,63
+REG2023217,3,Discrete Mathematics,83
+REG2023217,4,Data Structures,100
+REG2023217,4,Algorithms,73
+REG2023217,4,Database Systems,74
+REG2023217,4,Operating Systems,80
+REG2023217,4,Discrete Mathematics,79
+REG2023218,1,Structural Analysis,52
+REG2023218,1,Geotechnical Engineering,52
+REG2023218,1,Transportation Engineering,91
+REG2023218,1,Hydrology,70
+REG2023218,1,Surveying,56
+REG2023218,2,Structural Analysis,95
+REG2023218,2,Geotechnical Engineering,83
+REG2023218,2,Transportation Engineering,90
+REG2023218,2,Hydrology,67
+REG2023218,2,Surveying,97
+REG2023218,3,Structural Analysis,66
+REG2023218,3,Geotechnical Engineering,87
+REG2023218,3,Transportation Engineering,84
+REG2023218,3,Hydrology,86
+REG2023218,3,Surveying,61
+REG2023218,4,Structural Analysis,74
+REG2023218,4,Geotechnical Engineering,91
+REG2023218,4,Transportation Engineering,74
+REG2023218,4,Hydrology,73
+REG2023218,4,Surveying,87
+REG2023219,1,Structural Analysis,91
+REG2023219,1,Geotechnical Engineering,54
+REG2023219,1,Transportation Engineering,83
+REG2023219,1,Hydrology,66
+REG2023219,1,Surveying,74
+REG2023219,2,Structural Analysis,64
+REG2023219,2,Geotechnical Engineering,83
+REG2023219,2,Transportation Engineering,75
+REG2023219,2,Hydrology,72
+REG2023219,2,Surveying,72
+REG2023219,3,Structural Analysis,81
+REG2023219,3,Geotechnical Engineering,100
+REG2023219,3,Transportation Engineering,80
+REG2023219,3,Hydrology,88
+REG2023219,3,Surveying,50
+REG2023219,4,Structural Analysis,82
+REG2023219,4,Geotechnical Engineering,58
+REG2023219,4,Transportation Engineering,78
+REG2023219,4,Hydrology,60
+REG2023219,4,Surveying,64
+REG2023220,1,Biochemistry,54
+REG2023220,1,Genetics,82
+REG2023220,1,Cell Biology,91
+REG2023220,1,Microbiology,67
+REG2023220,1,Bioinformatics,63
+REG2023220,2,Biochemistry,59
+REG2023220,2,Genetics,61
+REG2023220,2,Cell Biology,60
+REG2023220,2,Microbiology,73
+REG2023220,2,Bioinformatics,88
+REG2023220,3,Biochemistry,95
+REG2023220,3,Genetics,57
+REG2023220,3,Cell Biology,92
+REG2023220,3,Microbiology,64
+REG2023220,3,Bioinformatics,76
+REG2023220,4,Biochemistry,71
+REG2023220,4,Genetics,96
+REG2023220,4,Cell Biology,57
+REG2023220,4,Microbiology,80
+REG2023220,4,Bioinformatics,93
+REG2023221,1,Data Structures,80
+REG2023221,1,Algorithms,80
+REG2023221,1,Database Systems,63
+REG2023221,1,Operating Systems,87
+REG2023221,1,Discrete Mathematics,60
+REG2023221,2,Data Structures,91
+REG2023221,2,Algorithms,76
+REG2023221,2,Database Systems,51
+REG2023221,2,Operating Systems,65
+REG2023221,2,Discrete Mathematics,52
+REG2023221,3,Data Structures,58
+REG2023221,3,Algorithms,86
+REG2023221,3,Database Systems,87
+REG2023221,3,Operating Systems,60
+REG2023221,3,Discrete Mathematics,58
+REG2023221,4,Data Structures,90
+REG2023221,4,Algorithms,82
+REG2023221,4,Database Systems,52
+REG2023221,4,Operating Systems,86
+REG2023221,4,Discrete Mathematics,59
+REG2023222,1,Structural Analysis,53
+REG2023222,1,Geotechnical Engineering,60
+REG2023222,1,Transportation Engineering,66
+REG2023222,1,Hydrology,61
+REG2023222,1,Surveying,83
+REG2023222,2,Structural Analysis,75
+REG2023222,2,Geotechnical Engineering,88
+REG2023222,2,Transportation Engineering,86
+REG2023222,2,Hydrology,90
+REG2023222,2,Surveying,51
+REG2023222,3,Structural Analysis,96
+REG2023222,3,Geotechnical Engineering,96
+REG2023222,3,Transportation Engineering,92
+REG2023222,3,Hydrology,68
+REG2023222,3,Surveying,55
+REG2023222,4,Structural Analysis,63
+REG2023222,4,Geotechnical Engineering,78
+REG2023222,4,Transportation Engineering,88
+REG2023222,4,Hydrology,80
+REG2023222,4,Surveying,80
+REG2023223,1,Biochemistry,60
+REG2023223,1,Genetics,64
+REG2023223,1,Cell Biology,76
+REG2023223,1,Microbiology,88
+REG2023223,1,Bioinformatics,59
+REG2023223,2,Biochemistry,100
+REG2023223,2,Genetics,87
+REG2023223,2,Cell Biology,99
+REG2023223,2,Microbiology,61
+REG2023223,2,Bioinformatics,89
+REG2023223,3,Biochemistry,92
+REG2023223,3,Genetics,82
+REG2023223,3,Cell Biology,66
+REG2023223,3,Microbiology,60
+REG2023223,3,Bioinformatics,96
+REG2023223,4,Biochemistry,93
+REG2023223,4,Genetics,71
+REG2023223,4,Cell Biology,79
+REG2023223,4,Microbiology,88
+REG2023223,4,Bioinformatics,87
+REG2023224,1,Structural Analysis,54
+REG2023224,1,Geotechnical Engineering,64
+REG2023224,1,Transportation Engineering,74
+REG2023224,1,Hydrology,74
+REG2023224,1,Surveying,58
+REG2023224,2,Structural Analysis,56
+REG2023224,2,Geotechnical Engineering,51
+REG2023224,2,Transportation Engineering,62
+REG2023224,2,Hydrology,83
+REG2023224,2,Surveying,82
+REG2023224,3,Structural Analysis,93
+REG2023224,3,Geotechnical Engineering,76
+REG2023224,3,Transportation Engineering,59
+REG2023224,3,Hydrology,88
+REG2023224,3,Surveying,56
+REG2023224,4,Structural Analysis,61
+REG2023224,4,Geotechnical Engineering,80
+REG2023224,4,Transportation Engineering,89
+REG2023224,4,Hydrology,88
+REG2023224,4,Surveying,52
+REG2023225,1,Thermodynamics,100
+REG2023225,1,Fluid Mechanics,84
+REG2023225,1,Machine Design,82
+REG2023225,1,Material Science,98
+REG2023225,1,Robotics,57
+REG2023225,2,Thermodynamics,55
+REG2023225,2,Fluid Mechanics,80
+REG2023225,2,Machine Design,92
+REG2023225,2,Material Science,58
+REG2023225,2,Robotics,88
+REG2023225,3,Thermodynamics,84
+REG2023225,3,Fluid Mechanics,50
+REG2023225,3,Machine Design,99
+REG2023225,3,Material Science,93
+REG2023225,3,Robotics,91
+REG2023225,4,Thermodynamics,77
+REG2023225,4,Fluid Mechanics,83
+REG2023225,4,Machine Design,76
+REG2023225,4,Material Science,73
+REG2023225,4,Robotics,52
+REG2023226,1,Thermodynamics,94
+REG2023226,1,Fluid Mechanics,83
+REG2023226,1,Machine Design,77
+REG2023226,1,Material Science,64
+REG2023226,1,Robotics,80
+REG2023226,2,Thermodynamics,100
+REG2023226,2,Fluid Mechanics,99
+REG2023226,2,Machine Design,74
+REG2023226,2,Material Science,72
+REG2023226,2,Robotics,87
+REG2023226,3,Thermodynamics,97
+REG2023226,3,Fluid Mechanics,98
+REG2023226,3,Machine Design,94
+REG2023226,3,Material Science,86
+REG2023226,3,Robotics,56
+REG2023226,4,Thermodynamics,77
+REG2023226,4,Fluid Mechanics,58
+REG2023226,4,Machine Design,66
+REG2023226,4,Material Science,80
+REG2023226,4,Robotics,99
+REG2023227,1,Data Structures,64
+REG2023227,1,Algorithms,55
+REG2023227,1,Database Systems,68
+REG2023227,1,Operating Systems,88
+REG2023227,1,Discrete Mathematics,84
+REG2023227,2,Data Structures,76
+REG2023227,2,Algorithms,66
+REG2023227,2,Database Systems,62
+REG2023227,2,Operating Systems,50
+REG2023227,2,Discrete Mathematics,95
+REG2023227,3,Data Structures,97
+REG2023227,3,Algorithms,100
+REG2023227,3,Database Systems,50
+REG2023227,3,Operating Systems,86
+REG2023227,3,Discrete Mathematics,83
+REG2023227,4,Data Structures,57
+REG2023227,4,Algorithms,83
+REG2023227,4,Database Systems,50
+REG2023227,4,Operating Systems,74
+REG2023227,4,Discrete Mathematics,91
+REG2023228,1,Thermodynamics,63
+REG2023228,1,Fluid Mechanics,94
+REG2023228,1,Machine Design,70
+REG2023228,1,Material Science,76
+REG2023228,1,Robotics,73
+REG2023228,2,Thermodynamics,56
+REG2023228,2,Fluid Mechanics,59
+REG2023228,2,Machine Design,77
+REG2023228,2,Material Science,91
+REG2023228,2,Robotics,87
+REG2023228,3,Thermodynamics,66
+REG2023228,3,Fluid Mechanics,66
+REG2023228,3,Machine Design,84
+REG2023228,3,Material Science,77
+REG2023228,3,Robotics,86
+REG2023228,4,Thermodynamics,73
+REG2023228,4,Fluid Mechanics,89
+REG2023228,4,Machine Design,67
+REG2023228,4,Material Science,93
+REG2023228,4,Robotics,75
+REG2023229,1,Thermodynamics,98
+REG2023229,1,Fluid Mechanics,63
+REG2023229,1,Machine Design,76
+REG2023229,1,Material Science,85
+REG2023229,1,Robotics,100
+REG2023229,2,Thermodynamics,85
+REG2023229,2,Fluid Mechanics,80
+REG2023229,2,Machine Design,61
+REG2023229,2,Material Science,73
+REG2023229,2,Robotics,85
+REG2023229,3,Thermodynamics,85
+REG2023229,3,Fluid Mechanics,80
+REG2023229,3,Machine Design,66
+REG2023229,3,Material Science,69
+REG2023229,3,Robotics,86
+REG2023229,4,Thermodynamics,72
+REG2023229,4,Fluid Mechanics,99
+REG2023229,4,Machine Design,95
+REG2023229,4,Material Science,75
+REG2023229,4,Robotics,97
+REG2023230,1,Biochemistry,58
+REG2023230,1,Genetics,92
+REG2023230,1,Cell Biology,57
+REG2023230,1,Microbiology,97
+REG2023230,1,Bioinformatics,64
+REG2023230,2,Biochemistry,78
+REG2023230,2,Genetics,100
+REG2023230,2,Cell Biology,94
+REG2023230,2,Microbiology,60
+REG2023230,2,Bioinformatics,56
+REG2023230,3,Biochemistry,63
+REG2023230,3,Genetics,82
+REG2023230,3,Cell Biology,75
+REG2023230,3,Microbiology,100
+REG2023230,3,Bioinformatics,71
+REG2023230,4,Biochemistry,85
+REG2023230,4,Genetics,89
+REG2023230,4,Cell Biology,94
+REG2023230,4,Microbiology,93
+REG2023230,4,Bioinformatics,95
+REG2023231,1,Thermodynamics,53
+REG2023231,1,Fluid Mechanics,60
+REG2023231,1,Machine Design,74
+REG2023231,1,Material Science,90
+REG2023231,1,Robotics,50
+REG2023231,2,Thermodynamics,55
+REG2023231,2,Fluid Mechanics,59
+REG2023231,2,Machine Design,80
+REG2023231,2,Material Science,88
+REG2023231,2,Robotics,77
+REG2023231,3,Thermodynamics,55
+REG2023231,3,Fluid Mechanics,54
+REG2023231,3,Machine Design,66
+REG2023231,3,Material Science,64
+REG2023231,3,Robotics,73
+REG2023231,4,Thermodynamics,55
+REG2023231,4,Fluid Mechanics,88
+REG2023231,4,Machine Design,52
+REG2023231,4,Material Science,96
+REG2023231,4,Robotics,74
+REG2023232,1,Data Structures,75
+REG2023232,1,Algorithms,89
+REG2023232,1,Database Systems,91
+REG2023232,1,Operating Systems,83
+REG2023232,1,Discrete Mathematics,68
+REG2023232,2,Data Structures,95
+REG2023232,2,Algorithms,88
+REG2023232,2,Database Systems,53
+REG2023232,2,Operating Systems,99
+REG2023232,2,Discrete Mathematics,61
+REG2023232,3,Data Structures,90
+REG2023232,3,Algorithms,81
+REG2023232,3,Database Systems,78
+REG2023232,3,Operating Systems,50
+REG2023232,3,Discrete Mathematics,62
+REG2023232,4,Data Structures,92
+REG2023232,4,Algorithms,83
+REG2023232,4,Database Systems,68
+REG2023232,4,Operating Systems,62
+REG2023232,4,Discrete Mathematics,52
+REG2023233,1,Circuit Analysis,100
+REG2023233,1,Digital Electronics,88
+REG2023233,1,Power Systems,82
+REG2023233,1,Control Systems,83
+REG2023233,1,Signals & Systems,94
+REG2023233,2,Circuit Analysis,64
+REG2023233,2,Digital Electronics,89
+REG2023233,2,Power Systems,60
+REG2023233,2,Control Systems,93
+REG2023233,2,Signals & Systems,52
+REG2023233,3,Circuit Analysis,73
+REG2023233,3,Digital Electronics,65
+REG2023233,3,Power Systems,91
+REG2023233,3,Control Systems,50
+REG2023233,3,Signals & Systems,60
+REG2023233,4,Circuit Analysis,55
+REG2023233,4,Digital Electronics,67
+REG2023233,4,Power Systems,99
+REG2023233,4,Control Systems,75
+REG2023233,4,Signals & Systems,72
+REG2023234,1,Structural Analysis,92
+REG2023234,1,Geotechnical Engineering,75
+REG2023234,1,Transportation Engineering,75
+REG2023234,1,Hydrology,87
+REG2023234,1,Surveying,62
+REG2023234,2,Structural Analysis,83
+REG2023234,2,Geotechnical Engineering,50
+REG2023234,2,Transportation Engineering,97
+REG2023234,2,Hydrology,95
+REG2023234,2,Surveying,54
+REG2023234,3,Structural Analysis,55
+REG2023234,3,Geotechnical Engineering,85
+REG2023234,3,Transportation Engineering,68
+REG2023234,3,Hydrology,96
+REG2023234,3,Surveying,85
+REG2023234,4,Structural Analysis,87
+REG2023234,4,Geotechnical Engineering,72
+REG2023234,4,Transportation Engineering,72
+REG2023234,4,Hydrology,67
+REG2023234,4,Surveying,64
+REG2023235,1,Thermodynamics,88
+REG2023235,1,Fluid Mechanics,62
+REG2023235,1,Machine Design,79
+REG2023235,1,Material Science,75
+REG2023235,1,Robotics,86
+REG2023235,2,Thermodynamics,50
+REG2023235,2,Fluid Mechanics,66
+REG2023235,2,Machine Design,61
+REG2023235,2,Material Science,76
+REG2023235,2,Robotics,82
+REG2023235,3,Thermodynamics,56
+REG2023235,3,Fluid Mechanics,85
+REG2023235,3,Machine Design,54
+REG2023235,3,Material Science,82
+REG2023235,3,Robotics,68
+REG2023235,4,Thermodynamics,71
+REG2023235,4,Fluid Mechanics,57
+REG2023235,4,Machine Design,82
+REG2023235,4,Material Science,66
+REG2023235,4,Robotics,84
+REG2023236,1,Thermodynamics,100
+REG2023236,1,Fluid Mechanics,86
+REG2023236,1,Machine Design,66
+REG2023236,1,Material Science,94
+REG2023236,1,Robotics,78
+REG2023236,2,Thermodynamics,74
+REG2023236,2,Fluid Mechanics,86
+REG2023236,2,Machine Design,80
+REG2023236,2,Material Science,99
+REG2023236,2,Robotics,65
+REG2023236,3,Thermodynamics,98
+REG2023236,3,Fluid Mechanics,71
+REG2023236,3,Machine Design,99
+REG2023236,3,Material Science,79
+REG2023236,3,Robotics,93
+REG2023236,4,Thermodynamics,79
+REG2023236,4,Fluid Mechanics,87
+REG2023236,4,Machine Design,51
+REG2023236,4,Material Science,80
+REG2023236,4,Robotics,57
+REG2023237,1,Circuit Analysis,66
+REG2023237,1,Digital Electronics,54
+REG2023237,1,Power Systems,74
+REG2023237,1,Control Systems,90
+REG2023237,1,Signals & Systems,100
+REG2023237,2,Circuit Analysis,64
+REG2023237,2,Digital Electronics,93
+REG2023237,2,Power Systems,94
+REG2023237,2,Control Systems,64
+REG2023237,2,Signals & Systems,70
+REG2023237,3,Circuit Analysis,76
+REG2023237,3,Digital Electronics,72
+REG2023237,3,Power Systems,83
+REG2023237,3,Control Systems,84
+REG2023237,3,Signals & Systems,50
+REG2023237,4,Circuit Analysis,94
+REG2023237,4,Digital Electronics,66
+REG2023237,4,Power Systems,65
+REG2023237,4,Control Systems,68
+REG2023237,4,Signals & Systems,55
+REG2023238,1,Biochemistry,75
+REG2023238,1,Genetics,93
+REG2023238,1,Cell Biology,97
+REG2023238,1,Microbiology,71
+REG2023238,1,Bioinformatics,54
+REG2023238,2,Biochemistry,85
+REG2023238,2,Genetics,61
+REG2023238,2,Cell Biology,80
+REG2023238,2,Microbiology,70
+REG2023238,2,Bioinformatics,72
+REG2023238,3,Biochemistry,63
+REG2023238,3,Genetics,86
+REG2023238,3,Cell Biology,67
+REG2023238,3,Microbiology,61
+REG2023238,3,Bioinformatics,97
+REG2023238,4,Biochemistry,93
+REG2023238,4,Genetics,62
+REG2023238,4,Cell Biology,81
+REG2023238,4,Microbiology,97
+REG2023238,4,Bioinformatics,62
+REG2023239,1,Structural Analysis,65
+REG2023239,1,Geotechnical Engineering,97
+REG2023239,1,Transportation Engineering,65
+REG2023239,1,Hydrology,66
+REG2023239,1,Surveying,63
+REG2023239,2,Structural Analysis,64
+REG2023239,2,Geotechnical Engineering,62
+REG2023239,2,Transportation Engineering,65
+REG2023239,2,Hydrology,89
+REG2023239,2,Surveying,72
+REG2023239,3,Structural Analysis,59
+REG2023239,3,Geotechnical Engineering,99
+REG2023239,3,Transportation Engineering,56
+REG2023239,3,Hydrology,57
+REG2023239,3,Surveying,55
+REG2023239,4,Structural Analysis,93
+REG2023239,4,Geotechnical Engineering,92
+REG2023239,4,Transportation Engineering,81
+REG2023239,4,Hydrology,89
+REG2023239,4,Surveying,50
+REG2023240,1,Data Structures,98
+REG2023240,1,Algorithms,84
+REG2023240,1,Database Systems,52
+REG2023240,1,Operating Systems,80
+REG2023240,1,Discrete Mathematics,73
+REG2023240,2,Data Structures,89
+REG2023240,2,Algorithms,70
+REG2023240,2,Database Systems,81
+REG2023240,2,Operating Systems,86
+REG2023240,2,Discrete Mathematics,67
+REG2023240,3,Data Structures,81
+REG2023240,3,Algorithms,61
+REG2023240,3,Database Systems,98
+REG2023240,3,Operating Systems,82
+REG2023240,3,Discrete Mathematics,67
+REG2023240,4,Data Structures,75
+REG2023240,4,Algorithms,64
+REG2023240,4,Database Systems,98
+REG2023240,4,Operating Systems,86
+REG2023240,4,Discrete Mathematics,58
+REG2023241,1,Biochemistry,53
+REG2023241,1,Genetics,83
+REG2023241,1,Cell Biology,77
+REG2023241,1,Microbiology,80
+REG2023241,1,Bioinformatics,84
+REG2023241,2,Biochemistry,52
+REG2023241,2,Genetics,82
+REG2023241,2,Cell Biology,72
+REG2023241,2,Microbiology,75
+REG2023241,2,Bioinformatics,93
+REG2023241,3,Biochemistry,99
+REG2023241,3,Genetics,61
+REG2023241,3,Cell Biology,79
+REG2023241,3,Microbiology,57
+REG2023241,3,Bioinformatics,94
+REG2023241,4,Biochemistry,83
+REG2023241,4,Genetics,79
+REG2023241,4,Cell Biology,70
+REG2023241,4,Microbiology,94
+REG2023241,4,Bioinformatics,50
+REG2023242,1,Data Structures,50
+REG2023242,1,Algorithms,93
+REG2023242,1,Database Systems,63
+REG2023242,1,Operating Systems,74
+REG2023242,1,Discrete Mathematics,87
+REG2023242,2,Data Structures,56
+REG2023242,2,Algorithms,70
+REG2023242,2,Database Systems,73
+REG2023242,2,Operating Systems,89
+REG2023242,2,Discrete Mathematics,66
+REG2023242,3,Data Structures,61
+REG2023242,3,Algorithms,85
+REG2023242,3,Database Systems,66
+REG2023242,3,Operating Systems,65
+REG2023242,3,Discrete Mathematics,67
+REG2023242,4,Data Structures,80
+REG2023242,4,Algorithms,89
+REG2023242,4,Database Systems,71
+REG2023242,4,Operating Systems,73
+REG2023242,4,Discrete Mathematics,61
+REG2023243,1,Data Structures,81
+REG2023243,1,Algorithms,77
+REG2023243,1,Database Systems,63
+REG2023243,1,Operating Systems,76
+REG2023243,1,Discrete Mathematics,94
+REG2023243,2,Data Structures,98
+REG2023243,2,Algorithms,73
+REG2023243,2,Database Systems,73
+REG2023243,2,Operating Systems,75
+REG2023243,2,Discrete Mathematics,67
+REG2023243,3,Data Structures,78
+REG2023243,3,Algorithms,61
+REG2023243,3,Database Systems,86
+REG2023243,3,Operating Systems,58
+REG2023243,3,Discrete Mathematics,86
+REG2023243,4,Data Structures,93
+REG2023243,4,Algorithms,64
+REG2023243,4,Database Systems,56
+REG2023243,4,Operating Systems,96
+REG2023243,4,Discrete Mathematics,67
+REG2023244,1,Circuit Analysis,65
+REG2023244,1,Digital Electronics,85
+REG2023244,1,Power Systems,77
+REG2023244,1,Control Systems,74
+REG2023244,1,Signals & Systems,62
+REG2023244,2,Circuit Analysis,59
+REG2023244,2,Digital Electronics,97
+REG2023244,2,Power Systems,59
+REG2023244,2,Control Systems,80
+REG2023244,2,Signals & Systems,50
+REG2023244,3,Circuit Analysis,61
+REG2023244,3,Digital Electronics,76
+REG2023244,3,Power Systems,81
+REG2023244,3,Control Systems,58
+REG2023244,3,Signals & Systems,90
+REG2023244,4,Circuit Analysis,83
+REG2023244,4,Digital Electronics,84
+REG2023244,4,Power Systems,96
+REG2023244,4,Control Systems,70
+REG2023244,4,Signals & Systems,100
+REG2023245,1,Biochemistry,81
+REG2023245,1,Genetics,69
+REG2023245,1,Cell Biology,66
+REG2023245,1,Microbiology,85
+REG2023245,1,Bioinformatics,86
+REG2023245,2,Biochemistry,53
+REG2023245,2,Genetics,75
+REG2023245,2,Cell Biology,56
+REG2023245,2,Microbiology,94
+REG2023245,2,Bioinformatics,60
+REG2023245,3,Biochemistry,53
+REG2023245,3,Genetics,63
+REG2023245,3,Cell Biology,66
+REG2023245,3,Microbiology,80
+REG2023245,3,Bioinformatics,90
+REG2023245,4,Biochemistry,56
+REG2023245,4,Genetics,78
+REG2023245,4,Cell Biology,97
+REG2023245,4,Microbiology,71
+REG2023245,4,Bioinformatics,66
+REG2023246,1,Structural Analysis,73
+REG2023246,1,Geotechnical Engineering,73
+REG2023246,1,Transportation Engineering,85
+REG2023246,1,Hydrology,85
+REG2023246,1,Surveying,66
+REG2023246,2,Structural Analysis,72
+REG2023246,2,Geotechnical Engineering,51
+REG2023246,2,Transportation Engineering,76
+REG2023246,2,Hydrology,57
+REG2023246,2,Surveying,72
+REG2023246,3,Structural Analysis,93
+REG2023246,3,Geotechnical Engineering,88
+REG2023246,3,Transportation Engineering,62
+REG2023246,3,Hydrology,86
+REG2023246,3,Surveying,86
+REG2023246,4,Structural Analysis,91
+REG2023246,4,Geotechnical Engineering,91
+REG2023246,4,Transportation Engineering,84
+REG2023246,4,Hydrology,61
+REG2023246,4,Surveying,99
+REG2023247,1,Data Structures,68
+REG2023247,1,Algorithms,72
+REG2023247,1,Database Systems,70
+REG2023247,1,Operating Systems,93
+REG2023247,1,Discrete Mathematics,82
+REG2023247,2,Data Structures,81
+REG2023247,2,Algorithms,99
+REG2023247,2,Database Systems,97
+REG2023247,2,Operating Systems,78
+REG2023247,2,Discrete Mathematics,55
+REG2023247,3,Data Structures,74
+REG2023247,3,Algorithms,89
+REG2023247,3,Database Systems,68
+REG2023247,3,Operating Systems,79
+REG2023247,3,Discrete Mathematics,90
+REG2023247,4,Data Structures,59
+REG2023247,4,Algorithms,60
+REG2023247,4,Database Systems,90
+REG2023247,4,Operating Systems,71
+REG2023247,4,Discrete Mathematics,76
+REG2023248,1,Biochemistry,90
+REG2023248,1,Genetics,89
+REG2023248,1,Cell Biology,86
+REG2023248,1,Microbiology,75
+REG2023248,1,Bioinformatics,54
+REG2023248,2,Biochemistry,55
+REG2023248,2,Genetics,60
+REG2023248,2,Cell Biology,71
+REG2023248,2,Microbiology,64
+REG2023248,2,Bioinformatics,70
+REG2023248,3,Biochemistry,70
+REG2023248,3,Genetics,91
+REG2023248,3,Cell Biology,68
+REG2023248,3,Microbiology,95
+REG2023248,3,Bioinformatics,67
+REG2023248,4,Biochemistry,88
+REG2023248,4,Genetics,91
+REG2023248,4,Cell Biology,75
+REG2023248,4,Microbiology,67
+REG2023248,4,Bioinformatics,78
+REG2023249,1,Data Structures,99
+REG2023249,1,Algorithms,73
+REG2023249,1,Database Systems,97
+REG2023249,1,Operating Systems,87
+REG2023249,1,Discrete Mathematics,83
+REG2023249,2,Data Structures,78
+REG2023249,2,Algorithms,76
+REG2023249,2,Database Systems,60
+REG2023249,2,Operating Systems,61
+REG2023249,2,Discrete Mathematics,51
+REG2023249,3,Data Structures,58
+REG2023249,3,Algorithms,96
+REG2023249,3,Database Systems,65
+REG2023249,3,Operating Systems,92
+REG2023249,3,Discrete Mathematics,66
+REG2023249,4,Data Structures,97
+REG2023249,4,Algorithms,94
+REG2023249,4,Database Systems,97
+REG2023249,4,Operating Systems,55
+REG2023249,4,Discrete Mathematics,63
+REG2023250,1,Thermodynamics,60
+REG2023250,1,Fluid Mechanics,75
+REG2023250,1,Machine Design,56
+REG2023250,1,Material Science,56
+REG2023250,1,Robotics,54
+REG2023250,2,Thermodynamics,80
+REG2023250,2,Fluid Mechanics,85
+REG2023250,2,Machine Design,53
+REG2023250,2,Material Science,51
+REG2023250,2,Robotics,99
+REG2023250,3,Thermodynamics,75
+REG2023250,3,Fluid Mechanics,83
+REG2023250,3,Machine Design,98
+REG2023250,3,Material Science,55
+REG2023250,3,Robotics,56
+REG2023250,4,Thermodynamics,66
+REG2023250,4,Fluid Mechanics,89
+REG2023250,4,Machine Design,59
+REG2023250,4,Material Science,55
+REG2023250,4,Robotics,91
